@@ -1,0 +1,9 @@
+安裝 claude code：
+npm install -g @anthropic-ai/claude-code
+
+YOLO login
+claude --dangerously-skip-permissions
+
+
+rusv lrju nfiz cbtz
+

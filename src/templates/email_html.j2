@@ -35,8 +35,8 @@
   <div style="margin-top:24px;">
     <h2 style="font-size:18px;border-bottom:2px solid #1A2B3C;padding-bottom:6px;">{{ section.category_display }}</h2>
 
-    {% if section.items %}
-      {% for item in section.items %}
+    {% if section['items'] %}
+      {% for item in section['items'] %}
       <details style="margin:12px 0;background:#fff;padding:14px 18px;border-radius:10px;{% if item.priority == 'high' %}border-left:4px solid #E63946;{% else %}border-left:4px solid #1A2B3C;{% endif %}">
         <summary style="cursor:pointer;font-weight:600;font-size:15px;list-style:none;">
           {% if item.priority == 'high' %}<span style="background:#E63946;color:#fff;font-size:11px;padding:2px 6px;border-radius:4px;margin-right:6px;">重點</span>{% endif %}

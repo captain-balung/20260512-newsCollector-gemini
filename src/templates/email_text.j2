@@ -11,7 +11,7 @@
 -----------------------------------------
 {{ section.category_display }}
 -----------------------------------------
-{% if section.items %}{% for item in section.items %}
+{% if section['items'] %}{% for item in section['items'] %}
 {% if item.priority == 'high' %}★ [重點] {% endif %}{{ item.title }}
 
 摘要: {{ item.core_summary }}

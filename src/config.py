@@ -61,12 +61,12 @@ RSS_SOURCES: tuple[dict, ...] = (
     {"name": "Google The Keyword", "url": "https://blog.google/rss/", "weight": 1.0},
     {"name": "Google Developers Blog", "url": "https://developers.googleblog.com/feeds/posts/default", "weight": 1.0},
     {"name": "OpenAI Blog", "url": "https://openai.com/blog/rss.xml", "weight": 1.0},
-    {"name": "Anthropic News", "url": "https://www.anthropic.com/news/rss.xml", "weight": 1.0},
+    {"name": "Anthropic News", "url": "https://www.anthropic.com/news/feed.xml", "weight": 1.0},
     {"name": "Hugging Face Blog", "url": "https://huggingface.co/blog/feed.xml", "weight": 0.9},
     # 教育科技
     {"name": "EdSurge", "url": "https://www.edsurge.com/articles_rss", "weight": 0.8},
     # 台灣
-    {"name": "國科會 NSTC 最新消息", "url": "https://www.nstc.gov.tw/rss/most/ch/realtimenews", "weight": 1.2},
+    {"name": "iThome AI 新聞", "url": "https://www.ithome.com.tw/rss/tagged/ai", "weight": 1.2},
 )
 
 
@@ -89,7 +89,7 @@ class Settings:
 def load_settings() -> Settings:
     return Settings(
         gemini_api_key=os.getenv("GEMINI_API_KEY", ""),
-        gemini_model=os.getenv("GEMINI_MODEL", "gemini-2.5-pro"),
+        gemini_model=os.getenv("GEMINI_MODEL", "gemini-2.5-flash"),
         smtp_user=os.getenv("SMTP_USER", ""),
         smtp_password=os.getenv("SMTP_PASSWORD", ""),
         email_recipient=os.getenv("EMAIL_RECIPIENT", "captain.balung@gmail.com"),
