@@ -1,0 +1,67 @@
+name: Daily AI Insights
+
+on:
+  schedule:
+    # 每日 09:00 UTC+8 = 01:00 UTC
+    - cron: '0 1 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run daily collector
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: ${{ vars.GEMINI_MODEL || 'gemini-2.5-pro' }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          EMAIL_RECIPIENT: ${{ vars.EMAIL_RECIPIENT || 'captain.balung@gmail.com' }}
+          EMAIL_SENDER_NAME: ${{ vars.EMAIL_SENDER_NAME || 'Daily AI Insights' }}
+          GITHUB_PAGES_URL: ${{ vars.GITHUB_PAGES_URL }}
+          MAX_GEMINI_CALLS: ${{ vars.MAX_GEMINI_CALLS || '50' }}
+          MAX_TOKENS: ${{ vars.MAX_TOKENS || '200000' }}
+        run: python -m src.collect
+
+      - name: Commit & push generated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/ docs/data/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "data: daily report $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: Open issue on failure
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const today = new Date().toISOString().slice(0, 10);
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `[Daily Collector] 執行失敗 ${today}`,
+              body: `Workflow run failed: ${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}\n\n請檢查 logs 與 secrets 設定。`,
+              labels: ['bug', 'automation']
+            });
