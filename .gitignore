@@ -15,3 +15,10 @@ env/
 
 dist/
 build/
+
+# 本機暫存(截圖、捷徑、臨時筆記)
+*.png
+*.jpg
+*.jpeg
+*.lnk
+新增*.txt
