@@ -1,0 +1,55 @@
+{
+  "date": "2026-05-20",
+  "generated_at": "2026-05-20T13:01:30+08:00",
+  "model_version": "gemini-2.5-flash",
+  "dashboard": {
+    "QQQ": "-0.62%",
+    "GOOGL": "-2.34%",
+    "AAPL": "+0.38%",
+    "MSFT": "-1.44%",
+    "NVDA": "-0.77%",
+    "META": "-1.41%"
+  },
+  "sections": [
+    {
+      "category_id": "giants_market",
+      "category_display": "🏢 巨頭動向與市場脈動",
+      "items": [],
+      "fallback_note": "本日各大 AI 巨頭無重大公開動態,可關注下週財報季與模型發布節奏。"
+    },
+    {
+      "category_id": "dev_tools_agents",
+      "category_display": "🛠️ 開發者工具與 AI 代理",
+      "items": [],
+      "fallback_note": "本日開發者生態無新工具突破,Agent 框架仍在 MCP 與長上下文上演進。"
+    },
+    {
+      "category_id": "generative_media",
+      "category_display": "🎵 生成式多媒體與創作",
+      "items": [],
+      "fallback_note": "本日生成式多媒體領域無重大發表,Veo/Sora 競爭仍在白熱化階段。"
+    },
+    {
+      "category_id": "edtech_applications",
+      "category_display": "📚 教育科技與應用創新",
+      "items": [],
+      "fallback_note": "本日教育科技無新政策或產品上線,K-12 與大專端持續整合 AI 助教。"
+    },
+    {
+      "category_id": "infra_opensource",
+      "category_display": "🧠 底層架構與開源模型",
+      "items": [],
+      "fallback_note": "本日開源社群無重大模型釋出,Hugging Face 仍以 Embedding 與小型語言模型為主流。"
+    },
+    {
+      "category_id": "law_ethics_society",
+      "category_display": "⚖️ 法律倫理與社會衝擊",
+      "items": [],
+      "fallback_note": "本日法律倫理面無新監管動態,歐盟 AI Act 與美國各州立法仍在落地中。"
+    }
+  ],
+  "anomalies": {
+    "skipped_sources": [],
+    "notes": ""
+  }
+}
