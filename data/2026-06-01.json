@@ -1,0 +1,272 @@
+{
+  "date": "2026-06-01",
+  "generated_at": "2026-06-01T13:58:06+08:00",
+  "model_version": "gemini-2.5-flash",
+  "dashboard": {
+    "QQQ": "+0.37%",
+    "GOOGL": "-2.51%",
+    "AAPL": "Stable",
+    "MSFT": "+5.45%",
+    "NVDA": "-1.45%",
+    "META": "-0.44%"
+  },
+  "sections": [
+    {
+      "category_id": "giants_market",
+      "category_display": "🏢 巨頭動向與市場脈動",
+      "items": [
+        {
+          "title": "BlackBerry憑QNX系統成功轉型，搶攻實體AI與機器人市場",
+          "core_summary": "曾經的智慧型手機巨頭BlackBerry，近年藉由其即時作業系統QNX，成功切入實體AI與機器人領域。此轉型使其股價在三個月內大漲160%，重獲投資人青睞。",
+          "expert_insight": "金融市場：BlackBerry的成功轉型案例，顯示了老牌科技公司若能精準把握新興技術趨勢並有效利用核心資產，仍能在市場中創造巨大價值，值得投資人與企業借鏡。",
+          "source_url": "https://www.ithome.com.tw/news/176258",
+          "tags": [
+            "BlackBerry",
+            "QNX",
+            "實體AI",
+            "機器人",
+            "企業轉型"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "GitHub Copilot改採Token計價引爆用戶怒火，費用恐暴增數十倍",
+          "core_summary": "GitHub宣布其AI程式輔助工具Copilot將從固定月費改為基於Token用量的計價模式。此變革引發大量開發者不滿，抱怨新制將導致帳單費用大幅增加。",
+          "expert_insight": "金融市場：此計價模式調整反映AI服務運算成本高昂，企業面臨營收與用戶體驗的平衡挑戰。若用戶大量流失，恐影響其在開發者工具市場的領導地位。",
+          "source_url": "https://www.ithome.com.tw/news/176261",
+          "tags": [
+            "GitHub Copilot",
+            "計價模式",
+            "AI服務",
+            "開發者工具"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "台積電2025年報揭露營運韌性框架，強化危機管理引領半導體產業",
+          "core_summary": "全球半導體龍頭台積電於最新2025年報中，詳細揭露其營運持續管理（BCM）與危機管理（CM）的整合架構。此舉不僅彰顯台積電對風險治理的重視，也為全球企業提供借鏡。",
+          "expert_insight": "金融市場：作為全球經濟關鍵供應鏈的一環，台積電強化營運韌性與風險管理，有助於穩定投資者信心，並降低全球半導體供應鏈斷裂的風險。",
+          "source_url": "https://www.ithome.com.tw/news/176254",
+          "tags": [
+            "台積電",
+            "營運韌性",
+            "危機管理",
+            "半導體"
+          ],
+          "priority": "high"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "dev_tools_agents",
+      "category_display": "🛠️ 開發者工具與 AI 代理",
+      "items": [
+        {
+          "title": "Mistral AI助理更名Vibe，新增智慧工作與程式代理人功能",
+          "core_summary": "法國AI新創Mistral AI將其聊天機器人Le Chat更名為Vibe，並強化其功能。新版本引入了工作和程式代理人模式，賦予其在用戶電腦上自主執行複雜任務的能力。",
+          "expert_insight": "媒體設計：AI代理人從被動助理轉為主動執行者，其介面設計與互動邏輯將是關鍵，需更直觀地管理代理人權限與任務進度，確保用戶體驗流暢與信任。",
+          "source_url": "https://www.ithome.com.tw/news/176252",
+          "tags": [
+            "Mistral AI",
+            "AI代理人",
+            "開發者工具",
+            "自動化"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "AI代理人崛起引發新型資安威脅，企業非人類身分管理成隱憂",
+          "core_summary": "隨著AI代理人與非人類身分在企業環境中激增，其擁有的高度權限卻缺乏有效監管，正成為潛在的重大資安漏洞。企業過去的人類帳號防護措施已不足以應對此新挑戰。",
+          "expert_insight": "金融市場：AI代理人帶來的資安風險，將直接影響企業的資料安全與合規成本。金融機構尤需高度重視，以免資料外洩引發鉅額罰款與商譽損失。",
+          "source_url": "https://www.ithome.com.tw/article/174569",
+          "tags": [
+            "AI代理人",
+            "資安威脅",
+            "非人類身分",
+            "企業資安"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Asana併購StackAI強化企業AI代理人應用，提升工作流程自動化",
+          "core_summary": "企業工作管理平台Asana宣布收購AI工作流程自動化公司StackAI，旨在擴大AI代理人在企業系統中的應用範圍。此收購將強化Asana在企業級AI自動化解決方案的能力。",
+          "expert_insight": "金融市場：此併購案顯示企業級軟體市場對AI代理人解決方案的需求日益增長。未來，此類技術整合將成為提升企業營運效率與競爭力的關鍵投資方向。",
+          "source_url": "https://www.ithome.com.tw/news/176262",
+          "tags": [
+            "Asana",
+            "StackAI",
+            "AI代理人",
+            "企業應用",
+            "併購"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "generative_media",
+      "category_display": "🎵 生成式多媒體與創作",
+      "items": [
+        {
+          "title": "開源工具MoneyPrinterTurbo，一鍵利用AI大模型生成高清短視頻",
+          "core_summary": "GitHub上出現一款名為MoneyPrinterTurbo的開源工具，能利用AI大模型快速生成高清短視頻。這項技術大幅降低了影音內容創作的門檻。",
+          "expert_insight": "媒體設計：此工具將徹底改變短影音內容的生產流程，降低創作者門檻，但也可能引發內容品質參差不齊或大量「農場內容」的挑戰，影響平台內容生態。",
+          "source_url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "tags": [
+            "短視頻生成",
+            "AI大模型",
+            "影音創作",
+            "開源工具"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "edtech_applications",
+      "category_display": "📚 教育科技與應用創新",
+      "items": [
+        {
+          "title": "Linux基金會發布資安技能框架，助企業培育關鍵資安人才",
+          "core_summary": "Linux基金會與OpenSSF共同發布網路安全技能框架，旨在協助企業明確定義IT職位的資安能力需求。此框架有助於解決資安人才短缺及能力標準不明的問題。",
+          "expert_insight": "教育科技：此技能框架為資安教育與培訓提供了明確指引，學校和培訓機構可依此更新課程內容，有效培養符合產業需求的資安專業人才。",
+          "source_url": "https://www.ithome.com.tw/news/176245",
+          "tags": [
+            "資安技能",
+            "人才培育",
+            "Linux基金會",
+            "職業標準"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "歐盟推動數位主權，Euro-Office 1.0版生產力套件即將上線",
+          "core_summary": "為回應數位主權倡議，由歐洲企業與組織共同開發的生產力套件Euro-Office將於6月9日推出1.0版。此軟體旨在提供能與微軟產品相容且由歐洲主導的替代方案。",
+          "expert_insight": "教育科技：Euro-Office的推出為歐洲教育機構提供了擺脫對非歐洲軟體依賴的機會。其開源性質與本地化支援，有望成為學校與師生實踐數位主權的教育工具。",
+          "source_url": "https://www.ithome.com.tw/news/176251",
+          "tags": [
+            "歐盟",
+            "數位主權",
+            "生產力軟體",
+            "教育應用"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "GitHub熱門課程引導開發者掌握生產級AI代理人RAG應用",
+          "core_summary": "一個名為\"production-agentic-rag-course\"的GitHub專案在趨勢榜上受到關注，它提供關於如何開發生產級（Production-ready）AI代理人檢索增強生成（RAG）系統的完整課程。",
+          "expert_insight": "教育科技：這類實用導向的開源課程，對於培養AI時代的開發者至關重要。它能讓學習者直接接觸業界最新技術，加速AI人才的育成與應用落地。",
+          "source_url": "https://github.com/jamwithai/production-agentic-rag-course",
+          "tags": [
+            "AI代理人",
+            "RAG",
+            "機器學習",
+            "開源課程"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "infra_opensource",
+      "category_display": "🧠 底層架構與開源模型",
+      "items": [
+        {
+          "title": "NVIDIA發布首個開放全能模型Cosmos 3，強化實體AI推理與行動",
+          "core_summary": "NVIDIA推出其首個開放的多模態模型Cosmos 3，旨在提升實體AI的推理與行動能力。此模型是為推動機器人與具身AI的發展而設計。",
+          "expert_insight": "金融市場：NVIDIA持續強化其AI生態系統的策略，透過釋出開放模型，鞏固其在AI硬體與軟體領域的領導地位，為未來實體AI市場的爆發式成長奠定基礎。",
+          "source_url": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+          "tags": [
+            "NVIDIA",
+            "Cosmos 3",
+            "實體AI",
+            "開放模型",
+            "多模態"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "開源平台Stable Worldmodel，推動可重現的AI世界模型研究",
+          "core_summary": "Stable Worldmodel是一個GitHub開源專案，旨在提供一個平台，讓研究者能進行可重複驗證的AI世界模型研究與評估，加速此領域的進展。",
+          "expert_insight": "教育科技：此開源平台對於學術界與研究機構極具價值，能促進AI模型研究的標準化與協作，提升科研效率，並可作為高級AI課程的實作平台。",
+          "source_url": "https://github.com/galilai-group/stable-worldmodel",
+          "tags": [
+            "世界模型",
+            "開源研究",
+            "AI模型",
+            "研究平台"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Supermemory：為AI時代打造的超快速可擴展記憶體引擎與API",
+          "core_summary": "Supermemory是一個專為AI時代設計的記憶體引擎及應用程式，提供極致的速度和可擴展性，作為AI應用程式的核心記憶體API。",
+          "expert_insight": "開發者工具：此類高效能記憶體解決方案對AI應用效能至關重要，能顯著提升AI代理人與大型語言模型的反應速度與處理複雜任務的能力。",
+          "source_url": "https://github.com/supermemoryai/supermemory",
+          "tags": [
+            "AI記憶體",
+            "記憶體引擎",
+            "API",
+            "效能優化"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "law_ethics_society",
+      "category_display": "⚖️ 法律倫理與社會衝擊",
+      "items": [
+        {
+          "title": "台灣資安院2.0轉型，院長林盈達將以AI築國家數位長城",
+          "core_summary": "國家資通安全研究院正邁向「資安院2.0」轉型，新任院長林盈達致力於重新定義國家級資安機構的角色，將AI技術融入資安防護，推動跨部會與產業協作，以建構更強大的國家資安防線。",
+          "expert_insight": "金融市場：台灣政府透過AI強化國家級資安防禦，將有助於提升關鍵基礎設施的韌性，保障數位經濟穩定運作，進而增強國際投資者對台灣市場的信心。",
+          "source_url": "https://www.ithome.com.tw/news/175244",
+          "tags": [
+            "台灣資安",
+            "國家安全",
+            "AI防禦",
+            "資安院"
+          ],
+          "priority": "high"
+        },
+        {
+          "title": "數位部部長：台灣是全球資安「蜜罐」前哨站，每日數百萬次駭客攻擊成常態",
+          "core_summary": "數位發展部部長林宜敬指出，台灣因其地緣政治角色，每日遭受超過260萬次駭客攻擊，已成為自由民主世界的「資安蜜罐」與前哨站，資安戰略地位舉足輕重。",
+          "expert_insight": "金融市場：台灣所面臨的嚴峻資安挑戰，突顯企業在台營運須高度重視資安投資。同時，台灣積極打造民主供應鏈的努力，亦可能為相關資安產業帶來新的國際合作商機。",
+          "source_url": "https://www.ithome.com.tw/article/175242",
+          "tags": [
+            "台灣資安",
+            "地緣政治",
+            "駭客攻擊",
+            "數位發展部"
+          ],
+          "priority": "high"
+        },
+        {
+          "title": "駭客利用AI聊天機器人偽裝工具，發動針對性挖礦攻擊",
+          "core_summary": "駭客改變以往廣撒網的攻擊模式，轉而利用AI聊天機器人與假冒的系統工具接觸受害者。其目標是精準鎖定具備高運算能力的電腦，發動高收益的加密貨幣挖礦攻擊。",
+          "expert_insight": "媒體設計：此案例顯示AI聊天機器人可能被惡意利用於社會工程攻擊，使用者需提高警覺，辨識AI生成的詐騙內容。媒體應加強宣導數位識讀，降低民眾受害風險。",
+          "source_url": "https://www.ithome.com.tw/news/176246",
+          "tags": [
+            "駭客攻擊",
+            "AI濫用",
+            "挖礦攻擊",
+            "網路詐騙"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    }
+  ],
+  "anomalies": {
+    "skipped_sources": [],
+    "notes": ""
+  }
+}
