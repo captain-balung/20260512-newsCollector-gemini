@@ -1,0 +1,243 @@
+{
+  "date": "2026-06-20",
+  "generated_at": "2026-06-20T13:08:41+08:00",
+  "model_version": "gemini-2.5-flash",
+  "dashboard": {
+    "QQQ": "+2.51%",
+    "GOOGL": "+1.17%",
+    "AAPL": "+0.70%",
+    "MSFT": "Stable",
+    "NVDA": "+2.95%",
+    "META": "+1.70%"
+  },
+  "sections": [
+    {
+      "category_id": "giants_market",
+      "category_display": "🏢 巨頭動向與市場脈動",
+      "items": [
+        {
+          "title": "蘋果應巴西監管要求開放第三方App市集與支付選項",
+          "core_summary": "蘋果宣佈將在巴西開放第三方App應用程式商店，並允許開發者使用Apple In-App Purchase以外的支付方式。此舉是為遵守巴西競爭監管機構協議，延續其在歐盟數位市場法後的生態系調整。",
+          "expert_insight": "金融市場：此舉將衝擊蘋果在巴西的App Store收入模式與支付生態系，為開發者帶來更多選擇與競爭，可能影響其全球營收策略。媒體設計：對應用程式開發者而言，更多分發與支付管道意味著更廣闊的設計自由與商業模式創新機會。",
+          "source_url": "https://www.ithome.com.tw/news/176737",
+          "tags": [
+            "蘋果",
+            "第三方市集",
+            "應用程式商店",
+            "支付"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Alphabet旗下SandboxAQ獲美政府5億美元，以AI加速半導體材料創新",
+          "core_summary": "Alphabet分拆出的SandboxAQ公司，獲得美國商務部晶片研發辦公室5億美元合約，將運用AI技術開發半導體製造所需的新型分子與材料配方。此資助旨在強化美國在晶片生產上的自主權，減少對他國的依賴。",
+          "expert_insight": "金融市場：政府對關鍵技術的巨額投資，預示半導體產業將迎來AI驅動的材料創新競賽，影響全球供應鏈與市場競爭格局。教育科技：AI在科學研究與材料探索上的應用潛力巨大，將加速新世代技術的突破，對未來科學教育與人才培養帶來啟示。",
+          "source_url": "https://www.ithome.com.tw/news/176741",
+          "tags": [
+            "半導體",
+            "AI材料",
+            "政府資助",
+            "晶片自主"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "dev_tools_agents",
+      "category_display": "🛠️ 開發者工具與 AI 代理",
+      "items": [
+        {
+          "title": "Vercel推出Workflow SDK，助力開發者打造可靠AI代理應用",
+          "core_summary": "Vercel發布Workflow SDK，這是一個讓開發者能以TypeScript建構持久、可靠且可觀測應用程式與AI代理的工具。它強調了在開發複雜AI系統時，流程管理與穩定性的重要性。",
+          "expert_insight": "媒體設計：對於需要複雜邏輯和多步驟交互的AI代理設計而言，Workflow SDK提供了強大的底層支持，讓設計師和開發者能專注於用戶體驗與創新功能，而無需過度擔憂系統可靠性。",
+          "source_url": "https://github.com/vercel/workflow",
+          "tags": [
+            "AI代理",
+            "開發工具",
+            "TypeScript",
+            "Workflow"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "字節跳動開源UI-TARS桌面版，建構多模態AI代理堆棧",
+          "core_summary": "字節跳動開源了UI-TARS桌面版，這是一個旨在連接前沿AI模型與代理基礎設施的多模態AI代理堆棧。它為開發者提供了一個整合不同AI能力、打造具備多模態互動的AI代理的開源框架。",
+          "expert_insight": "媒體設計：多模態AI代理是未來人機互動的關鍵，UI-TARS的開源將加速其在不同應用場景的普及，特別是在需要視覺與聽覺等多感官互動的媒體內容生成與消費體驗上。",
+          "source_url": "https://github.com/bytedance/UI-TARS-desktop",
+          "tags": [
+            "AI代理",
+            "多模態",
+            "開源",
+            "字節跳動"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "開源AI科學家技能庫，讓AI代理變身科研助手",
+          "core_summary": "K-Dense-AI推出開源的「AI科學家技能庫」，包含140項即用技能及涵蓋生物、化學、醫藥、藥物發現等100多個科學資料庫。該工具能將任何AI代理轉化為AI科學家，已被全球超過16萬科學家使用。",
+          "expert_insight": "教育科技：這套技能庫極大地拓展了AI在科研教育和輔助研究中的潛力，學生和研究人員可利用AI代理加速文獻檢索、數據分析與實驗設計，提升學習與研究效率。",
+          "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+          "tags": [
+            "AI科學家",
+            "科研",
+            "AI代理技能",
+            "開源"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "generative_media",
+      "category_display": "🎵 生成式多媒體與創作",
+      "items": [
+        {
+          "title": "全球首座AI藝術博物館Dataland在洛杉磯開幕，由Google技術支持",
+          "core_summary": "由Google雲端與AI技術及資金支持的全球首座AI藝術博物館Dataland，於6月20日在洛杉磯正式開幕。這標誌著AI藝術從數位領域走向實體展示的里程碑。",
+          "expert_insight": "媒體設計：Dataland的成立將加速AI藝術的公眾普及與接受度，為媒體藝術家提供新的創作與展示平台，同時也考驗著藝術策展人如何透過AI技術創造沉浸式與互動式的觀展體驗。",
+          "source_url": "https://www.ithome.com.tw/news/176742",
+          "tags": [
+            "AI藝術",
+            "博物館",
+            "Google",
+            "生成藝術"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Lightricks開源LTX-2，創新音訊與視訊生成模型",
+          "core_summary": "Lightricks發布了LTX-2的官方Python推論與LoRA訓練器套件，這是一個先進的音訊－視訊生成模型。它提供強大的工具，讓開發者和創作者能更高效地生成高品質的影音內容。",
+          "expert_insight": "媒體設計：LTX-2的開源為音訊與視訊內容創作者帶來革命性工具，降低影音生成門檻，加速個性化內容的生產，尤其對社群媒體、廣告與娛樂產業有深遠影響。",
+          "source_url": "https://github.com/Lightricks/LTX-2",
+          "tags": [
+            "影音生成",
+            "多模態AI",
+            "開源模型",
+            "媒體創作"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "OpenMontage開源，打造全球首個AI代理式視訊製作系統",
+          "core_summary": "OpenMontage發布，號稱是全球首個開源、代理式視訊製作系統，內含12個管線、52個工具及500多種代理技能。它能將AI編程助手轉變為完整的視訊製作工作室，大幅提升視訊創作效率。",
+          "expert_insight": "媒體設計：OpenMontage的出現預示著影視製作流程的自動化與智能化趨勢，讓個人創作者也能藉由AI代理，實現專業級的視訊內容生產，開啟全新的數位內容創作時代。",
+          "source_url": "https://github.com/calesthio/OpenMontage",
+          "tags": [
+            "視訊製作",
+            "AI代理",
+            "開源系統",
+            "內容創作"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "edtech_applications",
+      "category_display": "📚 教育科技與應用創新",
+      "items": [
+        {
+          "title": "挪威實施小學AI使用禁令，引發教育界深思",
+          "core_summary": "挪威政府宣布在小學實施AI近乎全面禁令，此舉反映了各國對於AI在基礎教育中應扮演角色的謹慎態度。該禁令旨在保護兒童的學習發展，避免過度依賴AI。",
+          "expert_insight": "教育科技：此政策顯示政府對AI導入教育的保守與審慎，提醒教育科技開發者需更關注兒童認知發展與倫理議題，並推動負責任的AI應用。",
+          "source_url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+          "tags": [
+            "AI教育",
+            "兒童學習",
+            "教育政策",
+            "挪威"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "AI工程師宣稱破解線形文字A，重塑古文明研究",
+          "core_summary": "一位AI工程師宣稱已利用AI技術成功破解古老且未解的米諾斯文明線形文字A。若此突破獲得證實，將對考古學、語言學與歷史研究產生深遠影響，開啟探索古文明的新篇章。",
+          "expert_insight": "教育科技：此案例展現AI在人文學科研究的巨大潛力，可作為未來歷史、語言學習與研究的創新工具，引導學生利用AI進行跨學科探索。",
+          "source_url": "https://aiclambake.com/clamtakes/linear-a/",
+          "tags": [
+            "AI解碼",
+            "線形文字A",
+            "考古學",
+            "歷史研究"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "infra_opensource",
+      "category_display": "🧠 底層架構與開源模型",
+      "items": [
+        {
+          "title": "Node.js緊急修補12個安全漏洞，確保基礎運行環境穩定",
+          "core_summary": "開放原始碼JavaScript運行環境Node.js發布安全更新，修復了12個漏洞，其中包括兩個高風險漏洞。受影響版本為Node.js 22、24、26，開發團隊已釋出修補版本。",
+          "expert_insight": "金融市場：Node.js作為許多企業應用程式的基礎，其安全性直接影響系統穩定與數據安全，金融機構需密切關注並及時更新，以避免潛在的資訊安全風險與營運中斷。",
+          "source_url": "https://www.ithome.com.tw/news/176743",
+          "tags": [
+            "Node.js",
+            "安全漏洞",
+            "開源軟體",
+            "JavaScript"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "HippoRAG問世，結合知識圖譜與PageRank強化RAG框架",
+          "core_summary": "[NeurIPS'24] HippoRAG是一個新穎的RAG（檢索增強生成）框架，受人類長期記憶啟發，使大型語言模型能持續整合外部文件知識。它結合了RAG、知識圖譜和個性化PageRank技術。",
+          "expert_insight": "教育科技：HippoRAG的創新將顯著提升LLM在學習與研究場景中的知識整合能力，學生和研究者可期待AI在處理複雜、多源資訊時提供更精確與全面的回答。",
+          "source_url": "https://github.com/OSU-NLP-Group/HippoRAG",
+          "tags": [
+            "RAG",
+            "知識圖譜",
+            "LLM",
+            "開源框架"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Google開源TimesFM：時間序列預測的基礎模型",
+          "core_summary": "Google Research開發並開源了TimesFM (Time Series Foundation Model)，這是一個用於時間序列預測的預訓練基礎模型。它旨在提供更高效、更準確的時間序列分析能力。",
+          "expert_insight": "金融市場：TimesFM的開源對金融數據分析具有重大意義。它能提升股市預測、風險評估與經濟指標分析的精準度與效率，為量化交易和投資決策提供更強大的AI支持。",
+          "source_url": "https://github.com/google-research/timesfm",
+          "tags": [
+            "時間序列",
+            "預測模型",
+            "Google Research",
+            "開源"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "law_ethics_society",
+      "category_display": "⚖️ 法律倫理與社會衝擊",
+      "items": [
+        {
+          "title": "研究警示：AI可能損害人類技能，早期結果不容樂觀",
+          "core_summary": "一項研究指出，AI的普及正在對人類技能產生負面影響，早期數據顯示結果並不樂觀。這引發了社會對AI過度依賴可能導致技能退化的深切擔憂。",
+          "expert_insight": "教育科技：這項研究對教育界發出警訊，提醒我們在推動AI工具的同時，必須重新思考教育目標，強化批判性思維、問題解決等AI難以取代的核心技能，避免學生過度依賴。",
+          "source_url": "https://www.nature.com/articles/d41586-026-01947-1",
+          "tags": [
+            "AI影響",
+            "技能退化",
+            "社會衝擊",
+            "勞動市場"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    }
+  ],
+  "anomalies": {
+    "skipped_sources": [],
+    "notes": ""
+  }
+}
