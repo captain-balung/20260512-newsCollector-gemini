@@ -1,0 +1,277 @@
+{
+  "date": "2026-06-25",
+  "generated_at": "2026-06-25T13:01:17+08:00",
+  "model_version": "gemini-2.5-flash",
+  "dashboard": {
+    "QQQ": "-0.42%",
+    "GOOGL": "Stable",
+    "AAPL": "-0.41%",
+    "MSFT": "-2.27%",
+    "NVDA": "-0.52%",
+    "META": "-0.81%"
+  },
+  "sections": [
+    {
+      "category_id": "giants_market",
+      "category_display": "🏢 巨頭動向與市場脈動",
+      "items": [
+        {
+          "title": "OpenAI攜手博通推出自研AI推論晶片，劍指雲端部署效益",
+          "core_summary": "OpenAI與博通（Broadcom）合作發表首款自研AI推論晶片Jalapeño，預計2026年底部署。此舉將使其成為繼Google、AWS、微軟之後，加入自研AI晶片行列的科技巨頭，旨在提升模型推論效能及成本效益。",
+          "expert_insight": "從金融市場角度看，OpenAI自研晶片旨在降低對外部供應商的依賴，並優化其LLM運營成本，這將對AI晶片市場格局和OpenAI的長期獲利能力產生重大影響。",
+          "source_url": "https://www.ithome.com.tw/news/176868",
+          "tags": [
+            "晶片研發",
+            "OpenAI",
+            "博通"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Anthropic控告阿里巴巴違規提取Claude模型能力，掀AI智慧財產權戰火",
+          "core_summary": "AI巨頭Anthropic指控阿里巴巴在未經授權下，違法提取其Claude AI模型的核心功能。此事件凸顯了AI模型智慧財產權保護的複雜性與重要性，恐將引發業界對AI技術授權與合規的更深層次探討。",
+          "expert_insight": "媒體設計與內容產業高度仰賴AI模型，此事件敲響了警鐘，提醒內容創作者與平台應更加重視AI模型的授權範圍與數據使用規範，避免潛在的法律風險。",
+          "source_url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+          "tags": [
+            "AI智財權",
+            "模型剽竊",
+            "Anthropic"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "高通宣布收購AI新創Modular，加速邊緣AI開發與部署",
+          "core_summary": "高通（Qualcomm）宣布收購AI軟體新創公司Modular，旨在將其在AI模型開發與部署方面的技術整合進高通的硬體平台。此次收購將強化高通在邊緣AI領域的軟硬體整合能力，加速AI技術的普及。",
+          "expert_insight": "從金融市場來看，此併購反映了AI晶片大廠對於AI軟體生態系控制力的渴望，高通期望透過軟硬體整合提供更具競爭力的AI解決方案，這對投資者評估其未來成長潛力至關重要。",
+          "source_url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
+          "tags": [
+            "高通",
+            "AI併購",
+            "邊緣AI"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "dev_tools_agents",
+      "category_display": "🛠️ 開發者工具與 AI 代理",
+      "items": [
+        {
+          "title": "AWS Lambda引入MicroVMs強化AI生成程式碼安全性，確保代理沙箱獨立運作",
+          "core_summary": "AWS Lambda服務新增MicroVMs隔離運算資源，提供獨立且具狀態的執行環境。這使得AI生成的程式碼能在安全的沙箱中運行，有效提升AI代理應用的安全性和穩定性。",
+          "expert_insight": "從教育科技角度，安全沙箱環境對於開發AI教育應用至關重要，可避免惡意或不穩定程式碼影響教學系統，鼓勵學生在受控環境中探索AI生成代碼。",
+          "source_url": "https://www.ithome.com.tw/news/176862",
+          "tags": [
+            "AWS Lambda",
+            "AI代理",
+            "沙箱安全"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Google Gemini 3.5 Flash新增「電腦使用」功能，賦予AI模型更強執行力",
+          "core_summary": "Google為Gemini 3.5 Flash模型引入「電腦使用」（Computer Use）功能，讓AI模型能夠像人類一樣，實際操作電腦執行複雜任務。此舉顯著擴展了AI代理的應用範圍與解決問題的能力。",
+          "expert_insight": "從媒體設計角度，AI代理具備電腦操作能力意味著能更高效地執行設計軟體、自動化內容生成流程，大幅提升設計師的工作效率，開啟更多創新可能。",
+          "source_url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+          "tags": [
+            "Gemini Flash",
+            "AI代理",
+            "自動化任務"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Dify開源平台助力代理工作流開發，提升AI應用落地效率",
+          "core_summary": "Dify作為一個開源的生產級平台，專注於代理式工作流（agentic workflow）的開發與部署。它提供豐富的工具與介面，讓開發者能更高效地構建和管理基於AI代理的應用。",
+          "expert_insight": "從教育科技視角，Dify的開源特性與代理工作流能力，能讓教育機構快速搭建客製化的智能輔導、學習內容推薦等AI應用，加速教育科技創新與普及。",
+          "source_url": "https://github.com/langgenius/dify",
+          "tags": [
+            "AI代理",
+            "開源平台",
+            "工作流"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "generative_media",
+      "category_display": "🎵 生成式多媒體與創作",
+      "items": [
+        {
+          "title": "Rex框架突破生成式AI回推失真瓶頸，提升媒體內容與科學模擬精準度",
+          "core_summary": "克拉克森大學研究團隊開發出Rex數學框架，顯著提升擴散模型及流匹配模型的可逆性。這能讓生成式AI在圖像、分子設計和科學模擬中，更精準地「倒帶」至原始狀態，減少再生成時的失真。",
+          "expert_insight": "在媒體設計領域，這項進展意味著創作者可以更精確地修改AI生成的影像、音訊或3D模型，大幅提高編輯的靈活性與效率，產出更高品質的媒體內容。",
+          "source_url": "https://www.ithome.com.tw/news/176857",
+          "tags": [
+            "生成式AI",
+            "擴散模型",
+            "媒體設計"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Hyperframes開源工具以HTML生成影片，革新AI代理影像創作流程",
+          "core_summary": "HeyGen-com推出的開源專案Hyperframes，允許用戶透過編寫HTML來渲染生成影片。這項創新工具特別為AI代理設計，極大地簡化了影片內容的程式化生成過程。",
+          "expert_insight": "對於媒體設計而言，利用HTML生成影片開創了全新的創作範式。設計師和開發者可透過程式碼精準控制影片元素，實現快速迭代與大規模客製化，提升生成式媒體的應用潛力。",
+          "source_url": "https://github.com/heygen-com/hyperframes",
+          "tags": [
+            "影片生成",
+            "HTML",
+            "AI代理"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Voicebox開源AI語音工作室，提供語音複製、聽寫與創作一站式服務",
+          "core_summary": "Voicebox是一個開源的AI語音工作室，旨在提供語音複製、聽寫轉換以及多樣化的語音創作功能。它讓用戶能輕鬆克隆聲音、將文字轉為語音，並進行創新的語音內容製作。",
+          "expert_insight": "媒體設計領域將從Voicebox中獲益良多，創作者可以快速為多媒體內容生成高質量的旁白、角色語音，或進行語音在地化，顯著降低音訊製作成本並提升效率。",
+          "source_url": "https://github.com/jamiepine/voicebox",
+          "tags": [
+            "AI語音",
+            "聲音克隆",
+            "媒體創作"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "edtech_applications",
+      "category_display": "📚 教育科技與應用創新",
+      "items": [
+        {
+          "title": "頂尖AI實驗室廣徵哲學家，凸顯AI倫理與人文思考重要性",
+          "core_summary": "越來越多大型AI實驗室開始聘請哲學家加入團隊，旨在深入探討AI技術的倫理、社會影響及意識等深層問題。此趨勢反映了業界對AI發展中人文關懷與道德框架的日益重視。",
+          "expert_insight": "對於教育科技領域，這提醒我們在AI人才培育中，不應僅限於技術硬實力，更應加強倫理、社會科學與人文素養的教育，培養具備全面思辨能力的AI公民與開發者。",
+          "source_url": "https://www.economist.com/science-and-technology/2026/06/24/why-big-ai-labs-are-hiring-so-many-philosophers",
+          "tags": [
+            "AI倫理",
+            "哲學",
+            "人文素養"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "AI招聘代理協助履歷評估與打分，優化人才篩選效率",
+          "core_summary": "InterviewStreet開發的AI代理能夠自動評估和篩選履歷，並為應徵者打分，大幅提升了企業在招聘過程中的效率與精準度。這項工具旨在幫助招聘人員快速識別最合適的人才。",
+          "expert_insight": "在教育科技應用中，此類AI代理不僅可輔助企業招聘，也能用於職涯輔導，分析學生的履歷優勢和不足，提供更客製化的學習建議，以符合市場人才需求。",
+          "source_url": "https://github.com/interviewstreet/hiring-agent",
+          "tags": [
+            "AI招聘",
+            "履歷評估",
+            "人力資源科技"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Project N.O.M.A.D：搭載AI的離線生存電腦，提供災難應變知識與工具",
+          "core_summary": "Project N.O.M.A.D 是一款自給自足的離線生存電腦，內建關鍵工具、知識庫及AI功能，旨在確保用戶在無網路環境下仍能獲取資訊與支援。這款裝置強調在任何時間、地點都能保持知情與自主。",
+          "expert_insight": "從教育科技視角，Project N.O.M.A.D 展示了AI在普及教育和應急學習方面的巨大潛力。它能在極端環境下提供關鍵知識，是災害教育和偏遠地區學習的創新解決方案。",
+          "source_url": "https://github.com/Crosstalk-Solutions/project-nomad",
+          "tags": [
+            "離線學習",
+            "災難應變",
+            "AI應用"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "infra_opensource",
+      "category_display": "🧠 底層架構與開源模型",
+      "items": [
+        {
+          "title": "中國超級電腦「靈晟」重奪TOP500榜首，效能突破Exaflop大關",
+          "core_summary": "全球超級電腦TOP500榜單更新，中國深圳國家超級計算中心的「靈晟」（LineShine）以2.198 Exaflop/s的效能，超越美國El Capitan，時隔九年再次讓中國登上榜首。這顯示中國在高效能運算領域的顯著進步。",
+          "expert_insight": "對於金融市場，超級電腦的運算能力是推動高頻交易、量化分析和複雜金融模型不可或缺的基石，中國在超算領域的領先地位，將進一步鞏固其在金融科技創新上的基礎設施優勢。",
+          "source_url": "https://www.ithome.com.tw/news/176828",
+          "tags": [
+            "超級電腦",
+            "HPC",
+            "運算能力"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "趨勢觀察：開源AI成全球主流，加速AI普及化與創新",
+          "core_summary": "越來越多觀點認為，對於全球大多數地區而言，開源AI是推動AI發展與普及的唯一途徑。開源模型能夠降低技術門檻，促進各地區的在地化創新，並確保AI技術的公平可近性。",
+          "expert_insight": "從教育科技角度，開源AI的普及將大幅降低學術研究和教學的成本，讓更多學校和研究機構能夠參與AI模型開發與實驗，加速AI知識的傳播與人才培養。",
+          "source_url": "https://techstrong.ai/articles/for-most-of-the-world-open-source-ai-is-the-only-way-forward/",
+          "tags": [
+            "開源AI",
+            "技術普及",
+            "AI趨勢"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "NVIDIA數據中心新冷卻設計，45°C運行大幅減少用水量趨近零",
+          "core_summary": "NVIDIA發表新的數據中心冷卻設計，能在45°C的溫度下運行，大幅減少對水的依賴，使用水量趨近於零。這項技術對於解決AI工廠及數據中心巨大的能耗和水資源消耗問題至關重要。",
+          "expert_insight": "從金融市場角度，綠色運算和永續發展已是企業ESG的重要指標。NVIDIA的創新冷卻技術不僅能降低營運成本，也提升了其在永續發展方面的競爭力，吸引注重ESG的投資者。",
+          "source_url": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
+          "tags": [
+            "數據中心",
+            "綠色運算",
+            "永續發展"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "law_ethics_society",
+      "category_display": "⚖️ 法律倫理與社會衝擊",
+      "items": [
+        {
+          "title": "金管會發布金融業後量子密碼指引，超前部署應對量子運算威脅",
+          "core_summary": "金管會為因應量子運算可能帶來的資安風險，發布「金融業後量子密碼（PQC）遷移參考指引」。此指引要求金融機構建立密碼組件清單（CBOM）並具備加密敏捷性，以確保未來資料傳輸的安全。",
+          "expert_insight": "作為金融市場主管機關的重大動態，此指引將直接影響台灣金融業的長期資安投資策略與IT架構轉型，有助於維護金融體系的穩定性與客戶資產安全，是市場的重要風向球。",
+          "source_url": "https://www.ithome.com.tw/news/176824",
+          "tags": [
+            "金管會",
+            "後量子密碼",
+            "金融資安"
+          ],
+          "priority": "high"
+        },
+        {
+          "title": "刑事局示警：新型詐騙利用LINE螢幕共享竊取TWQR付款碼，民眾須提高警覺",
+          "core_summary": "刑事警察局揭露一種新型社交工程詐騙手法，歹徒誘騙民眾透過LINE螢幕共享功能，竊取行動支付TWQR付款碼，進而盜刷。警方呼籲民眾提高警覺，並促請業者強化風險警示。",
+          "expert_insight": "從金融市場角度，這類詐騙行為對行動支付的信賴度構成威脅。金融機構和支付業者需加強用戶教育、提升風險偵測機制，以保護消費者資產並維護行動支付生態的健康發展。",
+          "source_url": "https://www.ithome.com.tw/news/176852",
+          "tags": [
+            "TWQR詐騙",
+            "社交工程",
+            "行動支付"
+          ],
+          "priority": "high"
+        },
+        {
+          "title": "日本KDDI遭駭，逾1400萬筆電郵帳密恐外洩，凸顯電信業資安挑戰",
+          "core_summary": "日本電信業者KDDI發布資安公告，旗下提供給網際網路服務商（ISP）的電子郵件系統遭入侵，導致逾1,422萬筆用戶的電子郵件帳號與密碼可能外洩。此事件波及多家ISP業者，暴露了電信基礎設施的資安脆弱性。",
+          "expert_insight": "此次大規模資料外洩對金融市場產生多重影響。用戶的電郵帳密可能被用於釣魚詐騙或登入其他金融服務，增加潛在的詐騙風險，要求金融機構需加強客戶端身份驗證與異常交易監控。",
+          "source_url": "https://www.ithome.com.tw/news/176871",
+          "tags": [
+            "資料外洩",
+            "KDDI",
+            "電信資安"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    }
+  ],
+  "anomalies": {
+    "skipped_sources": [],
+    "notes": ""
+  }
+}
