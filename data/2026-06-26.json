@@ -1,0 +1,296 @@
+{
+  "date": "2026-06-26",
+  "generated_at": "2026-06-26T13:09:12+08:00",
+  "model_version": "gemini-2.5-flash",
+  "dashboard": {
+    "QQQ": "+0.81%",
+    "GOOGL": "-0.46%",
+    "AAPL": "-6.12%",
+    "MSFT": "-3.46%",
+    "NVDA": "-1.64%",
+    "META": "-2.65%"
+  },
+  "sections": [
+    {
+      "category_id": "giants_market",
+      "category_display": "🏢 巨頭動向與市場脈動",
+      "items": [
+        {
+          "title": "蘋果AI晶片戰略升級：跳過M6直攻M7系列",
+          "core_summary": "蘋果據報將跳過M6晶片，直接推出專注於AI功能的高階M7 Mac晶片，此舉顯示蘋果在硬體開發上全力押注AI效能，以應對日益增長的AI運算需求。",
+          "expert_insight": "金融市場視角，蘋果此舉將引導Mac生態系統全面向AI轉型，可能帶動相關軟硬體銷售成長，投資者應關注其對營收與市場佔有率的長期影響。",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+          "tags": [
+            "蘋果",
+            "AI晶片",
+            "M7",
+            "硬體戰略"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "OpenAI攜手博通發表首款自研AI推論晶片Jalapeño",
+          "core_summary": "OpenAI與博通合作推出其首款AI推論晶片「Jalapeño」，預計於2026年底開始部署。此舉讓OpenAI加入Google、AWS等科技巨頭的自研AI晶片行列，強化其在AI基礎設施上的自主能力。",
+          "expert_insight": "金融市場視角，OpenAI自研晶片旨在降低對外部GPU供應商的依賴，長期來看可望優化營運成本並提升服務效能，對其競爭力及市場估值具正面影響。",
+          "source_url": "https://www.ithome.com.tw/news/176868",
+          "tags": [
+            "OpenAI",
+            "博通",
+            "AI晶片",
+            "推論晶片"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "蘋果硬體產品全面漲價：Mac及iPad漲幅逾15%衝擊市場",
+          "core_summary": "蘋果近日大幅調漲Mac、iPad及HomePod等硬體產品價格，漲幅介於15%至25%之間，臺灣線上商店同步更新。此波漲價未波及iPhone，微軟也宣布將於8月調漲Xbox遊戲主機售價。",
+          "expert_insight": "金融市場視角，此為科技巨頭因應供應鏈成本、通膨壓力及市場定位所做的價格策略調整，可能影響消費者購買意願，但若產品具不可替代性，則營收利潤仍有增長空間，需觀察市場反應。",
+          "source_url": "https://www.ithome.com.tw/news/176894",
+          "tags": [
+            "蘋果",
+            "硬體漲價",
+            "市場策略",
+            "iPad",
+            "Mac"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "dev_tools_agents",
+      "category_display": "🛠️ 開發者工具與 AI 代理",
+      "items": [
+        {
+          "title": "Uber Eats揭密AI購物助手：從關鍵字搜尋邁向智能購物規劃",
+          "core_summary": "Uber Eats公開其Agent購物助手「Cart Assistant」的技術架構，利用大型語言模型和多階段代理工作流程，實現用戶以自然語言描述需求，系統即可自動規劃購物清單與商品組合。",
+          "expert_insight": "媒體設計視角，這展示了AI代理在使用者介面設計上的突破，將人機互動從指令式提升至意圖理解層級，大幅優化用戶體驗，並為未來智慧商務應用奠定基礎。",
+          "source_url": "https://www.ithome.com.tw/news/176883",
+          "tags": [
+            "Uber Eats",
+            "AI代理",
+            "LLM",
+            "購物助手"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Deno 2.9發表桌面開發工具：網頁專案可輕鬆變身跨平台應用",
+          "core_summary": "JavaScript與TypeScript執行環境Deno推出2.9版，新增實驗性的「deno desktop」工具，讓開發者能將既有的網頁專案直接封裝為Windows、macOS和Linux桌面應用程式。",
+          "expert_insight": "開發者工具視角，此功能大幅降低跨平台桌面應用開發門檻，使前端開發者能以熟悉的網頁技術擴展應用範疇，提升開發效率與市場部署靈活性。",
+          "source_url": "https://www.ithome.com.tw/news/176895",
+          "tags": [
+            "Deno",
+            "桌面應用",
+            "JavaScript",
+            "TypeScript"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "字節跳動開源Deer-Flow：打造長週期SuperAgent工作流引擎",
+          "core_summary": "字節跳動開源其長週期SuperAgent工作流引擎Deer-Flow，旨在提供一套完整的框架，透過沙盒、記憶體、工具與子代理協作，處理從數分鐘到數小時的複雜任務。",
+          "expert_insight": "金融市場視角，開源此類高階AI代理框架有助於提升企業級AI應用的開發效率和自主創新能力，對於加速企業數位轉型及在競爭激烈的AI市場中取得優勢至關重要。",
+          "source_url": "https://github.com/bytedance/deer-flow",
+          "tags": [
+            "AI代理",
+            "字節跳動",
+            "開源",
+            "工作流引擎"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "generative_media",
+      "category_display": "🎵 生成式多媒體與創作",
+      "items": [
+        {
+          "title": "OpenMontage：首個開源AI代理驅動的影片製作系統問世",
+          "core_summary": "世界首個開源、代理式影片製作系統OpenMontage發布，整合12條管線、52種工具及超過500個代理技能，能將AI編碼助理轉化為完整的影片製作工作室。",
+          "expert_insight": "媒體設計視角，OpenMontage的出現預示著影片製作流程將迎來革命性變革，透過AI代理大幅提升效率與自動化程度，讓創作者能更專注於創意發想，同時降低專業製作門檻。",
+          "source_url": "https://github.com/calesthio/OpenMontage",
+          "tags": [
+            "生成式AI",
+            "影片製作",
+            "AI代理",
+            "開源"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Un-0：探索耦合振盪器生成圖像的AI新技術",
+          "core_summary": "新研究項目Un-0提出一種透過「耦合振盪器」機制來生成圖像的AI新技術，挑戰傳統的生成模型，為AI藝術與視覺內容創作帶來全新的可能性。",
+          "expert_insight": "媒體設計視角，此創新技術可能開啟圖像生成的新範式，尤其在創造更具動態感、抽象美學的視覺內容方面，將為藝術家與設計師提供更豐富的創意工具。",
+          "source_url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
+          "tags": [
+            "圖像生成",
+            "AI藝術",
+            "生成模型",
+            "創新技術"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "AI兒童繪本驚現「身體恐怖」內容，生成式AI倫理問題浮現",
+          "core_summary": "有研究指出，部分AI生成的兒童繪本出現了不適宜的「身體恐怖」圖像內容，凸顯了生成式AI在內容審核、倫理規範及兒童保護方面的嚴峻挑戰。",
+          "expert_insight": "教育科技與媒體設計視角，此事件提醒我們，生成式AI內容在教育和娛樂應用前，需建立更嚴謹的內容篩選與倫理審查機制，以避免不當內容對使用者，特別是兒童造成負面影響。",
+          "source_url": "https://lcamtuf.substack.com/p/ai-childrens-books-body-horror-edition",
+          "tags": [
+            "AI倫理",
+            "生成式AI",
+            "內容審核",
+            "兒童教育"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "edtech_applications",
+      "category_display": "📚 教育科技與應用創新",
+      "items": [
+        {
+          "title": "Google：教育應由教育者主導，量身打造AI教育工具",
+          "core_summary": "Google強調其AI教育工具的開發策略，旨在賦能教育者，讓教師成為引導者，共同打造符合實際教學需求的AI解決方案，以促進個性化學習。",
+          "expert_insight": "教育科技視角，這明確了AI在教育領域的發展方向，應是輔助而非取代教師，由教育專業人士主導設計，確保AI工具能真正解決教學痛點，提升學習成效與公平性。",
+          "source_url": "https://blog.google/products-and-platforms/products/education/iste-2026-educator-updates/",
+          "tags": [
+            "Google for Education",
+            "AI教育",
+            "教師角色",
+            "個性化學習"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "美國學區導入Gemini，大規模提升學生寫作回饋效率",
+          "core_summary": "美國肯塔基州某學區成功導入Google Gemini，運用AI大規模提供學生寫作回饋，顯著提升教學效率，並讓教師有更多時間專注於深度指導。",
+          "expert_insight": "教育科技視角，此案例證明AI在教育評量與個性化輔導上的巨大潛力，能有效減輕教師負擔，讓學生即時獲得具體回饋，加速學習進程，值得其他地區借鑒。",
+          "source_url": "https://blog.google/products-and-platforms/products/education/henry-county-public-schools/",
+          "tags": [
+            "Gemini",
+            "寫作輔助",
+            "教育科技",
+            "學習回饋"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Google.org捐款烏克蘭500萬美元，加速AI就業平台建置與經濟復甦",
+          "core_summary": "Google.org宣布提供500萬美元資金予烏克蘭，用於擴大國家級AI就業平台Obrii的規模，以推動AI技術在烏克蘭的應用及經濟復甦。",
+          "expert_insight": "金融市場與教育科技視角，此捐款不僅展現科技巨頭的社會責任，更透過AI教育與就業平台直接投資於烏克蘭的人力資本與經濟未來，為AI技術的社會影響力提供了積極範例。",
+          "source_url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/investing-in-ukraines-ai-leadership-and-economic-future/",
+          "tags": [
+            "Google.org",
+            "烏克蘭",
+            "AI就業",
+            "經濟發展"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "infra_opensource",
+      "category_display": "🧠 底層架構與開源模型",
+      "items": [
+        {
+          "title": "IBM突破半導體極限：發表0.7奈米3D堆疊晶片技術",
+          "core_summary": "IBM成功開發全球首款0.7奈米晶片技術，並提出創新的Nanostack 3D奈米堆疊電晶體架構，透過立體堆疊與異質材料整合，將電晶體密度翻倍，預計五年內導入量產。",
+          "expert_insight": "金融市場與媒體設計視角，此突破性技術將引領半導體產業進入新紀元，大幅提升未來AI、HPC等應用的運算效能與能效，對於數位內容創作與金融大數據分析的速度與規模，都將帶來革命性影響。",
+          "source_url": "https://www.ithome.com.tw/news/176880",
+          "tags": [
+            "IBM",
+            "半導體",
+            "0.7奈米",
+            "3D堆疊"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "高效能運算Green500榜單揭示：AI時代超級電腦能效新標準",
+          "core_summary": "最新Green500榜單顯示，高效能運算(HPC)正朝高能效方向發展，CPU與GPU整合的超級晶片、高速記憶體、互連技術及液冷系統，已成為構築高能效平台的標準配置。",
+          "expert_insight": "媒體設計視角，對生成式AI等運算密集型應用而言，高效能與節能是關鍵，這些技術進展將直接影響未來AI模型訓練與部署的成本與速度，為複雜的媒體內容生成提供更強大的算力支持。",
+          "source_url": "https://www.ithome.com.tw/news/176861",
+          "tags": [
+            "HPC",
+            "超級電腦",
+            "能源效率",
+            "Green500"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "NVIDIA NeMo/Speech開源：大型語言與多模態語音AI框架",
+          "core_summary": "NVIDIA開源其NeMo/Speech框架，這是一個可擴展的生成式AI框架，專為研究人員和開發者設計，致力於大型語言模型、多模態及語音AI（ASR和TTS）領域。",
+          "expert_insight": "開發者工具視角，NVIDIA開源此框架將加速LLM與語音AI的開發與應用，提供強大的底層支持，有助於推動語音助理、自動翻譯及多模態內容生成等技術的創新與普及。",
+          "source_url": "https://github.com/NVIDIA-NeMo/Speech",
+          "tags": [
+            "NVIDIA",
+            "開源框架",
+            "LLM",
+            "語音AI"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "law_ethics_society",
+      "category_display": "⚖️ 法律倫理與社會衝擊",
+      "items": [
+        {
+          "title": "Klue供應鏈攻擊持續延燒：多家SaaS與資安業者Salesforce資料外洩",
+          "core_summary": "Klue供應鏈攻擊事件持續擴大，已有超過10家公司，包括產品體驗平台Pendo、雲端通訊8x8及多間資安業者，證實其存放在Salesforce平台的資料遭未經授權存取。",
+          "expert_insight": "金融市場與媒體設計視角，此重大供應鏈攻擊暴露了雲端服務及第三方應用整合的潛在資安風險，將促使企業重新評估供應商風險管理策略，可能影響相關SaaS產業的信任度與法規要求。",
+          "source_url": "https://www.ithome.com.tw/news/176896",
+          "tags": [
+            "供應鏈攻擊",
+            "資料外洩",
+            "Salesforce",
+            "資安風險"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "日本電信巨頭KDDI遭駭：逾1,400萬用戶電郵帳密恐外洩",
+          "core_summary": "日本電信業者KDDI發布資安公告，證實其提供給六家ISP的電子郵件系統遭到入侵，恐導致多達1,422萬筆用戶的電子郵件帳號與密碼外洩。",
+          "expert_insight": "金融市場視角，電信業者的重大資料外洩事件，可能引發大規模用戶信任危機、法律訴訟及監管罰款，對公司股價及品牌聲譽造成嚴重打擊，同時提升整體市場的資安警戒。",
+          "source_url": "https://www.ithome.com.tw/news/176871",
+          "tags": [
+            "KDDI",
+            "資料外洩",
+            "電信資安",
+            "個資外洩"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "福特AI檢測失靈重聘「老經驗」：凸顯AI應用局限與人機協作價值",
+          "core_summary": "汽車製造商福特因AI品質檢測系統出現問題，不得不重新聘請經驗豐富的「資深檢測員」，此事件反映出AI在複雜判斷情境下的局限性，以及人類專業知識不可替代的價值。",
+          "expert_insight": "金融市場與教育科技視角，這提醒我們AI應用並非萬能，需正視其局限性，並探索人機協作的最佳模式。企業在導入AI時應謹慎評估風險，避免過度依賴而導致成本增加或品質下滑；教育方面也需強調培養與AI協作的能力。",
+          "source_url": "https://www.bloomberg.com/news/articles/2026-06-25/ford-has-been-rehiring-quality-inspectors-after-ai-fell-short",
+          "tags": [
+            "AI局限",
+            "人機協作",
+            "品質檢測",
+            "福特"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    }
+  ],
+  "anomalies": {
+    "skipped_sources": [],
+    "notes": ""
+  }
+}
