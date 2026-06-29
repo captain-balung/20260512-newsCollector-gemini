@@ -1,0 +1,277 @@
+{
+  "date": "2026-06-29",
+  "generated_at": "2026-06-29T13:27:03+08:00",
+  "model_version": "gemini-2.5-flash",
+  "dashboard": {
+    "QQQ": "-1.38%",
+    "GOOGL": "-1.84%",
+    "AAPL": "+3.14%",
+    "MSFT": "+5.71%",
+    "NVDA": "-1.64%",
+    "META": "+1.36%"
+  },
+  "sections": [
+    {
+      "category_id": "giants_market",
+      "category_display": "🏢 巨頭動向與市場脈動",
+      "items": [
+        {
+          "title": "全球央行警告：AI熱潮恐引發金融危機",
+          "core_summary": "國際清算銀行（BIS）及其他全球央行官員提出警告，當前蓬勃發展的AI科技熱潮，可能因其潛在的系統性風險，最終引發一場全球性的金融危機，呼籲各國應謹慎評估並加強監管。",
+          "expert_insight": "從金融市場視角，這項警告凸顯AI技術快速發展可能帶來的宏觀經濟風險，決策者應密切關注AI模型在金融交易、風險評估與市場波動中的影響，以預防潛在的系統性衝擊。",
+          "source_url": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/",
+          "tags": [
+            "AI風險",
+            "金融危機",
+            "央行警告"
+          ],
+          "priority": "high"
+        },
+        {
+          "title": "Google Play新收費制上路，美英歐開放第三方支付",
+          "core_summary": "Google宣布自6月30日起，將在美國、英國及歐洲經濟區（EEA）實施Google Play新收費制度。此舉允許開發者除了使用Google Play Billing外，也能採用第三方支付系統，並將原有抽成拆分為平臺服務費與支付服務費兩部分。",
+          "expert_insight": "從金融市場視角，此政策變革將衝擊應用程式內購生態，第三方支付業者迎來新機，同時也考驗Google在維持收益與滿足監管要求間的平衡，可能影響開發者的獲利模式與市場競爭力。",
+          "source_url": "https://www.ithome.com.tw/news/176932",
+          "tags": [
+            "Google Play",
+            "第三方支付",
+            "應用程式經濟"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Google限制Meta使用Gemini模型，AI巨頭競爭白熱化",
+          "core_summary": "據報導，Google已開始限制Meta使用其Gemini AI模型，此舉透露出兩大科技巨頭在AI領域的競爭日益激烈。此限制可能影響Meta在AI產品開發上的策略與進度。",
+          "expert_insight": "從金融市場視角，科技巨頭間的AI模型限制措施，可能導致市場碎片化，影響AI技術普及與合作，投資人需關注這類限制對相關企業競爭力及未來營收的潛在影響。",
+          "source_url": "https://www.cnbc.com/2026/06/28/google-limits-metas-use-of-its-gemini-ai-models-ft-reports.html",
+          "tags": [
+            "AI競爭",
+            "Google",
+            "Meta"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "dev_tools_agents",
+      "category_display": "🛠️ 開發者工具與 AI 代理",
+      "items": [
+        {
+          "title": "OpenAI預覽GPT-5.6模型，代理協同與最強推論能力亮相",
+          "core_summary": "OpenAI上週預覽了最新GPT-5.6系列模型，包含旗艦Sol、標準Terra及低價Luna。Sol號稱歷來最強，特別在程式碼撰寫、生物與網路安全方面展現卓越的代理能力，初期僅提供給部分合作夥伴使用。",
+          "expert_insight": "從媒體設計視角，具備更強代理協同能力的GPT-5.6將讓生成式內容的複雜度與交互性大幅提升，為創意工作者提供更智能的設計助手，加速從概念到實踐的流程。",
+          "source_url": "https://www.ithome.com.tw/news/176923",
+          "tags": [
+            "OpenAI",
+            "GPT-5.6",
+            "AI代理"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "VS Code套件市集現蠕蟲變種，GlassWASM威脅開發環境安全",
+          "core_summary": "去年活躍於VS Code和Open VSX市集的GlassWorm蠕蟲，在基礎設施被破壞後，近期已出現新的變種GlassWASM。此變種具備自我散布能力，持續對開發者的程式碼環境構成資安威脅。",
+          "expert_insight": "從開發者工具視角，此蠕蟲變種對廣泛使用的VS Code生態系統構成重大資安風險，企業與開發者應立即檢查並加強套件安全管理，以防範程式碼和專案被惡意篡改或竊取。",
+          "source_url": "https://www.ithome.com.tw/news/176927",
+          "tags": [
+            "VS Code",
+            "資安",
+            "開發工具"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "OmniRoute：整合160+AI服務的免費AI閘道器",
+          "core_summary": "OmniRoute是一款開源的免費AI閘道器，提供單一端點即可連接超過160種AI服務（其中50多種免費）。它支援Claude Code、Codex等，並透過RTK+Caveman技術壓縮Token，可節省15-95%的成本，具備智慧自動備援功能。",
+          "expert_insight": "從開發者工具視角，OmniRoute為開發者解決了多模型調用、成本優化及穩定性挑戰。其壓縮技術和自動備援機制，能顯著提升開發效率與應用穩定性，降低AI整合門檻，加速創新。",
+          "source_url": "https://github.com/diegosouzapw/OmniRoute",
+          "tags": [
+            "AI閘道",
+            "開發工具",
+            "多模型整合"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "generative_media",
+      "category_display": "🎵 生成式多媒體與創作",
+      "items": [
+        {
+          "title": "OpenPencil：全球首個開源AI原生向量設計工具",
+          "core_summary": "OpenPencil是全球首個開源的AI原生向量設計工具，創新性地支援多AI代理協同作業。它實現了『設計即程式碼』（Design-as-Code），能直接在畫布上將指令轉換為UI，是傳統設計軟體的現代替代方案。",
+          "expert_insight": "從媒體設計視角，OpenPencil以『設計即程式碼』概念顛覆傳統設計流程，並引入AI代理協同，極大提升設計自動化與效率，為設計師提供前所未有的智能創作體驗，特別適合需要快速迭代與高精度的視覺設計工作。",
+          "source_url": "https://github.com/ZSeven-W/openpencil",
+          "tags": [
+            "AI設計",
+            "向量工具",
+            "開源"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "DESIGN.md：定義AI編碼代理的視覺識別規範",
+          "core_summary": "Google-labs-code發布了DESIGN.md，這是一個描述視覺識別的格式規範，旨在幫助AI編碼代理理解設計系統。DESIGN.md賦予AI代理對設計系統的持久且結構化的理解，讓AI能更精確地執行設計任務。",
+          "expert_insight": "從媒體設計視角，DESIGN.md的出現是AI與設計領域結合的重要里程碑。它標準化了AI對設計語言的理解，使AI代理能更準確地生成符合品牌規範的設計，大幅提升設計自動化與品牌一致性。",
+          "source_url": "https://github.com/google-labs-code/design.md",
+          "tags": [
+            "AI設計",
+            "設計系統",
+            "視覺識別"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Video-use：運用AI編碼代理進行影片編輯",
+          "core_summary": "Video-use是一個開源專案，旨在透過AI編碼代理來實現影片編輯。這項技術讓使用者能以程式碼指令驅動AI完成複雜的影片剪輯、特效添加及內容生成，大幅提升影片製作效率。",
+          "expert_insight": "從媒體設計視角，運用AI編碼代理進行影片編輯，將為影音創作帶來革命性變革。它讓複雜的後製工作變得更自動化與程式化，降低了專業門檻，並為創意發想提供了更多可能性，尤其適合快速產出大量客製化內容的需求。",
+          "source_url": "https://github.com/browser-use/video-use",
+          "tags": [
+            "AI影片編輯",
+            "生成式媒體",
+            "影音創作"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "edtech_applications",
+      "category_display": "📚 教育科技與應用創新",
+      "items": [
+        {
+          "title": "布朗大學爆發AI舞弊潮，教授示警學術誠信受威脅",
+          "core_summary": "美國布朗大學的教授公開指出，校內考試出現大規模AI舞弊現象，這不僅挑戰了現有的學術規範，也讓學術誠信面臨嚴峻考驗。此事件凸顯教育機構在AI時代應對作弊行為的迫切需求。",
+          "expert_insight": "從教育科技視角，AI工具的普及深刻影響了學術評量與誠信，大學需加速導入AI偵測技術，並重新思考評量方式與課程設計，以培養學生運用AI而非濫用AI的素養。",
+          "source_url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+          "tags": [
+            "AI作弊",
+            "學術誠信",
+            "教育倫理"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "MONAI：醫療影像專屬AI工具包，加速健康照護創新",
+          "core_summary": "Project MONAI是一個專為醫療健康影像設計的開源AI工具包，提供用於深度學習應用開發、訓練及部署的框架。它旨在加速醫療影像分析與處理的效率，從而改善診斷與治療成果。",
+          "expert_insight": "從教育科技視角，MONAI在醫療影像領域的應用，對醫學教育及專業培訓具有重大意義。它能提供實時且精確的影像分析輔助，幫助醫學生和醫師更高效地學習與實踐，提升診斷準確性。",
+          "source_url": "https://github.com/Project-MONAI/MONAI",
+          "tags": [
+            "醫療AI",
+            "影像分析",
+            "健康科技"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Claude How-to：視覺化指南助您掌握Claude Code應用",
+          "core_summary": "Claude How-to提供一份視覺化、範例驅動的Claude Code指南，內容從基礎概念到進階代理應用，包含可直接複製貼上的範本。它旨在幫助使用者快速上手，將Claude Code的價值融入日常工作。",
+          "expert_insight": "從教育科技視角，這份指南有效降低了學習AI模型應用的門檻，特別是針對程式碼生成工具。透過實例教學，它能幫助學生和專業人士迅速掌握新技能，加速AI技術在不同領域的普及與創新應用。",
+          "source_url": "https://github.com/luongnv89/claude-howto",
+          "tags": [
+            "AI學習",
+            "Claude Code",
+            "程式教學"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "infra_opensource",
+      "category_display": "🧠 底層架構與開源模型",
+      "items": [
+        {
+          "title": "美國PQC行政命令：政府採購加速後量子密碼學升級",
+          "core_summary": "美國總統川普簽署行政命令，要求聯邦政府加速推動後量子密碼學（PQC）遷移，並設定2030年為重要里程碑。此政策旨在透過聯邦採購，鼓勵供應商與整體產業升級，以應對量子運算對現行加密技術的威脅。",
+          "expert_insight": "從金融市場視角，PQC的推動將對金融服務業的數據安全與交易隱私產生深遠影響。銀行、支付系統等需及早投入資源進行技術轉換，以確保未來在量子時代下的資訊安全與市場穩定。",
+          "source_url": "https://www.ithome.com.tw/news/176928",
+          "tags": [
+            "PQC",
+            "量子密碼",
+            "政府採購"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "PQC準備度研究：近九成SSH伺服器尚未具備後量子安全",
+          "core_summary": "Forescout研究團隊的報告指出，全球近九成的SSH伺服器尚未具備後量子密碼學（PQC）的安全能力。隨著量子運算威脅日益逼近，企業亟需盤點加密資產，並規劃PQC遷移策略。",
+          "expert_insight": "從金融市場視角，SSH伺服器作為許多企業基礎設施的關鍵環節，其PQC準備度不足將構成嚴重的潛在資安風險。這可能影響敏感數據傳輸的安全性，金融機構應優先評估並投入資源以因應未來的量子威脅，維護客戶信心。",
+          "source_url": "https://www.ithome.com.tw/news/176915",
+          "tags": [
+            "PQC",
+            "SSH",
+            "資安準備"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Palo Alto Networks參與開源供應鏈安全計畫Project Lightwell",
+          "core_summary": "Palo Alto Networks宣布參與IBM與紅帽推出的企業開源軟體供應鏈安全服務Project Lightwell。此服務將生命週期管理、漏洞修補驗證等擴展至第三方開源函式庫、AI框架等，全面強化企業開源軟體供應鏈的安全性。",
+          "expert_insight": "從金融市場視角，開源軟體日益普及，其供應鏈安全成為關鍵。此合作將提升企業對開源元件的信心，降低資安風險，特別對於金融業等對安全要求極高的產業，有助於其採用新技術，同時保護敏感數據。",
+          "source_url": "https://www.ithome.com.tw/news/176914",
+          "tags": [
+            "開源安全",
+            "供應鏈",
+            "資安服務"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "law_ethics_society",
+      "category_display": "⚖️ 法律倫理與社會衝擊",
+      "items": [
+        {
+          "title": "中國駭客StrikeShark攻擊臺灣政府機構，資安漏洞成目標",
+          "core_summary": "資安公司揭露，中國駭客組織StrikeShark鎖定暴露於網路的應用程式伺服器進行攻擊，並透過未修補的資安漏洞建立入侵管道，臺灣有政府機構名列受害範圍，凸顯國家級資安威脅。",
+          "expert_insight": "從媒體設計視角，政府機構遇駭不僅影響資料安全，更可能造成國家形象受損與社會信任危機。新聞媒體應以嚴謹客觀的態度報導此類事件，並提高民眾對網路安全的意識，避免假消息流傳。",
+          "source_url": "https://www.ithome.com.tw/news/176924",
+          "tags": [
+            "網路攻擊",
+            "臺灣政府",
+            "國家資安"
+          ],
+          "priority": "high"
+        },
+        {
+          "title": "澳洲社群媒體禁令失靈，未成年違規平臺罰款倍增",
+          "core_summary": "澳洲政府宣布修法，將社交媒體平臺違反未滿16歲禁用規定的最高罰款從4,950萬澳元提高至9,900萬澳元。此舉旨在強化全球首創的最低年齡制度，並賦予網路安全監管機關更大權限，要求平臺證明阻擋未成年人註冊的成效。",
+          "expert_insight": "從教育科技視角，澳洲政府的重罰凸顯了保護青少年數位福祉的迫切性，但也反映單純的禁令難以有效解決問題。教育科技應思考如何開發更智能的身份驗證技術，並提供輔助家長監護的工具，而非將責任完全推給平臺。",
+          "source_url": "https://www.ithome.com.tw/news/176920",
+          "tags": [
+            "社群媒體",
+            "青少年保護",
+            "澳洲法規"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "FBI與CISA更新警示：俄羅斯駭客鎖定Signal備份金鑰",
+          "core_summary": "美國聯邦調查局（FBI）與網路安全與基礎設施安全局（CISA）更新了Signal通訊軟體釣魚攻擊警示，指出與俄羅斯情報機構有關的駭客組織已調整攻擊手法。駭客現在會誘導受害者提供Signal備份復原金鑰，進而存取訊息紀錄並接管帳號。",
+          "expert_insight": "從金融市場視角，通訊軟體的隱私與安全對商業機密和個人資產保護至關重要。這項警示提醒金融業從業人員及一般用戶，應加強對通訊應用程式的資安警覺，特別是備份金鑰的保護，以防範敏感資訊外洩引發的金融風險。",
+          "source_url": "https://www.ithome.com.tw/news/176929",
+          "tags": [
+            "Signal",
+            "網路釣魚",
+            "資安警示"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    }
+  ],
+  "anomalies": {
+    "skipped_sources": [],
+    "notes": ""
+  }
+}
