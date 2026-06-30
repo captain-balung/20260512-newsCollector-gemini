@@ -1,0 +1,295 @@
+{
+  "date": "2026-06-30",
+  "generated_at": "2026-06-30T13:02:47+08:00",
+  "model_version": "gemini-2.5-flash",
+  "dashboard": {
+    "QQQ": "+2.49%",
+    "GOOGL": "+4.82%",
+    "AAPL": "-0.72%",
+    "MSFT": "-1.18%",
+    "NVDA": "+1.27%",
+    "META": "+2.24%"
+  },
+  "sections": [
+    {
+      "category_id": "giants_market",
+      "category_display": "🏢 巨頭動向與市場脈動",
+      "items": [
+        {
+          "title": "韓國重磅投資兆元打造記憶體與機器人產業霸主",
+          "core_summary": "韓國宣布將投入高達1兆美元於記憶體晶片生產及人形機器人兩大戰略產業，旨在鞏固其在全球高科技製造領域的領導地位。此舉展現了國家級對未來關鍵技術的長遠佈局與雄心。",
+          "expert_insight": "金融市場：這項巨額國家投資將對全球半導體及AI機器人供應鏈產生深遠影響，推動相關概念股表現，並可能加劇國際間的科技競爭，值得投資者密切關注。",
+          "source_url": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+          "tags": [
+            "韓國",
+            "記憶體晶片",
+            "人形機器人",
+            "國家戰略"
+          ],
+          "priority": "high"
+        },
+        {
+          "title": "SpaceX擬推Starlink Mobile，衛星網路進軍行動通訊市場",
+          "core_summary": "據報導，SpaceX正計劃在美國推出Starlink Mobile衛星行動通訊服務，此舉預示著其將把低軌衛星網路服務擴展至更廣泛的消費級行動裝置市場。這將是衛星通訊技術與日常行動通訊融合的重要一步。",
+          "expert_insight": "金融市場：Starlink Mobile的推出將顛覆傳統電信業生態，為全球偏遠地區提供高速上網方案，並可能為衛星通訊相關產業鏈帶來新的投資機會與競爭格局。",
+          "source_url": "https://www.ithome.com.tw/news/176931",
+          "tags": [
+            "SpaceX",
+            "Starlink",
+            "衛星通訊",
+            "行動網路"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "YouTube廣告新功能，助品牌精準掌握行銷成效",
+          "core_summary": "YouTube推出多項新功能，旨在協助廣告主更深入分析品牌行銷活動的成效，包括提升洞察力與衡量品牌活動對業務成果的影響。這些更新將讓廣告商能更精確地評估其在YouTube上的投入產出。",
+          "expert_insight": "媒體設計：對於品牌廣告商而言，這些新功能提供了更精細的數據分析工具，有助於優化廣告投放策略、提升行銷效率，進而影響數位媒體內容的製作與推廣方向。",
+          "source_url": "https://blog.google/products/ads-commerce/youtube-brand-campaign-updates/",
+          "tags": [
+            "YouTube",
+            "品牌行銷",
+            "廣告成效",
+            "數據分析"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "dev_tools_agents",
+      "category_display": "🛠️ 開發者工具與 AI 代理",
+      "items": [
+        {
+          "title": "金融交易框架TradingAgents問世，多智能體LLM助攻投資決策",
+          "core_summary": "GitHub上出現名為TradingAgents-CN的開源項目，這是一個基於多智能體大型語言模型（LLM）的中文金融交易框架，旨在提供AI驅動的投資研究與交易策略開發能力。該框架結合多位投資大師的方法論，期望透過AI提高投資效率。",
+          "expert_insight": "金融市場：此類開源框架的出現，預示著AI智能體在金融投資領域的普及與深化。它能協助個人和機構投資者，透過自動化分析與多維度視角，更高效地進行市場判斷與風險管理。",
+          "source_url": "https://github.com/hsliuping/TradingAgents-CN",
+          "tags": [
+            "AI智能體",
+            "量化交易",
+            "LLM",
+            "金融科技"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Ornith-1.0開源AI模型，實現智能體自主程式碼改進",
+          "core_summary": "名為Ornith-1.0的開源項目發布，它提供了一種具備自我改進能力的AI模型，專注於智能體式程式碼編寫。這項技術的突破，讓AI智能體能更自主地進行程式碼生成、除錯與優化。",
+          "expert_insight": "教育科技：這類自我改進的智能體模型將對程式設計教育產生顛覆性影響。學生和開發者能利用AI工具加速學習與開發進程，從基礎語法走向高階架構設計，同時也需關注AI輔助下的倫理與版權議題。",
+          "source_url": "https://github.com/deepreinforce-ai/Ornith-1",
+          "tags": [
+            "開源模型",
+            "AI編程",
+            "智能體",
+            "程式碼生成"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "OmniRoute開源AI閘道器，統一介面暢連百家AI模型",
+          "core_summary": "OmniRoute是一個開源的AI閘道器，提供單一端點即可連接超過160家AI服務提供商（其中50多家免費），支援多模態API、智能自動備援及高效令牌壓縮，大幅簡化AI模型的調用與管理。",
+          "expert_insight": "教育科技：對於想學習和應用多種AI模型的開發者和教育機構來說，OmniRoute極大地降低了技術門檻和成本。它讓實驗不同模型、進行課程設計和教學變得更具彈性，加速AI應用的普及。",
+          "source_url": "https://github.com/diegosouzapw/OmniRoute",
+          "tags": [
+            "AI閘道器",
+            "開源工具",
+            "多模態AI",
+            "開發者工具"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "generative_media",
+      "category_display": "🎵 生成式多媒體與創作",
+      "items": [
+        {
+          "title": "Google Gemini App開放AI圖像生成，個人化創作新時代來臨",
+          "core_summary": "Google宣布將基於Nano Banana技術的個人化AI圖像生成功能，免費部署到Gemini App中，首先開放給美國用戶。這讓更多使用者能直接在Gemini應用程式內，體驗便捷且高度個人化的AI圖片生成。",
+          "expert_insight": "媒體設計：此舉讓AI圖像生成工具的普及性大幅提升，將賦能廣大用戶進行視覺內容創作。媒體設計師需關注如何利用這些易於上手的工具提升工作效率，同時也要思考AI生成內容的版權與倫理規範。",
+          "source_url": "https://blog.google/innovation-and-ai/products/gemini-app/personal-intelligence-nano-banana-us-expansion/",
+          "tags": [
+            "Google Gemini",
+            "AI圖像生成",
+            "個人化創作",
+            "媒體創作"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "音樂串流平台Tidal發布AI政策，界定AI生成音樂規範",
+          "core_summary": "音樂串流平台Tidal正式發布其AI政策，明確規範了AI生成音樂的應用範圍、版權歸屬及創作者權益等議題。此舉旨在應對AI技術對音樂產業帶來的衝擊與機遇。",
+          "expert_insight": "媒體設計：Tidal的AI政策為音樂產業在AI時代的版權保護和內容創作提供了重要參考。媒體設計師和音樂創作者需了解這些規範，以確保AI工具的合法使用，並探索新的創作與商業模式。",
+          "source_url": "https://tidal.com/ai-policy",
+          "tags": [
+            "Tidal",
+            "AI政策",
+            "音樂產業",
+            "內容版權"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Youwee：跨平台影音下載工具，整合AI摘要與後製功能",
+          "core_summary": "開源專案Youwee提供一個美觀且跨平台的影音下載工具，支援YouTube、TikTok等超過1800個平台。其最大特色是整合了AI視訊摘要與後製功能，讓用戶能更高效地處理與理解影音內容。",
+          "expert_insight": "媒體設計：這款工具展示了AI如何提升數位影音內容的處理效率與用戶體驗。媒體專業人士可利用其AI摘要功能快速掌握影片核心，或作為內容分析工具，輔助影片企劃與製作流程。",
+          "source_url": "https://github.com/vanloctech/youwee",
+          "tags": [
+            "影音下載",
+            "AI摘要",
+            "內容後製",
+            "數位媒體"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "edtech_applications",
+      "category_display": "📚 教育科技與應用創新",
+      "items": [
+        {
+          "title": "Google Meet整合Gemini筆記功能，智能會議記錄提升效率",
+          "core_summary": "Google宣布其Gemini AI現在可為Google AI Pro及Ultra訂閱者在Google Meet會議中自動記錄筆記。這項功能將大幅提升線上會議的效率，確保會議重點不被遺漏，並自動整理成易於查閱的格式。",
+          "expert_insight": "教育科技：這項功能對遠距學習和線上協作具有巨大潛力。學生可以專注於參與討論，而非手寫筆記；教師則能更輕鬆地回顧授課內容，並為學生提供精準的會議摘要，有效提升學習與教學效率。",
+          "source_url": "https://blog.google/products-and-platforms/products/workspace/take-notes-for-me/",
+          "tags": [
+            "Google Meet",
+            "Gemini AI",
+            "智能筆記",
+            "遠距學習"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Google AI專家深度解析：何謂「全端AI」？",
+          "core_summary": "Google透過其官方部落格，邀請AI專家深入淺出地解釋「全端AI」（Full Stack AI）的概念與構成，旨在幫助讀者理解AI技術從底層硬體到上層應用程式的完整生態。",
+          "expert_insight": "教育科技：這篇文章為廣大AI學習者和從業者提供了寶貴的知識基礎。對於教育機構而言，它能作為課程內容的參考，協助學生全面理解AI技術棧，培養更具宏觀視野的AI人才。",
+          "source_url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+          "tags": [
+            "全端AI",
+            "AI教育",
+            "技術棧",
+            "Google AI"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "OpenAI報告揭示AI對歐洲勞動力市場的影響與機會",
+          "core_summary": "OpenAI發布一份新報告，深入分析AI技術將如何重塑歐洲的勞動力市場，指出哪些職業可能面臨自動化、哪些將實現增長，以及工作流程將如何改變。報告旨在幫助各國政府及企業規劃未來。",
+          "expert_insight": "教育科技：這份報告對教育體系具有重要的指導意義。它提醒教育機構需調整課程內容，以培養學生適應AI時代所需的新技能，例如批判性思維、創造力及與AI協作的能力，為未來的勞動力市場做好準備。",
+          "source_url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+          "tags": [
+            "AI勞動力",
+            "職業轉型",
+            "未來教育",
+            "OpenAI"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "infra_opensource",
+      "category_display": "🧠 底層架構與開源模型",
+      "items": [
+        {
+          "title": "Linux基金會組OSERA聯盟，強化金融業開源軟體韌性",
+          "core_summary": "針對AI加速漏洞發現與利用的趨勢，Linux基金會旗下的FINOS計畫成立「開源企業韌性聯盟」（OSERA），旨在協助金融業有效修補及管理其所使用的開源套件，以提升資安防護能力。",
+          "expert_insight": "金融市場：金融業高度依賴開源軟體，OSERA聯盟的成立對降低系統性風險至關重要。它將促使金融機構更主動地參與開源安全生態，確保其數位基礎設施的穩定與合規性，直接影響金融市場的穩定。",
+          "source_url": "https://www.ithome.com.tw/news/176958",
+          "tags": [
+            "開源軟體",
+            "金融資安",
+            "企業韌性",
+            "FINOS"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "libssh2 SSH函式庫重大漏洞PoC公開，遠端攻擊風險遽增",
+          "core_summary": "開源SSH函式庫libssh2的重大漏洞（CVE-2026-55200）概念驗證（PoC）程式碼已公開，此漏洞可能導致攻擊者透過過大的SSH封包觸發記憶體損毀，進而遠端執行任意程式碼。PoC的出現顯著提升了漏洞被利用的風險。",
+          "expert_insight": "金融市場：許多企業，包括金融機構，都廣泛使用SSH進行安全連線。此漏洞的公開與PoC的釋出，意味著潛在的資安威脅升高，金融業需緊急檢視並更新其系統，以防敏感資料外洩或服務中斷，影響市場運作。",
+          "source_url": "https://www.ithome.com.tw/news/176960",
+          "tags": [
+            "SSH漏洞",
+            "開源函式庫",
+            "遠端執行",
+            "資安風險"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Google發布Time Series Foundation Model，強化時間序列預測能力",
+          "core_summary": "Google Research推出Time Series Foundation Model（TimesFM），這是一個預訓練的時間序列基礎模型，專為時間序列預測任務設計。它旨在為各種時間序列數據提供更精確、更廣泛的預測能力。",
+          "expert_insight": "金融市場：TimesFM的發布對於金融市場分析具有重要意義。時間序列預測廣泛應用於股價預測、市場趨勢分析及風險評估，此模型能協助分析師和量化交易者提升預測準確性，優化投資策略。",
+          "source_url": "https://github.com/google-research/timesfm",
+          "tags": [
+            "時間序列",
+            "基礎模型",
+            "Google Research",
+            "金融預測"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "law_ethics_society",
+      "category_display": "⚖️ 法律倫理與社會衝擊",
+      "items": [
+        {
+          "title": "資安署警示：社群打卡曬票恐洩個資，假期門票秒遭盜用",
+          "core_summary": "數位發展部資通安全署發出警示，民眾在社群媒體上分享票券打卡照時，若未遮蔽QR Code等個資，極易遭有心人士利用，導致旅遊行程被取消或演唱會門票被盜用。資安署呼籲民眾提高警覺，加強個資保護意識。",
+          "expert_insight": "媒體設計：在社群媒體高度普及的時代，此事件凸顯了數位足跡與個人隱私間的矛盾。媒體設計師在設計相關介面與宣導時，應更重視用戶隱私保護的提醒與教學，提升公眾的數位公民素養。",
+          "source_url": "https://www.ithome.com.tw/news/176968",
+          "tags": [
+            "個資外洩",
+            "社群媒體",
+            "資安警示",
+            "數位足跡"
+          ],
+          "priority": "high"
+        },
+        {
+          "title": "美最高法院裁定地理圍欄搜索令需受隱私權規範",
+          "core_summary": "美國最高法院首次裁定，警方透過地理圍欄搜索令向Google調取手機位置資料，屬於《美國憲法第四修正案》規範的「搜索」行為，未來須接受更嚴格的憲法隱私保障審查。",
+          "expert_insight": "教育科技：此判例強化了數位時代的個人隱私權，對教育機構在收集、使用學生或教職員數位數據時，提出了更高的隱私保護要求。這也成為數位倫理課程中討論公民權利與科技發展平衡的經典案例。",
+          "source_url": "https://www.ithome.com.tw/news/176965",
+          "tags": [
+            "隱私權",
+            "美國最高法院",
+            "地理圍欄",
+            "法律倫理"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "警惕！駭客濫用OpenAI邀請功能，偽造企業組織竊取員工資料",
+          "core_summary": "資安公司揭露，有攻擊者濫用OpenAI的組織邀請功能，偽冒企業租戶誘騙員工加入。一旦員工誤入惡意組織，其在AI環境中的敏感資料與API使用將可能遭到竊取或濫用。",
+          "expert_insight": "教育科技：此案例凸顯了AI平台在企業或教育機構推廣使用時的資安風險。對教育單位而言，加強師生對網路釣魚、身分冒用等社會工程攻擊的防範意識，並建立安全的AI工具使用規範，是刻不容緩的任務。",
+          "source_url": "https://www.ithome.com.tw/news/176942",
+          "tags": [
+            "OpenAI",
+            "資安攻擊",
+            "社會工程",
+            "AI平台安全"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    }
+  ],
+  "anomalies": {
+    "skipped_sources": [],
+    "notes": ""
+  }
+}
