@@ -1,0 +1,277 @@
+{
+  "date": "2026-07-01",
+  "generated_at": "2026-07-01T13:18:59+08:00",
+  "model_version": "gemini-2.5-flash",
+  "dashboard": {
+    "QQQ": "+1.70%",
+    "GOOGL": "+1.05%",
+    "AAPL": "+2.70%",
+    "MSFT": "+1.21%",
+    "NVDA": "+2.63%",
+    "META": "Stable"
+  },
+  "sections": [
+    {
+      "category_id": "giants_market",
+      "category_display": "🏢 巨頭動向與市場脈動",
+      "items": [
+        {
+          "title": "AWS成立FDE組織，豪擲10億美元加速企業AI代理部署",
+          "core_summary": "AWS宣布投入10億美元成立專責前線部署工程（FDE）組織，將派遣數千名AI工程師進駐企業客戶，協助共同開發及部署代理AI系統，以加速企業AI化進程。",
+          "expert_insight": "金融市場 - AWS此舉將大幅降低企業導入AI的技術門檻，特別對缺乏內部AI專業的金融機構而言，可望加速其營運效率提升與創新金融服務的開發，形塑新的市場競爭格局。",
+          "source_url": "https://www.ithome.com.tw/news/177005",
+          "tags": [
+            "AWS",
+            "AI代理",
+            "企業AI導入"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Visa、Google領軍逾140企業，共推美元穩定幣Open USD",
+          "core_summary": "由Visa、Mastercard、Google等逾140家巨頭組成的Open Standard聯盟，宣布推出美元穩定幣Open USD，旨在打造企業級的全球資金流通基礎設施，預計今年稍晚正式上線。",
+          "expert_insight": "金融市場 - Open USD的推出，預示著數位貨幣在企業應用與跨境支付領域的巨大潛力。這將直接挑戰傳統金融體系，並加速區塊鏈技術的商業化進程，投資人需密切關注其對全球金融市場的長期影響。",
+          "source_url": "https://www.ithome.com.tw/news/176995",
+          "tags": [
+            "穩定幣",
+            "區塊鏈",
+            "金融科技"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "雅婷智慧揭台灣AI轉型痛點：72%企業急需地端主權AI",
+          "core_summary": "台灣人工智慧實驗室與雅婷智慧發布報告，指出僅15%台灣企業實際運用AI，且高達72%企業需地端部署AI。為此，雅婷智慧推出FedGPT主權AI平臺，強調資料與系統自主性，提供會議記錄、萬能秘書等應用。",
+          "expert_insight": "金融市場 / 教育科技 - 台灣企業對資料主權與地端AI的強烈需求，為金融機構與教育單位提供了明確的AI部署方向。FedGPT的推出，能有效解決數據隱私與法規合規性疑慮，加速這些高度敏感產業的AI轉型。",
+          "source_url": "https://www.ithome.com.tw/news/176993",
+          "tags": [
+            "主權AI",
+            "地端部署",
+            "台灣AI市場"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "dev_tools_agents",
+      "category_display": "🛠️ 開發者工具與 AI 代理",
+      "items": [
+        {
+          "title": "AI代理開放協定MCP重大更新，強化無狀態核心與擴展性",
+          "core_summary": "用於連接AI代理的開放協定Model Context Protocol（MCP）將發布重大更新，導入無狀態核心、Tasks擴充功能與新版授權要求，旨在支援長時間工作、跨系統整合及雲端原生部署情境。",
+          "expert_insight": "開發者工具與AI代理 - MCP的更新對AI代理的互操作性和部署安全性至關重要。無狀態核心設計將大幅提升大規模AI代理部署的效率與穩定性，但開發者在實作時需特別關注潛在的安全與整合挑戰。",
+          "source_url": "https://www.ithome.com.tw/news/176997",
+          "tags": [
+            "AI代理",
+            "開放協定",
+            "開發者工具"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Google Gemini Spark擴展支援macOS，連接應用提升開發體驗",
+          "core_summary": "Google宣布Gemini Spark更新，將功能擴展至macOS平台，並強化了連接應用程式的能力，旨在提供開發者更順暢、更整合的AI開發與協作體驗。",
+          "expert_insight": "開發者工具與AI代理 - Gemini Spark跨足macOS並增強應用程式連接性，將大幅提升開發者在蘋果生態系統中的AI開發效率。這有助於加速AI應用與現有軟體的整合，推動AI生態系的普及與創新。",
+          "source_url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-spark-updates-june-2026/",
+          "tags": [
+            "Gemini",
+            "macOS",
+            "AI開發"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "OmniRoute AI閘道：整合231+提供商，智慧壓縮節省成本",
+          "core_summary": "OmniRoute是一個免費開源的AI閘道，透過單一端點即可連接231家以上AI供應商（包含50多家免費模型），並採用RTK+Caveman堆疊壓縮技術，可節省15-95%的token用量，提供智慧自動回退與多模態API支援。",
+          "expert_insight": "開發者工具與AI代理 - OmniRoute為開發者提供了一個強大的工具，能有效降低使用多模態AI的成本和複雜性。其整合多家供應商和token壓縮功能，對於預算有限或需要高度靈活性的開發團隊來說，是實現AI應用快速原型與部署的關鍵。",
+          "source_url": "https://github.com/diegosouzapw/OmniRoute",
+          "tags": [
+            "AI閘道",
+            "多模態AI",
+            "成本優化"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "generative_media",
+      "category_display": "🎵 生成式多媒體與創作",
+      "items": [
+        {
+          "title": "Google推Nano Banana 2 Lite降價一半，預覽多模態影片生成模型Gemini Omni Flash",
+          "core_summary": "Google推出成本降低一半的Nano Banana 2 Lite版本，提供快速的圖片生成與編輯功能，並將多模態影片生成與編輯模型Gemini Omni Flash開放給開發人員預覽。",
+          "expert_insight": "媒體設計 - Nano Banana 2 Lite的大幅成本降低，將讓更多創作者與小型工作室能負擔AI圖像生成。而Gemini Omni Flash預覽則預示著影片內容製作將迎來革命性變革，加速創意實現與規模化生產，對影視與廣告產業影響深遠。",
+          "source_url": "https://www.ithome.com.tw/news/177007",
+          "tags": [
+            "圖像生成",
+            "影片生成",
+            "Gemini"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Google免費開放Nano Banana個人化AI圖像生成工具，率先登陸美國",
+          "core_summary": "Google本週宣布，在美國地區免費開放基於Nano Banana技術的個人化AI圖像生成功能，並部署至Gemini App中，讓用戶能更便捷地利用AI創造客製化圖像。",
+          "expert_insight": "媒體設計 - Google免費開放AI圖像生成工具，將大幅降低大眾接觸AI創作的門檻。這不僅能加速AI輔助設計的普及，也可能激發更多非專業人士的創作潛能，但同時也需關注版權與原創性等倫理議題的浮現。",
+          "source_url": "https://www.ithome.com.tw/news/176969",
+          "tags": [
+            "AI圖像",
+            "生成式AI",
+            "免費工具"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "OpenPencil：全球首款開源AI原生向量設計工具，主打設計即程式碼",
+          "core_summary": "OpenPencil是全球首款開源AI原生向量設計工具，引入Design-as-Code理念，並首創具備並行AI代理團隊功能，讓用戶能直接在畫布上透過提示詞生成UI，為現代設計提供全新解決方案。",
+          "expert_insight": "媒體設計 - OpenPencil將設計與程式碼深度整合，並引入AI代理團隊協作，這將徹底顛覆傳統設計流程。設計師能以前所未有的效率將概念轉化為實際介面，加速產品開發週期，對數位產品設計領域帶來革命性影響。",
+          "source_url": "https://github.com/ZSeven-W/openpencil",
+          "tags": [
+            "AI設計",
+            "向量工具",
+            "設計自動化"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "edtech_applications",
+      "category_display": "📚 教育科技與應用創新",
+      "items": [
+        {
+          "title": "Meta突破非侵入式腦機介面研究，AI從打字腦訊號重建語句",
+          "core_summary": "Meta發布Brain2Qwerty v2研究，利用AI分析受試者打字時的腦磁波儀（MEG）訊號，成功重建自然語句。此研究旨在推進免手術的非侵入式腦機介面，為腦部損傷者提供新的溝通方式。",
+          "expert_insight": "教育科技 - Meta在非侵入式腦機介面研究的突破，為語言障礙或嚴重運動障礙者開啟了革命性的溝通途徑。這項技術在特殊教育和輔助溝通領域具有巨大潛力，可望大幅改善這些群體的學習與生活品質。",
+          "source_url": "https://www.ithome.com.tw/news/176990",
+          "tags": [
+            "腦機介面",
+            "輔助科技",
+            "特殊教育"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "英國啟動國家級AI人才計畫，培養新一代AI先鋒以提升生產力",
+          "core_summary": "Google報導，英國正積極推動一項全國性的AI戰略，旨在培養新一代AI技術人才，透過教育與訓練計畫，提升國家整體生產力，以迎接AI時代的挑戰與機遇。",
+          "expert_insight": "教育科技 - 英國這項培養AI先鋒的國家策略，強調AI技能在未來勞動力市場的重要性，對全球教育體系具有重要的參考價值。各國教育機構應借鑒其經驗，加速AI教育的普及與深度，以應對未來社會對人才的變革需求。",
+          "source_url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
+          "tags": [
+            "AI教育",
+            "人才培養",
+            "國家策略"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Claude Science亮相：AI賦能科學研究，加速知識探索",
+          "core_summary": "Anthropic推出Claude Science，將其強大的AI模型專門應用於科學研究領域。此服務旨在透過AI加速科學探索、數據分析與假設驗證，提高研究效率。",
+          "expert_insight": "教育科技 - Claude Science的推出，標誌著AI在學術研究領域的應用進入新階段。它能有效輔助研究人員處理複雜數據、生成洞察，對於大學與研究機構的科研效率提升具有關鍵意義，同時也將改變學生進行論文與專題研究的方式。",
+          "source_url": "https://claude.com/product/claude-science",
+          "tags": [
+            "科學研究",
+            "AI應用",
+            "學術輔助"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "infra_opensource",
+      "category_display": "🧠 底層架構與開源模型",
+      "items": [
+        {
+          "title": "Anthropic發表Claude Sonnet 5，全面升級為免費與Pro版預設模型",
+          "core_summary": "Anthropic正式發表Claude Sonnet 5，強調其代理能力（Agentic AI）為Sonnet系列之最，並已成為Claude免費版與Pro版的預設模型，同時開放給Max、Team及Enterprise方案使用。",
+          "expert_insight": "媒體設計 - Sonnet 5作為預設模型，將直接提升廣大用戶的AI體驗，其更強大的代理能力能讓創作者和設計師實現更複雜的自動化工作流，大幅降低生成式AI的使用門檻，加速創意內容的規模化生產。",
+          "source_url": "https://www.ithome.com.tw/news/177002",
+          "tags": [
+            "Claude",
+            "AI模型",
+            "生成式AI"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Mistral AI發布Leanstral 1.5，優化模型效能與成本效益",
+          "core_summary": "Mistral AI發布了其最新模型Leanstral 1.5，旨在提供更高效能與更佳成本效益的語言模型，以滿足開發者在多種應用場景下的需求。",
+          "expert_insight": "媒體設計 - Leanstral 1.5的發布為生成式AI市場帶來更多元的選擇，尤其對於需要兼顧效能與成本的內容創作者與小型媒體團隊而言，提供了更具競爭力的模型選項，有助於推動創新應用。",
+          "source_url": "https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06",
+          "tags": [
+            "Mistral AI",
+            "開源模型",
+            "語言模型"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Zluda 6發布：讓CUDA應用暢行非Nvidia GPU，打破硬體限制",
+          "core_summary": "Zluda發布6.0版本，其核心功能是允許用戶在非Nvidia的GPU上運行未經修改的CUDA應用程式，這項突破性進展有望大幅降低AI開發與部署的硬體成本和門檻。",
+          "expert_insight": "開發者工具與AI代理 - Zluda 6的推出，有效打破了Nvidia在GPU運算上的壟斷地位，為AI開發者提供了更大的硬體選擇彈性。這將降低AI模型訓練與推理的成本，對教育機構、新創公司及追求多元硬體策略的企業來說，是極具戰略意義的工具。",
+          "source_url": "https://vosen.github.io/ZLUDA/blog/zluda-update-q1q2-2026/",
+          "tags": [
+            "CUDA",
+            "GPU",
+            "開源軟體"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "law_ethics_society",
+      "category_display": "⚖️ 法律倫理與社會衝擊",
+      "items": [
+        {
+          "title": "勒索軟體Settra聲稱竊得PChome旗下Pi拍錢包350萬用戶資料",
+          "core_summary": "駭客團體Settra聲稱已竊取PChome旗下拍付國際公司（Pi拍錢包）的內部資料，包含350萬名用戶個資，此事件已引起台灣社會高度關注。",
+          "expert_insight": "金融市場 - 這起重大的電子支付平臺個資外洩事件，不僅嚴重衝擊消費者對數位金融服務的信任，更對相關金融科技公司的品牌形象與市場競爭力造成打擊，預計將促使金管會與數發部加速推動更嚴格的資安監管法規。",
+          "source_url": "https://www.ithome.com.tw/news/177000",
+          "tags": [
+            "個資外洩",
+            "電子支付",
+            "資安風險"
+          ],
+          "priority": "high"
+        },
+        {
+          "title": "Pi拍錢包個資外洩案升溫，數發部將對拍付國際展開行政檢查",
+          "core_summary": "針對PChome旗下拍付國際遭勒索軟體Settra聲稱竊取350萬Pi拍錢包用戶個資事件，數位發展部數位產業署宣布將於7月1日進行實地行政檢查，以釐清案情並檢視業者個資保護措施。",
+          "expert_insight": "金融市場 - 數位發展部對此案的快速介入與行政檢查，凸顯台灣政府對金融科技資安的高度重視。這不僅將對拍付國際帶來直接的營運與合規壓力，也為整體電子支付產業樹立了更嚴格的資安標準，影響未來產業的發展與投資。",
+          "source_url": "https://www.ithome.com.tw/news/177001",
+          "tags": [
+            "個資保護",
+            "數位發展部",
+            "金融監管"
+          ],
+          "priority": "high"
+        },
+        {
+          "title": "美超微AI伺服器出口案延燒，青雲、是方電訊遭檢調搜索",
+          "core_summary": "基隆地檢署偵辦高階AI伺服器涉嫌違法出口中國案持續擴大，對美超微台灣分公司、青雲科技及是方電訊進行搜索與約談，調查是否有人透過不實報關規避美國出口管制，將搭載Nvidia高階GPU的AI伺服器轉運至中國。",
+          "expert_insight": "金融市場 - 此案突顯地緣政治與科技貿易戰對台灣高科技產業的衝擊。台灣企業在全球AI供應鏈中面臨更嚴峻的合規挑戰，可能導致相關企業股價波動，並影響投資人對電子零組件及AI供應鏈的風險評估。",
+          "source_url": "https://www.ithome.com.tw/news/176991",
+          "tags": [
+            "出口管制",
+            "AI伺服器",
+            "地緣政治"
+          ],
+          "priority": "high"
+        }
+      ],
+      "fallback_note": ""
+    }
+  ],
+  "anomalies": {
+    "skipped_sources": [],
+    "notes": ""
+  }
+}
