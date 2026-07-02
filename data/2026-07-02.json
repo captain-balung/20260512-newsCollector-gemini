@@ -1,0 +1,287 @@
+{
+  "date": "2026-07-02",
+  "generated_at": "2026-07-02T12:55:45+08:00",
+  "model_version": "gemini-2.5-flash",
+  "dashboard": {
+    "QQQ": "-1.52%",
+    "GOOGL": "+1.07%",
+    "AAPL": "+1.73%",
+    "MSFT": "+3.02%",
+    "NVDA": "-1.25%",
+    "META": "+8.81%"
+  },
+  "sections": [
+    {
+      "category_id": "giants_market",
+      "category_display": "🏢 巨頭動向與市場脈動",
+      "items": [
+        {
+          "title": "Meta首設資料長強化AI治理，應對數據複雜挑戰",
+          "core_summary": "Meta任命現任行銷長Alex Schultz為公司首任資料長（CDO），此舉旨在AI時代下，強化公司在資料分析與治理方面的策略與能力，以應對日益龐大的數據挑戰。",
+          "expert_insight": "金融市場視角來看，大型科技公司設立CDO反映了數據資產化與合規風險管理的重要性。良好的數據治理不僅提升營運效率，更能為AI模型提供高品質訓練資料，間接影響其商業化潛力與市場競爭力。",
+          "source_url": "https://www.ithome.com.tw/news/177040",
+          "tags": [
+            "Meta",
+            "資料治理",
+            "AI策略"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Meta內部AI代幣花費飆升數十億，設消費上限示警成本壓力",
+          "core_summary": "據報導，Meta內部AI代幣（tokens）的使用成本已逼近數十億美元，導致公司開始設定內部消費上限。這反映了大型語言模型運行和開發所帶來的龐大基礎設施與運營成本。",
+          "expert_insight": "金融市場視角顯示，AI開發的投資回報率正受到嚴格檢視。內部成本控制將促使Meta更精準地評估AI專案的商業價值與效率，可能影響未來AI研發方向和資源分配，對相關供應鏈夥伴產生連鎖反應。",
+          "source_url": "https://mlq.ai/news/meta-caps-internal-ai-token-spending-after-costs-approach-billions-in-2026/",
+          "tags": [
+            "Meta",
+            "AI成本",
+            "大語言模型"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "B3選用Android平台，強化AI應用安全性與生產力",
+          "core_summary": "巴西證券交易所B3選擇採用Android平台，旨在提升其AI應用在安全性與生產力方面的表現。此舉凸顯了企業在導入AI解決方案時，對底層作業系統安全性與效能的考量。",
+          "expert_insight": "金融市場視角來看，大型金融機構選擇特定技術棧來支援AI應用，顯示對資安與穩定性的高度需求。Android在企業級應用上的成熟度及安全性，有助於金融科技創新在受控環境中發展，為其他機構提供參考。",
+          "source_url": "https://blog.google/products-and-platforms/products/android-enterprise/b3-android-enterprise/",
+          "tags": [
+            "Android",
+            "AI應用",
+            "企業資安"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "dev_tools_agents",
+      "category_display": "🛠️ 開發者工具與 AI 代理",
+      "items": [
+        {
+          "title": "AI開發工具Cursor曝資安漏洞，提示注入恐致任意程式碼執行",
+          "core_summary": "AI輔助程式開發工具Cursor被揭露存在重大漏洞「DuneSlide」，攻擊者可透過惡意提示注入突破沙箱，並在開發者系統上執行任意指令。Cursor已於4月2日發布3.0版完成修補，用戶應儘速升級。",
+          "expert_insight": "媒體設計視角強調，AI工具在內容生成與程式開發中扮演日益關鍵的角色。此漏洞警示開發者與設計師，即使是輔助工具也需高度重視資安，提示注入已成為AI應用最直接的攻擊面。",
+          "source_url": "https://www.ithome.com.tw/news/177036",
+          "tags": [
+            "AI開發工具",
+            "提示注入",
+            "資安漏洞"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Google Gemini CLI高風險漏洞，恐危及CI/CD環境遠端程式碼執行",
+          "core_summary": "Google近日修補了其AI命令列工具Gemini CLI及相關GitHub Action的重大漏洞。若未更新，攻擊者可利用惡意工作區設定或提示注入手法，在自動化CI/CD環境中遠端執行任意程式碼。",
+          "expert_insight": "開發者工具視角來看，此漏洞凸顯AI工具鏈中 CI/CD 環境的資安盲點。對於採用AI輔助開發的團隊，務必將AI工具的安全更新納入自動化流程管理，以防範供應鏈攻擊。",
+          "source_url": "https://www.ithome.com.tw/news/177022",
+          "tags": [
+            "Gemini CLI",
+            "CI/CD",
+            "提示注入",
+            "資安修補"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "OmniRoute：整合200+AI模型的開源免費AI閘道器",
+          "core_summary": "OmniRoute是一個開源的AI閘道器，提供單一終端點即可連接超過231個AI供應商（含50個免費模型），並支援多模態API、智慧自動備援及15-95%的Token壓縮，大幅降低AI模型整合複雜度。",
+          "expert_insight": "媒體設計視角而言，此類AI閘道器大幅降低了設計師和開發者整合不同生成式AI模型的技術門檻與成本，尤其在需要頻繁切換模型以優化創作內容和效能時，提供極大的彈性與效率。",
+          "source_url": "https://github.com/diegosouzapw/OmniRoute",
+          "tags": [
+            "AI閘道器",
+            "開源工具",
+            "多模型整合"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "generative_media",
+      "category_display": "🎵 生成式多媒體與創作",
+      "items": [
+        {
+          "title": "OpenPencil：全球首個開源AI原生向量設計工具問世",
+          "core_summary": "OpenPencil被譽為全球首個開源的AI原生向量設計工具，其獨特之處在於支援AI協作代理團隊，並實現「設計即程式碼」的理念，能直接將提示詞轉化為即時畫布上的UI設計。",
+          "expert_insight": "媒體設計視角看，OpenPencil代表設計工作流程的重大變革。AI原生與設計即程式碼的理念，將大幅提升設計效率和協作潛力，使設計師能更專注於創意發想，而非重複性操作。",
+          "source_url": "https://github.com/ZSeven-W/openpencil",
+          "tags": [
+            "AI設計工具",
+            "向量設計",
+            "開源",
+            "設計即程式碼"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "VideoAgent：一站式影片理解、編輯與重製AI代理框架",
+          "core_summary": "VideoAgent是一個整合性的AI代理框架，專注於影片的理解、編輯與重製功能。它旨在為用戶提供一個全面的解決方案，處理各種影片相關的AI任務，簡化複雜的影片工作流程。",
+          "expert_insight": "媒體設計視角而言，VideoAgent的出現將徹底改變影片內容創作與後製流程。從自動內容分析到智能編輯建議，AI代理能顯著降低技術門檻並加速創作週期，特別適用於短影音和行銷內容製作。",
+          "source_url": "https://github.com/HKUDS/VideoAgent",
+          "tags": [
+            "影片AI",
+            "內容創作",
+            "AI代理"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Meta發布開源可客製化AI代理設計系統Astryx",
+          "core_summary": "Meta發布了Astryx，一個開源且完全可客製化的設計系統，特別強調其「代理就緒」（agent ready）的特性。這套系統旨在支援未來AI代理的互動與界面設計，促進新型態的應用開發。",
+          "expert_insight": "媒體設計視角來看，Astryx的「代理就緒」設計理念，預示著未來人機互動將更側重於AI代理的協作。這將促使設計師重新思考界面設計，以適應更智能、更自主的代理行為，影響UI/UX設計的範式轉移。",
+          "source_url": "https://github.com/facebook/astryx",
+          "tags": [
+            "設計系統",
+            "AI代理",
+            "開源設計",
+            "Meta"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "edtech_applications",
+      "category_display": "📚 教育科技與應用創新",
+      "items": [
+        {
+          "title": "Google攜手紐約教育與產業領袖，共同擘劃AI教育未來",
+          "core_summary": "Google在紐約市舉辦AI峰會，匯聚150位教育界與產業領袖，共同探討AI在課堂中的應用前景與發展方向。此舉顯示業界巨頭正積極參與AI教育標準與實踐的制定，推動教育創新。",
+          "expert_insight": "教育科技視角看，此次峰會是AI融入教育的關鍵里程碑。透過產業與學界的對話，有助於確立AI教育的倫理規範、教學模式和工具開發方向，為全球教育體系帶來深遠影響，並加速智慧校園的建設。",
+          "source_url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+          "tags": [
+            "AI教育",
+            "教育峰會",
+            "Google"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Book-to-Skill：將技術書籍轉化為Claude Code實用技能",
+          "core_summary": "「Book-to-Skill」專案能夠將任何技術書籍的PDF檔案，轉化為Claude Code可用的技能模組。這項創新工具方便使用者在學習、參考和工作時直接調用相關知識。",
+          "expert_insight": "教育科技視角來看，這項工具極大地提升了專業知識的獲取與應用效率。它讓學習不再局限於閱讀，而是將知識直接轉化為AI可操作的技能，為個人化學習和職場技能提升帶來全新模式，有望改變技術培訓方式。",
+          "source_url": "https://github.com/virgiliojr94/book-to-skill",
+          "tags": [
+            "教育科技",
+            "AI學習",
+            "知識管理",
+            "Claude Code"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "infra_opensource",
+      "category_display": "🧠 底層架構與開源模型",
+      "items": [
+        {
+          "title": "美國PQC遷移時程出爐，微軟預計2029年完成PQC部署",
+          "core_summary": "美國政府公布後量子密碼學（PQC）轉型時程後，微軟也宣布加速其量子安全計畫，目標在2029年前完成旗下產品與服務的PQC部署。這代表全球網路安全將邁向新的加密紀元。",
+          "expert_insight": "金融市場視角而言，PQC是未來金融基礎設施安全的關鍵。微軟與美國政府的時程表，為金融機構規劃自身的量子安全升級提供了明確指引，及早部署能有效防範未來量子電腦對加密資產及交易安全的潛在威脅。",
+          "source_url": "https://www.ithome.com.tw/news/177033",
+          "tags": [
+            "後量子密碼學",
+            "量子安全",
+            "網路安全"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "報告：AI應用高風險漏洞占比為整體平均2.7倍",
+          "core_summary": "Cobalt報告指出，由於企業快速導入LLM與AI應用，導致模型整合、資料連接、提示處理等環節成為新攻擊入口，使得AI應用在滲透測試中發現高風險漏洞的比例，是整體平均的2.7倍。",
+          "expert_insight": "金融市場視角來看，這項發現對高度依賴AI決策系統的金融產業是嚴重警訊。高風險漏洞可能導致數據洩露、詐欺或系統癱瘓，金融機構必須將AI應用的資安風險評估與防禦措施列為優先考量，避免潛在的巨大損失。",
+          "source_url": "https://www.ithome.com.tw/news/177030",
+          "tags": [
+            "AI資安",
+            "滲透測試",
+            "漏洞風險",
+            "金融科技"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "OpenAI發表GeneBench-Pro，深化AI模型生物學研究評測",
+          "core_summary": "OpenAI推出研究級基準測試GeneBench-Pro，旨在更真實地評估AI模型在計算生物學任務中處理雜亂資料、判斷分析方向及評估研究結果的能力。這比傳統記憶或固定流程測試更接近實際研究情境。",
+          "expert_insight": "教育科技視角看，這類進階基準測試對AI科學研究與教育具重要意義。它能引導AI模型開發者，更注重模型的實踐推理和問題解決能力，而非僅限於知識儲備，有助於培養具備真正「智慧」的AI，推動科學探索。",
+          "source_url": "https://www.ithome.com.tw/news/177023",
+          "tags": [
+            "AI評測",
+            "計算生物學",
+            "OpenAI",
+            "基準測試"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "law_ethics_society",
+      "category_display": "⚖️ 法律倫理與社會衝擊",
+      "items": [
+        {
+          "title": "臺灣行動實名認證升級2026 MID Plus，強化金融防詐",
+          "core_summary": "為強化金融防詐，臺灣行動實名認證將於2026年升級至MID Plus，由三大電信與臺網聯手推動，並接軌GSMA國際標準。此舉旨在擴大跨業聯防，提升網路身分安全，以應對日益嚴峻的詐騙挑戰。",
+          "expert_insight": "金融市場視角而言，這項政策將顯著提升行動交易的安全性與信任度，有效遏止詐騙行為。對於數位金融服務發展至關重要，可望加速普惠金融的推展，並降低金融機構的合規風險，保障用戶資產安全。",
+          "source_url": "https://www.ithome.com.tw/news/177027",
+          "tags": [
+            "金融防詐",
+            "行動認證",
+            "臺灣政策",
+            "數位身分"
+          ],
+          "priority": "high"
+        },
+        {
+          "title": "隱藏號碼來電警示語音全國上路，強化全民防詐意識",
+          "core_summary": "為提高民眾對於隱藏號碼來電的警覺心，NCC與三大電信合作，將隱藏號碼來電警示語音服務擴大至市話及行動電話。新制7月起全面上路，將以國台語雙語提醒接聽者注意，有效降低詐騙風險。",
+          "expert_insight": "社會衝擊視角看，這項政策直接回應了社會大眾對詐騙電話日益頻繁的憂慮。透過主動提醒，可望有效降低民眾受騙機率，提升整體社會的資訊安全防護能力，尤其對年長族群有重要保護作用。",
+          "source_url": "https://www.ithome.com.tw/news/177021",
+          "tags": [
+            "電信防詐",
+            "警示語音",
+            "社會安全",
+            "臺灣政策"
+          ],
+          "priority": "high"
+        },
+        {
+          "title": "Claude Code遭爆利用隱寫術偵測中國用戶，Anthropic緊急撤銷",
+          "core_summary": "Anthropic的Claude Code技術主管透露，將移除一項針對中國市場的實驗性防禦機制，該機制被揭露會透過隱寫術暗中偵測中國用戶數據並回傳，引發開發者社群的信任危機與倫理爭議。",
+          "expert_insight": "法律倫理視角強調，此事件再次凸顯AI開發中數據透明度和用戶隱私的倫理底線。大型AI公司即使出於「防範未授權轉售」目的，也應在用戶告知和合規前提下進行，否則將嚴重損害品牌信譽與用戶信任。",
+          "source_url": "https://www.ithome.com.tw/news/177034",
+          "tags": [
+            "AI倫理",
+            "數據隱私",
+            "信任危機",
+            "Anthropic"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "開源遊戲引擎Godot拒絕AI生成程式碼貢獻引發討論",
+          "core_summary": "開源遊戲引擎Godot宣布將不再接受任何由AI生成的程式碼貢獻。此決策反映了Godot開發團隊對AI生成程式碼品質、潛在版權不明確以及未來維護責任的深切擔憂。",
+          "expert_insight": "法律倫理視角看，Godot的決定代表開源社群對AI生成內容版權和貢獻者責任的態度轉變。這可能為其他開源專案樹立先例，促使業界在利用AI輔助開發的同時，需更嚴謹地考量其來源與可信度，以維護社群信任。",
+          "source_url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+          "tags": [
+            "開源專案",
+            "AI倫理",
+            "程式碼品質",
+            "版權"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    }
+  ],
+  "anomalies": {
+    "skipped_sources": [],
+    "notes": ""
+  }
+}
