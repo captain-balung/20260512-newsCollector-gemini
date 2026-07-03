@@ -1,0 +1,230 @@
+{
+  "date": "2026-07-03",
+  "generated_at": "2026-07-03T12:38:28+08:00",
+  "model_version": "gemini-2.5-flash",
+  "dashboard": {
+    "QQQ": "-1.73%",
+    "GOOGL": "-0.36%",
+    "AAPL": "+4.84%",
+    "MSFT": "+1.62%",
+    "NVDA": "-1.39%",
+    "META": "-4.90%"
+  },
+  "sections": [
+    {
+      "category_id": "giants_market",
+      "category_display": "🏢 巨頭動向與市場脈動",
+      "items": [
+        {
+          "title": "OpenAI擬讓美國政府入股5% 尋求政治支持與共享AI財富",
+          "core_summary": "英國金融時報報導，OpenAI正與美國政府討論由政府持有5%股權的構想，此舉旨在降低政治阻力，並讓美國民眾共享AI產業的未來財富。",
+          "expert_insight": "金融市場：此舉可能為AI新創公司與政府資本合作樹立新範例，影響市場對AI股權結構的預期。政府入股或能提供穩定性，但也可能帶來監管壓力，對未來AI產業的募資策略產生深遠影響。",
+          "source_url": "https://www.ithome.com.tw/news/177061",
+          "tags": [
+            "OpenAI",
+            "政府入股",
+            "AI產業",
+            "股權結構"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "微軟擲25億美元設AI工程事業群 深度支援企業AI部署",
+          "core_summary": "微軟宣布成立全新的AI工程事業群Microsoft Frontier Company，投入25億美元並派遣6,000名專家，直接進駐企業客戶，協助設計、部署及優化AI系統。",
+          "expert_insight": "金融市場: 微軟此舉顯示其深化企業級AI服務市場的決心，透過高額投資與專家團隊直接服務，將能有效鞏固其AI生態系統的領導地位，並為潛在的SaaS訂閱和雲服務帶來長期營收增長。",
+          "source_url": "https://www.ithome.com.tw/news/177053",
+          "tags": [
+            "微軟",
+            "AI工程",
+            "企業服務",
+            "市場策略"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Nvidia推出GPU基礎設施分潤模式 助AI雲業者降低資金門檻",
+          "core_summary": "Nvidia推出新的AI基礎設施商業模式，透過收入分潤及信用支持機制，協助AI雲端服務業者建置AI工廠，大幅降低新興AI雲業者取得大型GPU基礎設施的資金門檻。",
+          "expert_insight": "金融市場: 這項創新模式將顯著改變AI基礎設施的資本支出結構，降低新進者的進入障礙，加速AI雲端市場的多元發展，同時確保Nvidia GPU在市場上的主導地位，形成更緊密的合作夥伴關係，可能影響雲端服務的定價模型。",
+          "source_url": "https://www.ithome.com.tw/news/177052",
+          "tags": [
+            "Nvidia",
+            "GPU",
+            "AI雲",
+            "商業模式",
+            "資本支出"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "dev_tools_agents",
+      "category_display": "🛠️ 開發者工具與 AI 代理",
+      "items": [
+        {
+          "title": "AI開發工具Cursor爆重大漏洞 提示注入恐致沙箱突破與任意程式碼執行",
+          "core_summary": "AI輔助工具廠商Cursor被揭露兩項重大漏洞（DuneSlide），CVSS嚴重性評分高達9.8分。攻擊者可透過惡意提示或專案內容，觸發提示注入，誘使Cursor AI代理程式突破沙箱限制，並在開發者系統上執行任意指令。",
+          "expert_insight": "媒體設計：對於依賴AI輔助工具進行程式碼開發的媒體內容創作者及開發者而言，此漏洞構成嚴重威脅，可能導致專案原始碼遭竊或開發環境受損，影響生產力與智慧財產安全。",
+          "source_url": "https://www.ithome.com.tw/news/177036",
+          "tags": [
+            "AI開發工具",
+            "Cursor",
+            "提示注入",
+            "資安漏洞"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "駭客團體JadePuffer利用AI代理與LLM發動勒索攻擊 鎖定Langflow弱點",
+          "core_summary": "資安公司發現駭客團體JadePuffer利用AI代理與大型語言模型（LLM）驅動勒索軟體攻擊，其初始入侵管道竟是透過AI開發工具Langflow的弱點取得。",
+          "expert_insight": "教育科技: 此案例凸顯AI技術的雙面刃特性，提醒教育領域在推動AI工具應用時，必須同步加強資安教育與防範意識，特別是在AI代理與LLM廣泛部署的情境下，以避免學術研究或管理系統遭受勒索軟體威脅。",
+          "source_url": "https://www.ithome.com.tw/news/177055",
+          "tags": [
+            "AI代理",
+            "勒索軟體",
+            "Langflow",
+            "資安攻擊"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Langflow遠端程式碼執行漏洞遭濫用 AI基礎設施被駭挖礦",
+          "core_summary": "圖形化大型語言模型（LLM）開發工具Langflow的遠端程式碼執行漏洞（CVE-2026-33017）被發現不到一天就出現攻擊。攻擊者正利用此漏洞，將AI基礎設施用於挖取門羅幣。",
+          "expert_insight": "媒體設計: 對於使用Langflow等視覺化AI開發工具的媒體設計師和開發者而言，此漏洞提醒在享受AI便利性的同時，務必注意工具鏈本身的安全性，否則昂貴的GPU資源恐被劫持，影響專案進度與成本。",
+          "source_url": "https://www.ithome.com.tw/news/177058",
+          "tags": [
+            "Langflow",
+            "LLM",
+            "漏洞利用",
+            "門羅幣挖礦"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "generative_media",
+      "category_display": "🎵 生成式多媒體與創作",
+      "items": [
+        {
+          "title": "AI生成假新聞竟反控假新聞毀滅真新聞 挑戰媒體倫理",
+          "core_summary": "網路出現由AI生成的假新聞，內容竟是抱怨AI假新聞如何導致真新聞的消亡，此現象反映出生成式AI在媒體領域的複雜性與潛在倫理危機。",
+          "expert_insight": "媒體設計: 此事件象徵著生成式AI在資訊戰與敘事操縱上的極致運用，對媒體設計者而言，如何設計更具辨識度的AI內容標籤、強化事實查核機制，並培育閱聽人媒體素養，已是刻不容緩的挑戰。",
+          "source_url": "https://www.niemanlab.org/2026/07/now-were-getting-ai-fake-news-complaining-about-how-ai-fake-news-is-the-death-of-real-news/",
+          "tags": [
+            "AI假新聞",
+            "媒體倫理",
+            "生成式AI",
+            "資訊戰"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "edtech_applications",
+      "category_display": "📚 教育科技與應用創新",
+      "items": [],
+      "fallback_note": "本日教育科技無新政策或產品上線,K-12 與大專端持續整合 AI 助教。"
+    },
+    {
+      "category_id": "infra_opensource",
+      "category_display": "🧠 底層架構與開源模型",
+      "items": [
+        {
+          "title": "MariaDB滿分嚴重漏洞細節曝光 未更新恐致資料庫遭全面接管",
+          "core_summary": "開源關聯式資料庫MariaDB的CVE-2026-49261漏洞技術細節被揭露，CVSS評分高達10.0滿分。此漏洞已於6月初修補，若未及時更新，可能導致資料庫面臨被接管的嚴重風險。",
+          "expert_insight": "金融市場: MariaDB作為許多金融服務後端資料庫的選擇，此滿分漏洞的曝光提醒金融機構需立即檢視其基礎設施，確保資料庫已完成修補，以避免潛在的資料洩露或服務中斷，進而影響金融穩定與客戶信任。",
+          "source_url": "https://www.ithome.com.tw/news/177049",
+          "tags": [
+            "MariaDB",
+            "資料庫",
+            "開源",
+            "資安漏洞"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Argo CD儲存庫伺服器潛藏重大漏洞 恐危及Kubernetes叢集安全",
+          "core_summary": "資安業者Synacktiv揭露Argo CD儲存庫伺服器存在一項重大漏洞，攻擊者可透過特製Git儲存庫，在未經身分驗證下遠端執行程式碼，進而取得儲存庫伺服器控制權，甚至橫向入侵Kubernetes叢集。",
+          "expert_insight": "媒體設計: 對於採用Kubernetes部署內容管理系統或媒體串流服務的媒體機構來說，Argo CD的漏洞是一個嚴重的警訊。一旦叢集被接管，可能導致內容被篡改、服務中斷，甚至敏感資料外洩，影響品牌信譽和營運。",
+          "source_url": "https://www.ithome.com.tw/news/177046",
+          "tags": [
+            "Argo CD",
+            "Kubernetes",
+            "開源工具",
+            "資安風險"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Hugging Face Transformers持續引領AI模型開發與部署",
+          "core_summary": "Hugging Face的Transformers函式庫是機器學習領域領先的模型定義框架，支援文本、視覺、音訊及多模態的尖端模型，廣泛應用於AI推論與訓練。",
+          "expert_insight": "教育科技: Transformers函式庫已成為AI教育與研究不可或缺的工具。其豐富的預訓練模型與易用性，大幅降低了學生和研究人員進入深度學習領域的門檻，加速了AI技術在教育應用上的創新和探索。",
+          "source_url": "https://github.com/huggingface/transformers",
+          "tags": [
+            "Hugging Face",
+            "Transformers",
+            "AI模型",
+            "開源框架"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "law_ethics_society",
+      "category_display": "⚖️ 法律倫理與社會衝擊",
+      "items": [
+        {
+          "title": "Anthropic Claude Code隱寫術暗測中國用戶 隱私倫理引發信任危機",
+          "core_summary": "Anthropic的Claude Code技術主管透露，該公司將移除一項針對中國市場的實驗性防禦機制。此機制被揭露利用隱寫術暗中偵測中國時區、網域及AI實驗室，引發開發者對透明度和信任的危機。",
+          "expert_insight": "媒體設計: 此事件對AI倫理與用戶信任造成嚴重打擊，尤其對跨國服務的媒體和科技公司是重要警示。如何在保障知識產權與用戶隱私之間取得平衡，並確保操作透明，是維護品牌形象與用戶忠誠度的關鍵。",
+          "source_url": "https://www.ithome.com.tw/news/177034",
+          "tags": [
+            "AI倫理",
+            "隱私爭議",
+            "Anthropic",
+            "透明度"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "日本最高法院裁定AI不能列為專利發明人 明確智慧財產權歸屬",
+          "core_summary": "日本最高法院裁定，人工智慧不能被列為專利申請的發明人，此判決明確了在智慧財產權領域中，發明者必須是人類的法律立場。",
+          "expert_insight": "金融市場: 這項法律裁決為AI時代的智慧財產權歸屬設定了重要先例，有助於釐清AI技術投資的回報機制與法律風險。對於投資AI研發的企業而言，確保其創新成果能夠獲得合法專利保護，是影響投資決策的關鍵因素。",
+          "source_url": "https://japannews.yomiuri.co.jp/science-nature/technology/20260306-314930/",
+          "tags": [
+            "AI發明人",
+            "專利權",
+            "智慧財產權",
+            "法律判決"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "台灣行動實名認證升級MID Plus 強化金融防詐接軌國際標準",
+          "core_summary": "為強化網路身分安全與金融防詐，台灣三大電信業者與台網公司聯手推動行動實名認證（MID）升級至MID Plus，預計2026年完成，旨在擴大跨業聯防並接軌GSMA國際標準。",
+          "expert_insight": "金融市場: 此次行動實名認證升級，是台灣在數位金融安全領域的重大進展，直接影響金融市場的防詐效能與交易信任度。對金融業者而言，這將強化身分驗證機制，降低詐騙風險，同時也為未來數位金融服務的創新奠定更安全的基礎。",
+          "source_url": "https://www.ithome.com.tw/news/177027",
+          "tags": [
+            "台灣政府",
+            "金融防詐",
+            "行動實名認證",
+            "數位身分"
+          ],
+          "priority": "high"
+        }
+      ],
+      "fallback_note": ""
+    }
+  ],
+  "anomalies": {
+    "skipped_sources": [],
+    "notes": ""
+  }
+}
