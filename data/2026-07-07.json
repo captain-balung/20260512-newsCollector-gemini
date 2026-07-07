@@ -1,0 +1,265 @@
+{
+  "date": "2026-07-07",
+  "generated_at": "2026-07-07T12:46:13+08:00",
+  "model_version": "gemini-2.5-flash",
+  "dashboard": {
+    "QQQ": "+1.43%",
+    "GOOGL": "+1.82%",
+    "AAPL": "+1.31%",
+    "MSFT": "-0.96%",
+    "NVDA": "+0.37%",
+    "META": "+2.98%"
+  },
+  "sections": [
+    {
+      "category_id": "giants_market",
+      "category_display": "🏢 巨頭動向與市場脈動",
+      "items": [
+        {
+          "title": "微軟裁員4,800人，企業業務與Xbox受衝擊",
+          "core_summary": "微軟為因應產業變化，宣佈裁撤全球約2.1%的員工，共計4,800個職位，主要影響企業業務及Xbox部門。公司強調此舉旨在重新配置資源，而非AI取代人力。",
+          "expert_insight": "金融市場：大型科技公司持續進行策略性裁員，反映其在經濟不確定性下對資源配置的謹慎態度，此舉可能影響投資者信心與產業人才流動。",
+          "source_url": "https://www.ithome.com.tw/news/177130",
+          "tags": [
+            "科技巨頭",
+            "裁員",
+            "市場策略"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Google Cloud強化機密運算，提升AI推論與提示詞安全",
+          "core_summary": "Google Cloud擴展其機密運算服務，推出搭載Nvidia Blackwell架構GPU的Confidential G4 VMs預覽版，並開源Prompt Encryption SDKs，旨在增強AI模型推論與提示詞的加密保護。",
+          "expert_insight": "媒體設計：對於AI內容生成與應用而言，提示詞（Prompt）是創意的核心資產。此舉強化了生成式AI的智慧財產保護與商業機密安全，有助於企業更放心地在雲端部署AI服務，推動創新內容的發展。",
+          "source_url": "https://www.ithome.com.tw/news/177093",
+          "tags": [
+            "Google Cloud",
+            "AI安全",
+            "機密運算",
+            "資料隱私"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "研究警示：AI成本恐超越工程師薪資，企業導入需深思",
+          "core_summary": "最新分析指出，AI技術的營運成本（OpEx）可能在未來幾年內超越聘用人類工程師的成本，這將迫使企業重新評估AI的投資報酬率與導入策略。",
+          "expert_insight": "金融市場：這項觀察對企業的長期資本支出與營運成本預算構成重大挑戰，可能引發市場對AI產業估值重新評估，並促使企業更精確地衡量AI效益，而非盲目追逐新技術。",
+          "source_url": "https://tomtunguz.com/ai-spend-breakeven-2029/",
+          "tags": [
+            "AI成本",
+            "企業策略",
+            "投資報酬率"
+          ],
+          "priority": "high"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "dev_tools_agents",
+      "category_display": "🛠️ 開發者工具與 AI 代理",
+      "items": [
+        {
+          "title": "AI顛覆紅隊演練，實現持續性與深度資安評估",
+          "core_summary": "資安廠商DEVCORE指出，AI技術正徹底改變紅隊演練的執行模式，透過人機協作，突破傳統規模限制，達到更具持續性及深度的資安防禦體系評估。",
+          "expert_insight": "教育科技：AI在紅隊演練的應用，將促使資安教育訓練內容更新，強調AI輔助工具的使用與分析能力培養，以因應未來資安攻防的人機協作新趨勢。",
+          "source_url": "https://www.ithome.com.tw/news/177115",
+          "tags": [
+            "AI資安",
+            "紅隊演練",
+            "人機協作"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "ChatGPT提示注入漏洞曝光，OpenAI緊急修補",
+          "core_summary": "資安研究員揭露ChatGPT存在提示注入漏洞，攻擊者可藉此繞過防護機制，取得額外資料。OpenAI已迅速完成修補。",
+          "expert_insight": "媒體設計：對於依賴大型語言模型進行內容創作、客服互動的媒體業者而言，提示注入漏洞可能導致模型行為失控或敏感資料外洩，凸顯了AI內容安全與模型倫理的重要挑戰。",
+          "source_url": "https://www.ithome.com.tw/news/177127",
+          "tags": [
+            "ChatGPT",
+            "提示注入",
+            "AI安全",
+            "漏洞修補"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "OfficeCLI：AI代理工具，實現Office文件自動化處理",
+          "core_summary": "OfficeCLI是一個開源的Office套件工具，專為AI代理設計，使其能夠讀取和編輯Microsoft Office文件，大幅提升自動化辦公流程的潛力。",
+          "expert_insight": "教育科技：OfficeCLI的出現，預示著AI代理在行政與學術工作中的普及。教育機構可探索將其整合至課程設計，訓練學生利用AI自動化處理報告、數據分析等任務，提升數位素養與效率。",
+          "source_url": "https://github.com/iOfficeAI/OfficeCLI",
+          "tags": [
+            "AI代理",
+            "自動化辦公",
+            "Office文件",
+            "開源工具"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "generative_media",
+      "category_display": "🎵 生成式多媒體與創作",
+      "items": [
+        {
+          "title": "Fable將reMarkable變成哈利波特佛地魔日記",
+          "core_summary": "一項創意專案「Fable」成功將數位筆記本reMarkable改造為類似《哈利波特》中佛地魔日記的互動裝置，展示了軟體開發與個人化應用的可能性。",
+          "expert_insight": "媒體設計：此專案展現了跨領域創意應用的潛力，透過將既有硬體賦予新的軟體功能與敘事性，為互動媒體設計帶來更多靈感，尤其在AR/VR或沉浸式體驗中，此類客製化裝置將更具吸引力。",
+          "source_url": "https://github.com/MaximeRivest/Riddle",
+          "tags": [
+            "創意應用",
+            "互動媒體",
+            "數位藝術"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Claude-Video：賦予Claude AI觀看與分析影片的能力",
+          "core_summary": "Claude-Video專案讓Anthropic的Claude AI能夠「觀看」並分析任何影片，透過下載、提取影格、轉錄內容，並將所有資訊提供給Claude，實現深度影片理解與互動。",
+          "expert_insight": "媒體設計：這項工具為媒體內容創作與分析帶來巨大潛力，例如自動生成影片摘要、內容標籤，甚至協助創作者構思劇情或調整剪輯，大幅提升影片製作與消費的效率。",
+          "source_url": "https://github.com/bradautomates/claude-video",
+          "tags": [
+            "影片AI",
+            "Claude AI",
+            "內容分析",
+            "媒體創作"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "edtech_applications",
+      "category_display": "📚 教育科技與應用創新",
+      "items": [
+        {
+          "title": "實用課程：生產級AI代理RAG應用開發",
+          "core_summary": "該GitHub專案提供了一套關於如何開發生產級AI代理RAG（Retrieval-Augmented Generation）應用的課程，旨在幫助開發者將AI模型整合到實際生產環境中。",
+          "expert_insight": "教育科技：這類課程對於培訓新一代AI工程師至關重要，能有效彌補學術理論與產業實務之間的落差，加速AI技術在各領域的落地應用，尤其在客製化知識庫與智能輔助教學上具有潛力。",
+          "source_url": "https://github.com/jamwithai/production-agentic-rag-course",
+          "tags": [
+            "AI教育",
+            "RAG模型",
+            "代理開發",
+            "線上課程"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "AI代理研究技能：跨平台歸納最新資訊",
+          "core_summary": "這項AI代理技能能夠在Reddit、X、YouTube、Hacker News、Polymarket等平台以及整個網路，針對任何主題進行研究，並綜合生成一份有依據的摘要。",
+          "expert_insight": "教育科技：此工具大大提升了學生及研究人員進行資料收集與歸納的效率，有助於培養批判性思考和資訊整合能力。它能快速提供主題背景知識，讓學習者能更快進入深度分析，加速學習進程。",
+          "source_url": "https://github.com/mvanhorn/last30days-skill",
+          "tags": [
+            "AI研究",
+            "資訊整合",
+            "學習工具",
+            "知識管理"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "infra_opensource",
+      "category_display": "🧠 底層架構與開源模型",
+      "items": [
+        {
+          "title": "OpenSSH 10.4釋出，導入後量子密碼學強化資安",
+          "core_summary": "開源遠端存取工具OpenSSH正式發布10.4版，除了修補多項漏洞外，最引人注目的是導入了混合式後量子密碼學（PQC）簽章，旨在抵禦未來量子電腦可能帶來的威脅。",
+          "expert_insight": "金融市場：金融機構高度依賴OpenSSH進行安全遠端管理，PQC的導入為未來的資訊安全帶來關鍵保障，保護敏感數據免受量子攻擊，確保長期交易與資料傳輸的機密性與完整性。",
+          "source_url": "https://www.ithome.com.tw/news/177136",
+          "tags": [
+            "OpenSSH",
+            "後量子密碼學",
+            "開源安全",
+            "基礎設施"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "警告！FatFs檔案系統漏洞恐威脅海量IoT與嵌入式設備",
+          "core_summary": "資安廠商runZero揭露，廣泛用於小型嵌入式裝置的檔案系統元件FatFs存在7個高風險資安漏洞，可能影響大量隨身碟、SD記憶卡及各式物聯網（IoT）設備。",
+          "expert_insight": "媒體設計：許多數位看板、智能顯示器或互動裝置都採用嵌入式系統。這些裝置若使用存在漏洞的FatFs，恐成為駭客入侵的目標，危及媒體內容的完整性與播放安全，甚至成為散布惡意內容的管道。",
+          "source_url": "https://www.ithome.com.tw/news/177089",
+          "tags": [
+            "IoT安全",
+            "嵌入式系統",
+            "檔案系統",
+            "資安漏洞"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "nanoGPT：簡潔高效的GPT訓練與微調庫",
+          "core_summary": "nanoGPT是一個由知名AI研究員Andrej Karpathy建立的GitHub專案，旨在提供最簡單、最快速的方式來訓練和微調中等規模的GPT模型。",
+          "expert_insight": "教育科技：對於想深入理解或實作大型語言模型（LLM）的學生和研究人員而言，nanoGPT提供了一個極佳的入門平台，其簡潔的設計有助於降低學習門檻，加速生成式AI技術的普及與實驗。",
+          "source_url": "https://github.com/karpathy/nanoGPT",
+          "tags": [
+            "LLM",
+            "GPT模型",
+            "開源專案",
+            "AI基礎"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "law_ethics_society",
+      "category_display": "⚖️ 法律倫理與社會衝擊",
+      "items": [
+        {
+          "title": "臺灣資安署啟動第二屆「產品資安獵捕」，鎖定國產軟體強化防護",
+          "core_summary": "國家資通安全研究院（資安院）宣布啟動第二屆「產品資安漏洞獵捕活動」，將重點從去年的ICT硬體產品轉向臺灣軟體產品，旨在鼓勵國內業者提升資安意識與產品防護能力。",
+          "expert_insight": "金融市場：此活動對臺灣金融業的資訊安全具深遠意義。許多金融服務供應商使用國產軟體，強化這些軟體的資安體質，能有效降低供應鏈風險，提升整體金融系統的韌性。",
+          "source_url": "https://www.ithome.com.tw/news/177092",
+          "tags": [
+            "臺灣資安",
+            "政府政策",
+            "軟體安全",
+            "漏洞獵捕"
+          ],
+          "priority": "high"
+        },
+        {
+          "title": "北韓駭客發動跨平台供應鏈攻擊，惡意套件滲透開發生態圈",
+          "core_summary": "北韓駭客組織（如Contagious Interview）從今年起，將攻擊重心轉向開發生態圈，透過在NPM、Packagist、Go等平臺上架惡意套件，發動大規模供應鏈攻擊。",
+          "expert_insight": "教育科技：這類攻擊事件提醒開發者教育需更著重安全編程與供應鏈風險管理。開發者在學習使用開源套件時，必須培養驗證來源的習慣，並理解惡意套件對專案安全的潛在威脅。",
+          "source_url": "https://www.ithome.com.tw/news/177137",
+          "tags": [
+            "供應鏈攻擊",
+            "北韓駭客",
+            "開發者安全",
+            "網路犯罪"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "NIST發布新指引，全面強化系統安全、隱私與供應鏈風險管理",
+          "core_summary": "美國國家標準暨技術研究院（NIST）更新其系統規畫指引NIST SP 800-18 Rev. 2，特別強調強化系統的安全、隱私及網路安全供應鏈風險管理。",
+          "expert_insight": "金融市場：金融機構對法規遵循與風險管理要求極高。NIST新指引為其提供了更全面的框架，有助於建立健全的資安、隱私及供應鏈風險治理體系，符合監管要求並保護客戶資產。",
+          "source_url": "https://www.ithome.com.tw/news/177133",
+          "tags": [
+            "NIST",
+            "資安標準",
+            "供應鏈風險",
+            "隱私保護"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    }
+  ],
+  "anomalies": {
+    "skipped_sources": [],
+    "notes": ""
+  }
+}
