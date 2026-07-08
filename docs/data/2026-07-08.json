@@ -1,0 +1,312 @@
+{
+  "date": "2026-07-08",
+  "generated_at": "2026-07-08T12:12:24+08:00",
+  "model_version": "gemini-2.5-flash",
+  "dashboard": {
+    "QQQ": "-1.85%",
+    "GOOGL": "Stable",
+    "AAPL": "-0.64%",
+    "MSFT": "+0.54%",
+    "NVDA": "+0.71%",
+    "META": "+2.55%"
+  },
+  "sections": [
+    {
+      "category_id": "giants_market",
+      "category_display": "🏢 巨頭動向與市場脈動",
+      "items": [
+        {
+          "title": "Google搜尋控制臺納入社群平台流量分析，助創作者精準洞察",
+          "core_summary": "Google搜尋控制臺新增「平台屬性」功能，首次支援分析Instagram、TikTok、X及YouTube等社群帳號的搜尋流量。創作者和內容發布者可將各社群帳號新增為獨立屬性，以追蹤Google搜尋及Discover帶來的流量表現。",
+          "expert_insight": "從媒體設計視角，這項功能為社群媒體內容創作者與品牌提供了前所未有的數據洞察，能更精確地評估內容在Google生態系中的曝光與效益，進而優化內容策略。在金融市場上，這將影響數位行銷預算分配，推動社群廣告與SEO策略的整合性投資。",
+          "source_url": "https://www.ithome.com.tw/news/177161",
+          "tags": [
+            "Google",
+            "社群媒體",
+            "流量分析",
+            "內容行銷"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Gartner揭示未來兩年關鍵AI趨勢：主權AI、代理風險與治理成焦點",
+          "core_summary": "Gartner於資料與分析高峰會提出未來兩年的六大資料與分析趨勢，其中三項與AI資安緊密相關：主權AI的加速發展、透過決策治理平台降低AI代理風險，以及利用AI治理平台建立信任，強調企業應將這些納入策略規劃。",
+          "expert_insight": "從金融市場視角，這預示了企業在AI投資上的新方向，風險管理和治理將成為關鍵，影響資金在AI基礎設施、合規技術及人才培訓的配置。在教育科技領域，這也提醒了未來人才培養需更注重AI倫理與治理的跨域能力，以應對產業趨勢。",
+          "source_url": "https://www.ithome.com.tw/news/177153",
+          "tags": [
+            "Gartner",
+            "AI趨勢",
+            "主權AI",
+            "AI治理",
+            "風險管理"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "IBM大型主機擴增機架式與單櫃機型，彈性部署瞄準AI與資料中心",
+          "core_summary": "IBM宣布擴大z17與LinuxONE 5大型主機產品線，新增機架式及單櫃機型，以提供企業在資料中心空間、工作負載與成本上的彈性部署。新機型將兼具大型主機的AI運算、資安與高可用性，預計8月中旬上市。",
+          "expert_insight": "從金融市場視角，這是IBM大型主機策略的重要轉變，能更好地適應現代資料中心的彈性需求，降低企業進入大型主機AI運算的門檻。對於需要處理巨量資料、高度安全性的金融機構而言，新的部署選項將有助於其數位轉型與成本優化。",
+          "source_url": "https://www.ithome.com.tw/news/177150",
+          "tags": [
+            "IBM",
+            "大型主機",
+            "AI運算",
+            "資料中心",
+            "彈性部署"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "dev_tools_agents",
+      "category_display": "🛠️ 開發者工具與 AI 代理",
+      "items": [
+        {
+          "title": "CISA急發警告：聯邦機構須於3天內修補Langflow重大漏洞",
+          "core_summary": "美國網路安全與基礎設施安全局（CISA）發布緊急公告，將圖像化大型語言模型開發工具Langflow的一個重大資安漏洞（CVE-2026-55255）列入已遭利用列表。CISA要求所有聯邦機構必須在3天內完成修補，以防範日益頻繁的攻擊活動。",
+          "expert_insight": "從開發者工具視角，Langflow作為主流的LLM開發工具，其漏洞被積極利用，對AI開發社群構成嚴重威脅。這提醒了開發者在採用新興AI工具時，必須高度重視供應鏈安全及時修補漏洞，以保障模型與應用程式的安全性。",
+          "source_url": "https://www.ithome.com.tw/news/177157",
+          "tags": [
+            "Langflow",
+            "LLM開發",
+            "資安漏洞",
+            "CISA",
+            "供應鏈安全"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "北韓Lazarus駭客團體發動NPM供應鏈攻擊，鎖定開發者竊取加密資產",
+          "core_summary": "資安廠商JFrog揭露北韓駭客Lazarus團體在NPM平台發動供應鏈攻擊，偽裝成Rollup Polyfill建置工具的惡意套件，透過多層次酬載部署遠端存取木馬。此攻擊旨在竊取開發者的瀏覽器、加密貨幣錢包資料並監控剪貼簿，對CI/CD環境構成嚴重威脅。",
+          "expert_insight": "從金融市場與開發者工具雙重視角，此攻擊凸顯了開源生態系在加密貨幣資產安全上的脆弱性。開發者社群和金融科技企業必須強化軟體供應鏈的資安驗證機制，並提高對惡意套件的警覺，以防範國家級駭客利用開發工具漏洞進行資產竊取。",
+          "source_url": "https://www.ithome.com.tw/news/177138",
+          "tags": [
+            "北韓駭客",
+            "Lazarus",
+            "NPM攻擊",
+            "供應鏈攻擊",
+            "加密貨幣竊盜"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Google Gemini API強化代理功能，支援背景任務與遠端控制提升彈性",
+          "core_summary": "Google宣布擴展其Gemini API中的「Managed Agents」功能，新增支援背景任務執行、遠端管理控制平面（remote MCP）等特性。這項更新將賦予開發者在建構AI代理時更大的彈性與控制力，使其能處理更複雜、更持續性的應用場景。",
+          "expert_insight": "從開發者工具視角，Gemini API的這項強化，意味著AI代理的開發門檻降低與應用廣度增加。開發者能更便捷地設計出可獨立運行、跨設備協作的智慧代理，尤其對於需要長時間執行或分散式部署的AI解決方案，將帶來顯著的效率提升與創新潛力。",
+          "source_url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api/",
+          "tags": [
+            "Google Gemini",
+            "AI代理",
+            "API",
+            "開發者工具",
+            "背景任務"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "generative_media",
+      "category_display": "🎵 生成式多媒體與創作",
+      "items": [
+        {
+          "title": "Meta推出Muse Image，整合Instagram與WhatsApp影像生成功能",
+          "core_summary": "Meta旗下超級智慧實驗室（MSL）發表AI圖片生成模型Muse Image，並已整合至Meta AI，開始支援Instagram Stories及WhatsApp平台。這是MSL繼Muse Spark後推出的第二款模型，旨在為社群平台用戶提供更便捷的圖像生成體驗。",
+          "expert_insight": "從媒體設計視角，Muse Image的推出將深刻影響社群內容的創作模式，讓更多使用者能直接在平台內透過AI快速生成視覺內容。這不僅提升了內容生產效率，也可能改變用戶的互動方式，促使更多元、個人化的視覺表達成為主流。",
+          "source_url": "https://www.ithome.com.tw/news/177156",
+          "tags": [
+            "Meta",
+            "Muse Image",
+            "AI圖片生成",
+            "社群媒體",
+            "影像設計"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Pocket TTS：輕量化語音合成模型，實現CPU上高效運行",
+          "core_summary": "GitHub上開源專案「Pocket TTS」展示一款能在一般CPU上高效運行的文字轉語音（TTS）模型。這款輕量級的語音合成工具，強調其小型化與低資源需求，旨在讓TTS技術更具普及性與實用性。",
+          "expert_insight": "從媒體設計視角，這項技術突破代表語音生成將不再受限於高階硬體，使得聲音內容創作門檻大幅降低，有助於在地化和個人化的音頻應用發展。在教育科技領域，這也為開發離線語音輔助學習工具、聽力練習應用提供了更經濟可行的解決方案。",
+          "source_url": "https://github.com/kyutai-labs/pocket-tts",
+          "tags": [
+            "TTS",
+            "語音合成",
+            "開源",
+            "輕量化",
+            "音訊創作"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Claude新增「影片觀看」技能，賦予AI理解動態內容能力",
+          "core_summary": "一個名為「claude-video」的GitHub專案展示如何賦予Claude AI觀看任何影片的能力。透過下載、擷取影格、轉錄字幕等流程，AI能接收影片的視覺與聽覺資訊，進而對其內容進行分析與理解。",
+          "expert_insight": "從媒體設計視角，這項功能顯著擴展了AI在多媒體內容理解與創作輔助上的潛力。它不僅能幫助內容創作者快速分析影片，提升編輯效率，也能為觀眾提供更深入的內容洞察或互動體驗，例如自動生成摘要、重點標記等，將徹底革新影音內容的處理方式。",
+          "source_url": "https://github.com/bradautomates/claude-video",
+          "tags": [
+            "Claude",
+            "AI影片分析",
+            "多媒體理解",
+            "內容創作",
+            "生成式AI"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "edtech_applications",
+      "category_display": "📚 教育科技與應用創新",
+      "items": [
+        {
+          "title": "AI時代崛起，哲學系學生技能在職場重獲青睞",
+          "core_summary": "在一篇標題為《哲學系學生的復仇》的報導中，探討了隨著AI技術的發展，批判性思維、邏輯推理和倫理判斷等哲學系所培養的軟實力，在需要AI治理與倫理考量的未來職場中，變得越來越有價值，這些技能對應對AI帶來的複雜挑戰至關重要。",
+          "expert_insight": "從教育科技視角，這趨勢強烈指出教育體系應重新評估STEM教育與人文教育的平衡，強調跨領域學習的重要性。在AI時代，僅有技術知識不足以應對複雜的社會與倫理挑戰，培養具備深度思考與人文關懷的學生，將是未來教育的關鍵投資。",
+          "source_url": "https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html",
+          "tags": [
+            "AI與工作",
+            "哲學教育",
+            "批判性思維",
+            "人才趨勢",
+            "教育轉型"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "AI求職框架：Claude Code助你客製履歷與面試準備",
+          "core_summary": "一個名為「ai-job-search」的AI驅動求職框架，基於Claude Code開發。該工具能評估職位、客製化履歷、撰寫求職信，並協助準備面試。使用者只需填寫個人資料，即可讓AI自動化多項求職任務。",
+          "expert_insight": "從教育科技視角，這項AI工具代表了職涯發展與輔導領域的重大創新。它能有效提升求職者的效率與成功率，特別是對於剛畢業或轉職的學生。這也提醒教育機構應將AI工具融入職涯輔導課程，幫助學生掌握利用AI提升個人競爭力的方法。",
+          "source_url": "https://github.com/MadsLorentzen/ai-job-search",
+          "tags": [
+            "AI求職",
+            "職涯發展",
+            "履歷撰寫",
+            "面試準備",
+            "教育應用"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "OpenMed：在地端運行的醫療AI，兼顧隱私與精準分析",
+          "core_summary": "OpenMed是一個專注於在地端運行的醫療保健AI專案，提供臨床命名實體識別（NER）和HIPAA個人身份資訊（PII）去識別化功能。它支援超過1,000種醫學模型與12種語言，無需雲端服務即可在設備上運作，確保患者資料隱私。",
+          "expert_insight": "從教育科技視角，OpenMed為醫療領域的學習與實踐帶來重大突破。醫學生和專業人士可在保護患者隱私的前提下，利用AI進行病例分析、資料處理。從法律倫理視角，在地端運行的設計徹底解決了醫療數據上雲的合規與隱私疑慮，為醫療AI應用樹立了新典範。",
+          "source_url": "https://github.com/maziyarpanahi/openmed",
+          "tags": [
+            "醫療AI",
+            "數據隱私",
+            "在地端運作",
+            "HIPAA",
+            "臨床應用"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "infra_opensource",
+      "category_display": "🧠 底層架構與開源模型",
+      "items": [
+        {
+          "title": "開源版本控制系統Gitea驚爆嚴重漏洞，攻擊者恐偽冒使用者",
+          "core_summary": "開源版本控制系統Gitea近期發布了1.26.3及1.26.4版，修補多項資安漏洞。資安公司警告，其中一個在Docker映像檔中的重大漏洞CVE-2026-20896已遭利用，攻擊者可藉由單一標頭偽冒使用者，CVSS風險評分高達9.8分，呼籲用戶立即修補。",
+          "expert_insight": "從開發者工具視角，Gitea作為廣受使用的開源版本控制系統，其重大漏洞遭利用對開發者社群構成直接威脅。這突顯了開源工具在軟體供應鏈中的關鍵性與潛在風險，提醒企業及開發者必須密切關注並及時更新，確保開發環境的安全性。",
+          "source_url": "https://www.ithome.com.tw/news/177163",
+          "tags": [
+            "Gitea",
+            "開源漏洞",
+            "資安警訊",
+            "版本控制",
+            "Docker"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "記憶體安全需求驅動，程式語言Rust首度擠進TIOBE前十名",
+          "core_summary": "TIOBE公布2026年7月程式語言人氣指標，Rust憑藉其對記憶體安全的高度重視及高效能表現，首次進入前十名，排名第10，相較去年同期大幅躍升。Python仍穩居榜首，而C、C++、Java及C#分列前五。",
+          "expert_insight": "從教育科技視角，Rust的崛起預示了未來程式設計教育的趨勢，強調記憶體安全與系統級開發的重要性。各大專院校與培訓機構應考慮將Rust納入課程規劃，培養具備高效率和安全性程式開發能力的學生，以滿足產業對新一代系統語言的需求。",
+          "source_url": "https://www.ithome.com.tw/news/177155",
+          "tags": [
+            "Rust",
+            "程式語言",
+            "TIOBE",
+            "記憶體安全",
+            "開源技術"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "OpenSSH 10.4正式發布，修補漏洞並導入後量子密碼簽章",
+          "core_summary": "Linux與Unix廣泛採用的開源遠端存取工具OpenSSH，於7月6日發布10.4版。此版本不僅修補了8項資安漏洞，更關鍵的是導入了混合式的後量子密碼學（PQC）演算法簽章，為未來量子計算威脅下的網路安全做好準備，建議用戶儘速升級。",
+          "expert_insight": "從底層架構視角，OpenSSH引入PQC簽章是資安領域的重要里程碑，標誌著主流開源工具正積極應對後量子時代的挑戰。這不僅提升了遠端存取協議的安全性，也為金融市場與敏感資料傳輸提供了更堅固的加密保障，降低未來量子駭客攻擊的潛在風險。",
+          "source_url": "https://www.ithome.com.tw/news/177136",
+          "tags": [
+            "OpenSSH",
+            "資安漏洞",
+            "後量子密碼",
+            "開源",
+            "PQC"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "law_ethics_society",
+      "category_display": "⚖️ 法律倫理與社會衝擊",
+      "items": [
+        {
+          "title": "調查商業間諜軟體濫用，歐洲議會成員反遭Pegasus入侵",
+          "core_summary": "歐洲議會PEGA委員會曾設立以調查Pegasus等商業間諜軟體遭濫用的情況，但最新報告指出，該委員會前成員Stelios Kouloglou的iPhone竟遭Pegasus入侵。研究人員研判，攻擊者可能藉此竊取PEGA委員會的內部文件與審議內容。",
+          "expert_insight": "從法律倫理視角，這起事件凸顯了商業間諜軟體對民主機構和公民社會的嚴重威脅，即使是負責監督的成員也難倖免。這對媒體設計領域的調查記者和隱私倡導者是嚴峻警訊，強調了數位安全與隱私保護的迫切性，以及政府對此類工具應實施更嚴格監管的必要。",
+          "source_url": "https://www.ithome.com.tw/news/177169",
+          "tags": [
+            "Pegasus",
+            "商業間諜軟體",
+            "歐洲議會",
+            "隱私侵害",
+            "網路監控"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "俄羅斯網路戰升級：鎖定烏克蘭媒體發動DDoS攻擊，資訊戰白熱化",
+          "core_summary": "自俄烏戰爭爆發以來，烏克蘭國家安全局（SBU）已成功阻止逾1.6萬起與俄羅斯相關的網路攻擊。除了政府、金融與國防單位，新聞媒體也成為俄羅斯駭客的優先攻擊目標，近期更對電視臺發動DDoS攻擊，試圖癱瘓資訊傳播。",
+          "expert_insight": "從媒體設計視角，這場針對媒體的網路戰凸顯了資訊自由在衝突中的脆弱性，國家級駭客試圖藉由癱瘓媒體基礎設施，操縱公眾敘事。在法律倫理層面，這不僅是國家安全問題，更是對言論自由和民主基石的直接挑戰，國際社會應加強對媒體數位韌性的支持與保護。",
+          "source_url": "https://www.ithome.com.tw/news/177160",
+          "tags": [
+            "俄烏戰爭",
+            "網路戰",
+            "媒體攻擊",
+            "DDoS",
+            "資訊安全"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "NIST發布系統規畫指引更新，強化資安、隱私與供應鏈風險治理",
+          "core_summary": "美國國家標準暨技術研究院（NIST）發布了系統規畫指引NIST SP 800-18的更新版本Rev. 2，全名為《Developing Security, Privacy, and Cybersecurity Supply Chain Risk Management Plans for Systems》。新指引強化了組織建立與維護系統規畫文件的規範，特別聚焦於資安、隱私保護與供應鏈風險管理。",
+          "expert_insight": "從法律倫理與金融市場視角，NIST的這項更新對於企業和政府機構意義重大。它為建立更完善的資安、隱私及供應鏈風險治理框架提供了標準化依據，有助於降低合規風險與潛在的經濟損失。對於企業而言，遵循此指引將強化其數位韌性，並提升投資者對其風險管理能力的信心。",
+          "source_url": "https://www.ithome.com.tw/news/177133",
+          "tags": [
+            "NIST",
+            "資安指引",
+            "隱私保護",
+            "供應鏈風險",
+            "法規遵循"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    }
+  ],
+  "anomalies": {
+    "skipped_sources": [],
+    "notes": ""
+  }
+}
