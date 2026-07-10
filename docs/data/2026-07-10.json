@@ -1,0 +1,255 @@
+{
+  "date": "2026-07-10",
+  "generated_at": "2026-07-10T12:46:11+08:00",
+  "model_version": "gemini-2.5-flash",
+  "dashboard": {
+    "QQQ": "+1.66%",
+    "GOOGL": "-0.84%",
+    "AAPL": "+0.90%",
+    "MSFT": "Stable",
+    "NVDA": "-0.66%",
+    "META": "+4.70%"
+  },
+  "sections": [
+    {
+      "category_id": "giants_market",
+      "category_display": "🏢 巨頭動向與市場脈動",
+      "items": [
+        {
+          "title": "GPT-5.6全面上線，GitHub及M365 Copilot搶先導入",
+          "core_summary": "OpenAI最新GPT-5.6系列模型Sol、Terra、Luna全面上線，已獲美國政府許可，並同步整合至GitHub Copilot與Microsoft 365 Copilot。新模型在程式撰寫、知識工作、生命科學等領域表現領先，並新增ultra模式支援複雜任務。",
+          "expert_insight": "金融市場視角：GPT-5.6全面導入企業級應用，將顯著提升知識工作效率與程式開發速度，對於企業軟體與服務供應商的競爭格局產生深遠影響，並加速相關產業的數位轉型投資。",
+          "source_url": "https://www.ithome.com.tw/news/177229",
+          "tags": [
+            "OpenAI",
+            "GPT-5.6",
+            "AI模型",
+            "企業應用"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "OpenAI推出ChatGPT Work，打造跨應用程式的自主AI代理人",
+          "core_summary": "OpenAI推出ChatGPT Work，將ChatGPT從對話工具升級為能自主執行多步驟任務的AI代理人。此代理人能跨應用程式與檔案蒐集資訊、規畫並執行工作流程，目標鎖定企業與知識工作者市場。",
+          "expert_insight": "金融市場視角：ChatGPT Work的推出預示著企業級自動化市場的重大變革，AI代理人能自主完成複雜任務，將大幅降低營運成本，並重塑企業工作流程與協作模式，引發相關軟體服務的投資與需求增長。",
+          "source_url": "https://www.ithome.com.tw/news/177224",
+          "tags": [
+            "AI代理人",
+            "ChatGPT",
+            "企業自動化",
+            "工作流程"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "OpenAI升級ChatGPT桌面程式，淘汰獨立版Atlas瀏覽器",
+          "core_summary": "OpenAI宣布升級ChatGPT桌面程式，將Codex程式開發工具及內建瀏覽器、電腦操作等功能整合其中。此舉意味著去年推出的ChatGPT Atlas瀏覽器將於8月9日停止運作並逐步淘汰。",
+          "expert_insight": "媒體設計視角：整合桌面程式與淘汰獨立瀏覽器的策略，反映OpenAI期望提供更統一、流暢的用戶體驗，這將影響用戶獲取資訊及互動模式，媒體內容的傳播與呈現方式也需適應這種平台整合趨勢。",
+          "source_url": "https://www.ithome.com.tw/news/177228",
+          "tags": [
+            "ChatGPT",
+            "桌面應用",
+            "產品整合",
+            "用戶體驗"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "dev_tools_agents",
+      "category_display": "🛠️ 開發者工具與 AI 代理",
+      "items": [
+        {
+          "title": "GitHub前執行長創辦Entire，推分散式Git網路優化AI代理負載",
+          "core_summary": "GitHub前執行長新創公司Entire推出分散式Git託管網路，允許將GitHub儲存庫鏡像至多區域節點。此舉旨在讓AI程式代理能從最近的節點讀取程式碼，降低GitHub儲存庫因高並行存取造成的負載。",
+          "expert_insight": "金融市場視角：隨著AI代理人對程式碼存取需求激增，此類基礎設施優化能降低開發成本、提升效率，對於依賴大量程式碼訓練與執行的AI開發企業，意味著潛在的成本節省與性能提升，進而影響其市場競爭力。",
+          "source_url": "https://www.ithome.com.tw/news/177220",
+          "tags": [
+            "AI代理人",
+            "Git託管",
+            "分散式網路",
+            "開發工具"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "研究揭露工作流提示注入手法，繞過護欄使GitHub Copilot撰惡意碼",
+          "core_summary": "研究人員發現一種名為「工作流層級越獄建構」的新提示注入手法，能將惡意指令拆解成多階段、看似正常的開發流程。此手法成功繞過GitHub Copilot的安全護欄，使其撰寫出惡意程式碼。",
+          "expert_insight": "教育科技視角：這項研究對AI輔助編程工具的安全性提出嚴峻挑戰，教育單位在教授程式設計時需更強調AI安全與倫理，並訓練學生辨識潛在的AI生成惡意內容，以防範未來惡意程式碼的氾濫。",
+          "source_url": "https://www.ithome.com.tw/news/177223",
+          "tags": [
+            "AI安全",
+            "提示注入",
+            "GitHub Copilot",
+            "惡意程式"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "抖音開源SuperAgent框架，長週期任務實現研究、編碼與創作",
+          "core_summary": "抖音旗下字節跳動開源了名為「Deer-Flow」的長週期SuperAgent框架，該框架整合沙盒、記憶、工具、技能與子代理人等模組，能夠執行需要數分鐘至數小時的複雜研究、編碼及創作任務。",
+          "expert_insight": "媒體設計視角：該框架能處理長週期、多步驟的創作任務，將賦予媒體設計師更強大的自動化工具，例如自動生成多媒體內容、劇本或動畫草稿，大幅提升內容產製效率與可能性。",
+          "source_url": "https://github.com/bytedance/deer-flow",
+          "tags": [
+            "AI代理人",
+            "開源框架",
+            "任務自動化",
+            "字節跳動"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "generative_media",
+      "category_display": "🎵 生成式多媒體與創作",
+      "items": [
+        {
+          "title": "ChatGPT Voice導入GPT-Live，實現AI語音同步對話體驗",
+          "core_summary": "OpenAI宣布將新一代底層語音模型GPT-Live導入ChatGPT Voice服務，採用全雙工架構。這使得ChatGPT Voice能從過去的輪流對話模式，進化為可同步聆聽與回應的即時語音互動。",
+          "expert_insight": "媒體設計視角：GPT-Live的全雙工語音互動能力是人機對話體驗的重大突破，為沉浸式媒體內容（如互動式遊戲、虛擬角色對話）和語音介面設計帶來無限可能，將極大提升使用者參與感。",
+          "source_url": "https://www.ithome.com.tw/news/177203",
+          "tags": [
+            "語音AI",
+            "ChatGPT Voice",
+            "GPT-Live",
+            "人機互動"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Voicebox開源AI語音工作室，助用戶輕鬆克隆、創作語音",
+          "core_summary": "一個名為「Voicebox」的開源AI語音工作室在GitHub上推出。它提供語音克隆、語音聽寫及語音創作功能，旨在讓使用者能更輕易地存取和應用AI語音技術。",
+          "expert_insight": "媒體設計視角：開源語音工作室降低了AI語音創作的技術門檻，讓更多媒體設計師、獨立創作者能自由運用語音複製與生成技術，為播客、有聲書、數位內容帶來更豐富的客製化語音選項。",
+          "source_url": "https://github.com/jamiepine/voicebox",
+          "tags": [
+            "語音合成",
+            "AI語音",
+            "開源工具",
+            "媒體創作"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Claude-Video專案問世，賦予AI模型影片「觀看」理解能力",
+          "core_summary": "一個名為「Claude-Video」的開源專案，賦予AI模型Claude觀看任何影片的能力。此工具可下載影片、提取影格、轉錄音頻，然後將所有資訊交由Claude處理，進行理解與分析。",
+          "expert_insight": "媒體設計視角：讓AI能深入理解影片內容，將徹底改變影音資料的利用方式。媒體設計師可運用此工具進行影片內容分析、自動標記關鍵畫面或生成摘要，甚至作為未來自動化影片剪輯與特效生成的基礎。",
+          "source_url": "https://github.com/bradautomates/claude-video",
+          "tags": [
+            "影音AI",
+            "Claude",
+            "內容理解",
+            "媒體分析"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "edtech_applications",
+      "category_display": "📚 教育科技與應用創新",
+      "items": [],
+      "fallback_note": "本日教育科技無新政策或產品上線,K-12 與大專端持續整合 AI 助教。"
+    },
+    {
+      "category_id": "infra_opensource",
+      "category_display": "🧠 底層架構與開源模型",
+      "items": [
+        {
+          "title": "Meta推出Muse Spark 1.1，強化模型API拓展開源生態",
+          "core_summary": "Meta推出了Muse Spark 1.1模型API，旨在進一步拓展其開源AI生態系統。此舉為開發者提供了更多的模型選擇與底層AI能力，有助於推動創新應用。",
+          "expert_insight": "金融市場視角：Meta積極發展並開源模型API，將促進AI技術的普及與商業應用，使得更多企業能以較低成本導入先進AI能力，從而影響各行業的數位化轉型投資與市場競爭格局。",
+          "source_url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+          "tags": [
+            "Meta",
+            "開源模型",
+            "模型API",
+            "AI生態"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "騰訊雲開源AI代理人本地記憶體，零外部API依賴高效存儲",
+          "core_summary": "騰訊雲推出並開源了名為「TencentDB-Agent-Memory」的AI代理人本地長期記憶體解決方案。該方案採用四層漸進式管道，提供完全本地化的長期記憶功能，且不依賴任何外部API。",
+          "expert_insight": "金融市場視角：對於強調數據安全與合規性的金融機構而言，AI代理人具備本地長期記憶且無外部API依賴，能大幅降低數據外洩風險與監管複雜度，加速金融AI應用的部署。",
+          "source_url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+          "tags": [
+            "AI代理人",
+            "本地記憶體",
+            "開源",
+            "騰訊雲"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "LMCache提升LLM效率，打造最快速KV快取層為大模型加速",
+          "core_summary": "LMCache專案旨在為大型語言模型（LLM）提供最快速的KV快取層，以顯著提升其運行效率。透過優化快取機制，LMCache能夠超載LLM性能。",
+          "expert_insight": "金融市場視角：LLM在金融領域的應用日益廣泛，LMCache的效率提升直接影響LLM的運算成本和回應速度。對於需要即時處理大量金融數據的應用，這意味著更高的效率和更低的營運開支，進而影響投資報酬率。",
+          "source_url": "https://github.com/LMCache/LMCache",
+          "tags": [
+            "LLM",
+            "快取",
+            "性能優化",
+            "開源"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "law_ethics_society",
+      "category_display": "⚖️ 法律倫理與社會衝擊",
+      "items": [
+        {
+          "title": "數發部公布AI風險分類框架，提供應用指引助企業合規",
+          "core_summary": "台灣數位發展部正式公布「人工智慧風險分類框架」，劃分為3大類20項子類別，並提供4大建議步驟供各部會與產業參考。此框架旨在協助各界在AI應用中識別與管理風險，符合《人工智慧基本法》。",
+          "expert_insight": "金融市場視角：台灣政府發布AI風險框架，為金融機構導入AI應用提供了明確的合規指南。這有助於金融業評估AI模型的風險，確保在推動創新服務的同時，符合監管要求，保護消費者權益，進而穩定市場信任。",
+          "source_url": "https://www.ithome.com.tw/news/177184",
+          "tags": [
+            "AI治理",
+            "政策法規",
+            "數位發展部",
+            "風險管理"
+          ],
+          "priority": "high"
+        },
+        {
+          "title": "歐盟推AI資安行動計畫，強化模型安全評估及網路韌性",
+          "core_summary": "隨著AI廣泛應用於各產業與公共服務，歐盟推出AI資安行動計畫，旨在強化AI模型的安全評估與提升網路韌性。此計畫回應了AI技術快速發展帶來的資安挑戰。",
+          "expert_insight": "金融市場視角：歐盟作為AI法規的全球領導者，其資安行動計畫將對金融科技公司（FinTech）的AI部署產生重要影響。強化模型安全評估可降低AI系統被攻擊的風險，進而保護金融市場的穩定與投資者信心。",
+          "source_url": "https://www.ithome.com.tw/news/177225",
+          "tags": [
+            "歐盟",
+            "AI資安",
+            "法規趨勢",
+            "網路韌性"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "法務部推主權AI平臺，年底前打造法務領域LLM首波應用",
+          "core_summary": "台灣法務部啟動「法務主權AI」發展計畫，將以三層平臺架構串聯算力、法務專屬大型語言模型（LLM）與AI Agent。此舉旨在建立可擴充的AI共用平臺，並預計年底前推出首波法務AI應用，確保符合我國法規及價值觀。",
+          "expert_insight": "金融市場視角：法務部推動主權AI，特別強調法務領域LLM，將提升司法系統處理金融詐欺、洗錢等案件的效率與準確性。這有助於強化金融監管與法制環境，間接維護金融市場的穩定與公平性。",
+          "source_url": "https://www.ithome.com.tw/news/177202",
+          "tags": [
+            "主權AI",
+            "法務部",
+            "大型語言模型",
+            "政策應用"
+          ],
+          "priority": "high"
+        }
+      ],
+      "fallback_note": ""
+    }
+  ],
+  "anomalies": {
+    "skipped_sources": [],
+    "notes": ""
+  }
+}
