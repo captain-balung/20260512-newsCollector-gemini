@@ -1,0 +1,253 @@
+{
+  "date": "2026-07-12",
+  "generated_at": "2026-07-12T12:22:44+08:00",
+  "model_version": "gemini-2.5-flash",
+  "dashboard": {
+    "QQQ": "+0.31%",
+    "GOOGL": "-0.48%",
+    "AAPL": "Stable",
+    "MSFT": "Stable",
+    "NVDA": "+4.03%",
+    "META": "+5.97%"
+  },
+  "sections": [
+    {
+      "category_id": "giants_market",
+      "category_display": "🏢 巨頭動向與市場脈動",
+      "items": [
+        {
+          "title": "微軟開源AI視覺化語言Flint 簡化圖表生成流程",
+          "core_summary": "微軟研究院發布開源視覺化中介語言Flint，允許AI代理程式以語意規格描述圖表，並由編譯器自動補齊細節。Flint能將規格轉換為多種圖表格式，解決AI生成圖表規格的錯誤與維護問題。",
+          "expert_insight": "（媒體設計）Flint的發布將大幅提升AI在圖表設計與資訊視覺化領域的應用效率，簡化設計師與開發者協作流程，加速內容生成與傳播。",
+          "source_url": "https://www.ithome.com.tw/news/177236",
+          "tags": [
+            "微軟",
+            "AI視覺化",
+            "開源"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Nvidia、CoreWeave與Nebius揭示GPU繁榮背後的循環融資",
+          "core_summary": "一份報告深入分析Nvidia、CoreWeave與Nebius之間的資金流動，揭露GPU市場繁榮背後複雜的循環融資模式，暗示GPU供應商與AI雲服務商之間的財務相互依賴性。",
+          "expert_insight": "（金融市場）這項分析對投資者判斷AI產業的真實增長動能至關重要，揭示了市場熱潮中潛在的金融風險與結構性問題，影響未來投資決策。",
+          "source_url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+          "tags": [
+            "Nvidia",
+            "GPU市場",
+            "金融分析"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "dev_tools_agents",
+      "category_display": "🛠️ 開發者工具與 AI 代理",
+      "items": [
+        {
+          "title": "Anthropic發布Claude Code：AI代理程式加速終端程式開發",
+          "core_summary": "Anthropic開源了Claude Code，這是一款在終端機運行的AI程式開發工具，能理解程式碼庫，透過自然語言指令協助開發者執行常規任務、解釋複雜程式碼及處理Git工作流程。",
+          "expert_insight": "（媒體設計）對於需要快速迭代原型或自動化設計流程的媒體開發者而言，Claude Code能顯著提高效率，將更多精力投入創意發想而非重複性編碼。",
+          "source_url": "https://github.com/anthropics/claude-code",
+          "tags": [
+            "AI代理",
+            "程式開發",
+            "終端工具"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Orca：多代理協同作業的AI開發環境",
+          "core_summary": "Orca是一個專為管理並執行多個平行AI代理而設計的應用開發環境(ADE)，支援用戶使用個人訂閱運行任何編碼代理，並可在桌面和行動裝置上使用。",
+          "expert_insight": "（教育科技）Orca提供了一個整合平台，能讓學生與研究人員更有效地實驗和管理多代理系統，推動AI代理在教學與研究領域的應用創新。",
+          "source_url": "https://github.com/stablyai/orca",
+          "tags": [
+            "AI代理",
+            "開發環境",
+            "多代理協作"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "微軟推出AI代理治理工具包 強化政策執行與安全",
+          "core_summary": "微軟發布AI Agent Governance Toolkit，旨在為自主AI代理提供政策執行、零信任身份、執行沙盒與可靠性工程等功能，解決OWASP Agentic Top 10所列的十大安全風險。",
+          "expert_insight": "（金融市場）金融業對AI代理的安全性與合規性要求極高，此治理工具包能提供關鍵的信任基礎，降低導入AI代理的風險，加速金融自動化轉型。",
+          "source_url": "https://github.com/microsoft/agent-governance-toolkit",
+          "tags": [
+            "AI治理",
+            "代理安全",
+            "微軟"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "generative_media",
+      "category_display": "🎵 生成式多媒體與創作",
+      "items": [
+        {
+          "title": "Pixelle-Video：AI全自動短影片生成引擎問世",
+          "core_summary": "Pixelle-Video是一個開源的AI全自動短影片引擎，旨在透過AI技術，讓用戶能快速且高效地生成高品質短影片內容，大幅降低影片製作門檻。",
+          "expert_insight": "（媒體設計）這項工具為內容創作者和媒體產業帶來革新，能以更低的成本和時間製作大量影音內容，尤其適合社群媒體行銷和數位內容發布。",
+          "source_url": "https://github.com/ATH-MaaS/Pixelle-Video",
+          "tags": [
+            "AI生成影片",
+            "短影片",
+            "內容創作"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "MoneyPrinterTurbo：一鍵生成高清短影片的AI工具",
+          "core_summary": "MoneyPrinterTurbo是一款利用AI大模型，實現一鍵生成高清短影片的工具。用戶只需簡單操作，即可快速產出具視覺吸引力的短影片，適用於多種應用場景。",
+          "expert_insight": "（媒體設計）結合生成式AI，此工具將普及短影音製作，讓個人和小型團隊也能輕鬆產出專業級內容，對教育傳播、商業廣告等產生重大影響。",
+          "source_url": "https://github.com/harry0703/MoneyPrinterTurbo",
+          "tags": [
+            "AI短影片",
+            "生成式AI",
+            "影片製作"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Next.js AI整合Draw.io 打造智慧圖表協作平台",
+          "core_summary": "一款基於Next.js的網路應用程式，將AI功能整合到Draw.io圖表中，允許用戶透過自然語言命令和AI輔助視覺化來創建、修改和增強圖表。",
+          "expert_insight": "（教育科技）這項工具能革新教學和學習過程中的圖表製作與理解方式，讓複雜概念的視覺化變得更直觀和互動，提升學習效率與參與度。",
+          "source_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+          "tags": [
+            "AI圖表",
+            "視覺化",
+            "協作工具"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "edtech_applications",
+      "category_display": "📚 教育科技與應用創新",
+      "items": [
+        {
+          "title": "學習實踐之道：從頭手動重建Redis、Git與資料庫",
+          "core_summary": "該計畫鼓勵學習者透過從零開始重建如Redis、Git和資料庫等核心軟體，以實作方式深入理解其內部運作原理，並提供逐步指引與資源。",
+          "expert_insight": "（教育科技）這代表了「做中學」的極致應用，對於程式設計教育尤其有價值，能培養學生對底層原理的深刻理解和解決問題的能力。",
+          "source_url": "https://shipthatcode.com",
+          "tags": [
+            "實作學習",
+            "程式教育",
+            "計算機科學"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Rowboat：開源具記憶能力的AI虛擬夥伴",
+          "core_summary": "Rowboat是一個開源的AI虛擬夥伴，它具備記憶功能，能夠記住之前的對話與情境，提供更連貫且個人化的互動體驗，有望成為個人助理或協作者。",
+          "expert_insight": "（教育科技）具記憶功能的AI夥伴在個人化學習上潛力巨大，能扮演長期學習導師或協作夥伴，提供學生定制化的輔導與支援，提升學習成效。",
+          "source_url": "https://github.com/rowboatlabs/rowboat",
+          "tags": [
+            "AI夥伴",
+            "個人化學習",
+            "開源AI"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "infra_opensource",
+      "category_display": "🧠 底層架構與開源模型",
+      "items": [
+        {
+          "title": "開源U-Boot韌體漏洞曝光 恐衝擊大量伺服器與物聯網設備",
+          "core_summary": "資安研究機構Binarly揭露開源開機載入程式U-Boot存在6個資安漏洞，其中兩個可導致任意程式碼執行，可能影響大量伺服器、網路設備及物聯網設備的安全。",
+          "expert_insight": "（金融市場）金融機構高度依賴穩定且安全的網路與伺服器基礎設施，此類底層韌體漏洞構成重大潛在風險，可能導致服務中斷或資料外洩，需緊急修補。",
+          "source_url": "https://www.ithome.com.tw/news/177240",
+          "tags": [
+            "開源韌體",
+            "資安漏洞",
+            "物聯網安全"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "iroh推出Mesh LLM：實現分佈式AI運算新模式",
+          "core_summary": "iroh發表了Mesh LLM概念，旨在利用其底層協議實現分佈式AI運算，讓大型語言模型(LLM)的推理和訓練能分散至多個節點，提高效率與擴展性。",
+          "expert_insight": "（金融市場）分佈式AI運算對於處理大規模金融數據與即時交易分析至關重要，可降低算力集中風險，提升AI應用的穩定性與效能。",
+          "source_url": "https://www.iroh.computer/blog/mesh-llm",
+          "tags": [
+            "分佈式AI",
+            "LLM",
+            "基礎架構"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "OpenViking：自演進上下文資料庫強化AI代理記憶與技能",
+          "core_summary": "OpenViking是一款自演進上下文資料庫，旨在統一AI代理的記憶、知識RAG（檢索增強生成）和技能管理，為AI代理提供更強大的上下文理解與學習能力。",
+          "expert_insight": "（教育科技）對於開發智慧輔導系統或個人化學習代理而言，OpenViking能有效管理學習者的長期記憶與知識庫，使其提供更精準、連貫的教學互動。",
+          "source_url": "https://github.com/volcengine/OpenViking",
+          "tags": [
+            "AI代理記憶",
+            "RAG",
+            "開源模型"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "law_ethics_society",
+      "category_display": "⚖️ 法律倫理與社會衝擊",
+      "items": [
+        {
+          "title": "停止要求我詢問LLM：使用者對AI過度依賴的反思",
+          "core_summary": "一篇文章反思了人們在尋求資訊或解決問題時，被過度建議詢問大型語言模型(LLM)的現象，探討了這種依賴性可能帶來的局限性與問題。",
+          "expert_insight": "（教育科技）這點出AI在教育應用中的重要倫理考量：應如何引導學生有效利用AI作為輔助工具，而非盲目依賴，避免損害批判性思考與獨立解決問題的能力。",
+          "source_url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
+          "tags": [
+            "AI倫理",
+            "LLM",
+            "使用者體驗"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "AI 2040：人工智慧與「智能崇拜」的未來思辨",
+          "core_summary": "一篇部落格文章探討了人工智慧在2040年的潛在發展，並對「智能崇拜」現象進行了哲學與社會層面的反思，質疑過度追求AI智慧可能帶來的社會影響。",
+          "expert_insight": "（金融市場）AI倫理與社會觀感對AI技術的監管與市場接受度有深遠影響。金融業者在推動AI應用時，必須警惕潛在的社會反彈與道德風險，以避免品牌形象受損。",
+          "source_url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+          "tags": [
+            "AI哲學",
+            "社會衝擊",
+            "未來趨勢"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Ghost Font：人類可讀、AI難辨的字體問世",
+          "core_summary": "Ghost Font是一種特殊設計的字體，旨在讓人類能夠正常閱讀，但卻能有效混淆人工智慧模型，使其難以識別，為數位內容防範AI抓取提供新思路。",
+          "expert_insight": "（媒體設計）對於版權保護和內容發布者而言，這提供了一種創新的技術手段，能有效限制AI模型未經授權的內容抓取，保護知識產權。",
+          "source_url": "https://www.mixfont.com/ghost-font",
+          "tags": [
+            "AI防護",
+            "內容保護",
+            "字體設計"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    }
+  ],
+  "anomalies": {
+    "skipped_sources": [],
+    "notes": ""
+  }
+}
