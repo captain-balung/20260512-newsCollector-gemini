@@ -1,0 +1,295 @@
+{
+  "date": "2026-07-17",
+  "generated_at": "2026-07-17T11:58:04+08:00",
+  "model_version": "gemini-2.5-flash",
+  "dashboard": {
+    "QQQ": "-1.64%",
+    "GOOGL": "-4.44%",
+    "AAPL": "+1.76%",
+    "MSFT": "+1.38%",
+    "NVDA": "-2.40%",
+    "META": "-2.46%"
+  },
+  "sections": [
+    {
+      "category_id": "giants_market",
+      "category_display": "🏢 巨頭動向與市場脈動",
+      "items": [
+        {
+          "title": "歐盟揮舞DMA大刀：Google Android AI與搜尋資料恐被迫開放共享",
+          "core_summary": "歐盟執委會依《數位市場法》發布新規，要求Google開放Android AI互通功能，並向第三方搜尋服務分享匿名化搜尋資料。此舉旨在促進AI助理及搜尋市場的公平競爭，對Google的市場主導地位構成挑戰。",
+          "expert_insight": "歐盟的強制開放策略，恐削弱Google在AI和搜尋市場的壟斷優勢，可能導致其廣告收入模式產生變化，進而影響投資人對大型科技股的信心。",
+          "source_url": "https://www.ithome.com.tw/news/177388",
+          "tags": [
+            "歐盟監管",
+            "Google",
+            "DMA",
+            "市場競爭"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "蘋果加速佈局AI晶片：傳正洽談收購新創公司以補足研發進度",
+          "core_summary": "據報導，蘋果因自行研發AI晶片速度不如預期，正積極與銀行洽談資金，並探詢AI晶片新創公司的收購意願。此舉旨在滿足其日益增長的AI應用及模型訓練需求。",
+          "expert_insight": "蘋果若成功收購AI晶片新創公司，將能加速其AI技術整合與產品上市時程，有助於維持其在高端市場的競爭力，並可能帶動相關供應鏈的投資熱潮。",
+          "source_url": "https://www.ithome.com.tw/news/177363",
+          "tags": [
+            "蘋果",
+            "AI晶片",
+            "企業收購",
+            "供應鏈"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "G7發布金融業PQC轉型路線圖，引導業界應對量子資安挑戰",
+          "core_summary": "G7網路專家小組發布《金融業量子整備路線圖》，為金融機構、主管機關及技術供應商提供後量子密碼學（PQC）轉型規畫參考。路線圖以2035年為整體目標，旨在強化金融產業未來資安韌性。",
+          "expert_insight": "這份G7路線圖為金融業設定了長期的技術轉型方向，相關資安與加密技術供應商將迎來龐大商機，也促使金融機構提前評估並投入資源，以規避未來量子運算帶來的潛在資安風險。",
+          "source_url": "https://www.ithome.com.tw/news/177380",
+          "tags": [
+            "金融科技",
+            "量子密碼學",
+            "G7",
+            "資安轉型"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "dev_tools_agents",
+      "category_display": "🛠️ 開發者工具與 AI 代理",
+      "items": [
+        {
+          "title": "奧義智慧示警：代理式AI安全即執行期安全，揭示12項關鍵風險",
+          "core_summary": "在CraftCon Taiwan資安研討會上，奧義智慧指出「Agent Security本質上就是Runtime Security」，並歸納出12種關鍵風險。此研究協助企業釐清AI代理時代面臨的挑戰，並提供評測基準TraceSafe-Bench。",
+          "expert_insight": "AI代理在執行期面臨的資安風險，對於依賴自動化工作流程的媒體內容生成與管理至關重要，開發者需審慎考量安全設計，確保智慧代理在協助內容創作與分發時不會造成資安漏洞。",
+          "source_url": "https://www.ithome.com.tw/news/177369",
+          "tags": [
+            "AI代理",
+            "資安風險",
+            "Runtime安全",
+            "開發者工具"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Google筆記神器NotebookLM升級為Gemini Notebook，整合AI功能更強大",
+          "core_summary": "Google宣布其知識輔助筆記工具NotebookLM正式更名為Gemini Notebook。此舉預示著該產品將更深度整合Gemini AI的功能，提供用戶更智能、高效的資訊整理與分析體驗。",
+          "expert_insight": "Gemini Notebook的推出，將大幅提升師生在學習與研究上的效率。AI整合的筆記功能可幫助學生快速摘要、理解複雜內容，並輔助教師準備教材，是數位學習環境的一大進步。",
+          "source_url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+          "tags": [
+            "AI工具",
+            "Gemini",
+            "筆記應用",
+            "知識管理"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "開源代理式瀏覽器BrowserOS發布，搶攻ChatGPT Atlas市場",
+          "core_summary": "BrowserOS作為一款開源的代理式瀏覽器問世，被視為ChatGPT Atlas、Perplexity Comet等工具的潛在替代方案。它旨在提供用戶更具彈性和自訂性的AI代理瀏覽體驗。",
+          "expert_insight": "代理式瀏覽器的出現，將徹底改變媒體內容的消費與互動方式。BrowserOS的開源特性，預期能激發更多開發者投入創新，設計出能自動化資料蒐集、內容策展甚至互動體驗的AI代理，為媒體產業帶來新的工具選擇。",
+          "source_url": "https://github.com/browseros-ai/BrowserOS",
+          "tags": [
+            "AI代理",
+            "開源軟體",
+            "瀏覽器",
+            "開發者工具"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "generative_media",
+      "category_display": "🎵 生成式多媒體與創作",
+      "items": [
+        {
+          "title": "Google Vids重磅更新，導入Gemini Omni與個人化虛擬替身，影片創作更吸睛",
+          "core_summary": "Google Vids推出兩項重大更新，包括整合Gemini Omni模型，以及提供個人化虛擬替身功能。這些新功能讓用戶能更輕鬆地創作、編輯影片，並在影片中「主演」，降低專業影片製作門檻。",
+          "expert_insight": "Google Vids的更新大幅簡化影片製作流程，尤其個人化虛擬替身功能對內容創作者是一大福音。這將使更多非專業人士能產出高品質影片，豐富數位內容生態，也對傳統影片製作產業帶來挑戰。",
+          "source_url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
+          "tags": [
+            "影片生成",
+            "Google Vids",
+            "Gemini",
+            "虛擬替身"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "百元預算挑戰AI音樂影片：Claude Fable 5與GPT-5.6 Sol生成效果大比拼",
+          "core_summary": "一項新的部落格文章探討如何以100美元的預算，利用Claude Fable 5與GPT-5.6 Sol等頂尖AI模型製作音樂影片，並比較兩者在生成效率與品質上的表現。",
+          "expert_insight": "此案例展示了AI技術如何顯著降低媒體內容製作成本，使個人創作者也能以極低預算產出專業級音樂影片。這將催生更多獨立內容與實驗性作品，但同時也對版權與原創性議題帶來新挑戰。",
+          "source_url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+          "tags": [
+            "AI音樂",
+            "影片生成",
+            "模型比較",
+            "內容創作"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "開源專案Airi：自託管AI伴侶，實現虛擬角色實時語音互動與遊戲體驗",
+          "core_summary": "Airi是一個開源的自託管AI伴侶專案，旨在讓用戶擁有自己的虛擬角色，並實現實時語音聊天、甚至在Minecraft或Factorio等遊戲中互動。該專案支援Web、macOS和Windows平台。",
+          "expert_insight": "Airi的出現代表了個人化與互動式生成媒體的趨勢。它讓用戶能更深度參與虛擬角色的塑造與互動，不僅是娛樂，更可能成為新一代數位敘事和沉浸式體驗的基石，對遊戲設計和虛擬內容產業具有啟發性。",
+          "source_url": "https://github.com/moeru-ai/airi",
+          "tags": [
+            "AI伴侶",
+            "虛擬角色",
+            "開源",
+            "互動體驗"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "edtech_applications",
+      "category_display": "📚 教育科技與應用創新",
+      "items": [
+        {
+          "title": "華碩ExpertHub上線，化身中小企業數位轉型「陪跑者」，解決AI應用痛點",
+          "core_summary": "華碩推出ExpertHub企業數位轉型服務平臺，旨在解決台灣中小企業在導入AI分析、數位行銷、資料整合等方面的實際困境。此平臺將協助企業從硬體到軟體、從設備到營運流程的全面升級。",
+          "expert_insight": "華碩ExpertHub的服務模式，不僅提供技術解決方案，更重要的是扮演了「知識傳遞者」與「顧問」的角色，幫助中小企業克服數位化知識鴻溝。這對於提升台灣整體產業的AI應用素養和競爭力至關重要。",
+          "source_url": "https://www.ithome.com.tw/news/177368",
+          "tags": [
+            "數位轉型",
+            "中小企業",
+            "AI應用",
+            "華碩"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Google攜手喬治亞州圖書館，提供全州居民免費AI與職涯培訓課程",
+          "core_summary": "Google與喬治亞州公共圖書館服務處合作，為全州居民提供免費的職業證書課程和AI培訓。這項計畫旨在提升當地民眾的數位技能，以應對快速變化的職場需求。",
+          "expert_insight": "Google與公共圖書館的合作，有效利用社會資源普及AI教育，降低學習門檻。這模式值得借鑒，可加速全民AI素養的提升，特別是對數位落差較大的群體，有助於促進社會公平與勞動力市場的再訓練。",
+          "source_url": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/free-ai-training-georgia-libraries/",
+          "tags": [
+            "AI培訓",
+            "職涯發展",
+            "免費課程",
+            "公民教育"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Google與Screwfix合作，助英國技工運用AI簡化行政、拓展業務",
+          "core_summary": "Google宣布與英國五金零售商Screwfix合作，運用AI技術協助英國的技工解決行政管理痛點，並拓展業務。這項合作旨在提升傳統行業的數位化效率，讓技工能更專注於專業工作。",
+          "expert_insight": "將AI應用推廣到傳統藍領行業，對於提升整體社會生產力與產業轉型具有示範意義。這類合作強調實際問題解決，能教育並賦能技工群體運用數位工具，是AI普惠化教育的成功案例。",
+          "source_url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/were-partnering-with-screwfix-to-help-the-nations-tradespeople-nail-admin-and-grow-their-businesses-using-ai/",
+          "tags": [
+            "AI應用",
+            "技工",
+            "數位化",
+            "商業效率"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "infra_opensource",
+      "category_display": "🧠 底層架構與開源模型",
+      "items": [
+        {
+          "title": "Linus Torvalds揭示Linux核心對AI開明態度：技術價值優先於排斥",
+          "core_summary": "Linux核心創始人Linus Torvalds在郵件清單中表明，Linux核心專案不會全面排斥AI工具。他強調，AI如同其他開發工具，開發者可自行決定是否採用，只要人類提交者審查程式碼並承擔責任即可。",
+          "expert_insight": "Linus Torvalds的立場為開源社群樹立了務實的榜樣。對於依賴開源技術的媒體設計與開發者來說，這意味著可以更放心嘗試將AI工具整合進創作與開發流程，加速創新，同時也強調了人類責任的重要性。",
+          "source_url": "https://www.ithome.com.tw/news/177381",
+          "tags": [
+            "Linux",
+            "開源社群",
+            "AI工具",
+            "開發哲學"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "中國新星Moonshot AI發表Kimi K3模型，參數規模最大、效能逼近頂尖巨頭",
+          "core_summary": "中國AI業者Moonshot AI發布最新模型Kimi K3，採用混合專家架構，總參數量達2.8兆，號稱全球最大。該模型支援100萬token上下文長度，在多項測試中性能媲美Claude Fable 5與GPT 5.6 Sol。",
+          "expert_insight": "Kimi K3在性能上的突破，顯示中國在大型語言模型領域的快速崛起。這將加劇全球AI算力與人才的競爭，並可能改變各地區AI技術的平衡，對投資人評估AI產業未來格局提供重要參考。",
+          "source_url": "https://www.ithome.com.tw/news/177376",
+          "tags": [
+            "大型語言模型",
+            "Kimi K3",
+            "AI競爭",
+            "開源模型"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "德國推主權AI新進展：開源模型Soofi S問世，強化長文本推理效能",
+          "core_summary": "德國研究聯盟Soofi-Team發布開源Mamba–Transformer混合專家模型Soofi S 30B-A3B，這是歐洲推動主權AI的最新專案。該模型主打高效率與長文本推理能力。",
+          "expert_insight": "歐洲國家積極發展主權AI模型，不僅能保障資料安全和隱私，也將促進在地化語言與文化的AI應用。Soofi S的開源模式有利於學術研究與教育機構的推廣與再開發，提升歐洲在AI基礎研究領域的自主性。",
+          "source_url": "https://www.ithome.com.tw/news/177378",
+          "tags": [
+            "主權AI",
+            "開源模型",
+            "德國",
+            "長文本推理"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "law_ethics_society",
+      "category_display": "⚖️ 法律倫理與社會衝擊",
+      "items": [
+        {
+          "title": "AI資安應用廣泛，但近八成組織缺乏完善風險管理計畫",
+          "core_summary": "SANS Institute調查顯示，將AI納入資安策略的組織比例顯著提升，從2025年的50%增至2026年的78%。然而，建立正式AI風險管理與法規遵循計畫的組織比例卻僅微幅上升至36%，顯示AI治理機制嚴重不足。",
+          "expert_insight": "金融業高度依賴資安防護，AI在資安領域的應用將是雙面刃。若缺乏健全的AI風險管理計畫，恐導致新型資安漏洞與法規遵循問題，對金融穩定造成潛在威脅，投資者應密切關注企業AI治理成熟度。",
+          "source_url": "https://www.ithome.com.tw/news/177383",
+          "tags": [
+            "AI資安",
+            "風險管理",
+            "組織治理",
+            "法規遵循"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "F5揭露AI模型安全漏洞：頂尖模型平均越獄成功率高達71.3%",
+          "core_summary": "資安業者F5對55款AI模型進行安全評測，結果顯示26款頂尖模型在單輪提示注入及越獄攻擊中，平均攻擊成功率高達71.3%。這突顯了當前AI模型在抵禦惡意操縱方面的脆弱性。",
+          "expert_insight": "AI模型普遍存在的越獄風險，對教育內容的公正性與安全性構成威脅。若學生或惡意行為者能輕易繞過安全機制，將可能產生不適當內容或偏誤資訊，影響學習品質，教育科技開發者需優先強化模型防禦。",
+          "source_url": "https://www.ithome.com.tw/news/177360",
+          "tags": [
+            "AI安全",
+            "越獄攻擊",
+            "提示注入",
+            "模型評測"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "OpenAI呼籲青少年安全使用AI，推出年齡分級與家長控制工具",
+          "core_summary": "OpenAI發表部落格文章，強調青少年應有權限接觸安全的AI技術，並闡述公司如何透過年齡適當的保護措施、學習工具與家長控制功能，讓ChatGPT對青少年而言更加安全。",
+          "expert_insight": "OpenAI的舉措回應了社會對青少年使用AI的擔憂，並試圖建立負責任的AI應用規範。這對教育科技領域提供了重要的指引，促使開發者在設計AI學習工具時，將青少年用戶的安全與福祉納入首要考量。",
+          "source_url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+          "tags": [
+            "AI倫理",
+            "青少年安全",
+            "內容保護",
+            "教育應用"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    }
+  ],
+  "anomalies": {
+    "skipped_sources": [],
+    "notes": ""
+  }
+}
