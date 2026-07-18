@@ -1,0 +1,269 @@
+{
+  "date": "2026-07-18",
+  "generated_at": "2026-07-18T11:51:38+08:00",
+  "model_version": "gemini-2.5-flash",
+  "dashboard": {
+    "QQQ": "-1.50%",
+    "GOOGL": "-2.17%",
+    "AAPL": "Stable",
+    "MSFT": "-1.82%",
+    "NVDA": "-2.21%",
+    "META": "-2.79%"
+  },
+  "sections": [
+    {
+      "category_id": "giants_market",
+      "category_display": "🏢 巨頭動向與市場脈動",
+      "items": [
+        {
+          "title": "歐盟緊盯科技巨頭：Google Android AI與搜尋數據必須開放共享",
+          "core_summary": "歐盟執委會依據《數位市場法》發布具法律約束力的規範，要求Google開放Android作業系統的AI互通功能，並向第三方搜尋服務分享匿名化搜尋資料，以促進AI助理與搜尋市場的公平競爭。",
+          "expert_insight": "從金融市場視角，此舉將衝擊Google在歐洲的市場主導地位及廣告營收模式，可能迫使Google調整其AI產品策略，影響其股價及長期增長預期。同時也為其他競爭者創造進入市場的機會。",
+          "source_url": "https://www.ithome.com.tw/news/177388",
+          "tags": [
+            "歐盟監管",
+            "Google",
+            "AI競爭",
+            "數位市場法"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "中國新星Kimi K3模型登場：效能直逼Claude與GPT頂級AI模型",
+          "core_summary": "中國AI業者Moonshot AI發表最新大型語言模型Kimi K3，採用混合專家架構，總參數量達2.8兆，號稱全球參數規模最大。該模型支援100萬token脈絡長度，在多項測試中已達到Claude Fable 5與GPT 5.6 Sol等頂尖模型的效能水準。",
+          "expert_insight": "從媒體設計視角，Kimi K3的推出將加劇全球LLM市場競爭，為內容創作、智能編輯與多模態設計提供更多高效能選項。其長文本處理能力也意味著更複雜的敘事與深度內容生成應用。",
+          "source_url": "https://www.ithome.com.tw/news/177376",
+          "tags": [
+            "LLM",
+            "AI模型",
+            "Kimi K3",
+            "市場競爭"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "AWS帳務驚爆異常：高達17億美元估計金額不準確，恐影響全球客戶",
+          "core_summary": "有報導指出，Amazon AWS雲端服務的計費數據出現嚴重不準確情況，初步估計影響金額高達17億美元。此異常現象已在Hacker News等開發者社群引發廣泛關注與討論。",
+          "expert_insight": "從金融市場視角，這是一項重大風險事件，可能嚴重影響數百萬AWS客戶的財務預算與成本控制。大型企業若出現如此巨額的帳務誤差，將對財報產生直接衝擊，並動搖客戶對雲端服務透明度的信任。",
+          "source_url": "https://news.ycombinator.com/item?id=48945241",
+          "tags": [
+            "AWS",
+            "雲端服務",
+            "帳務異常",
+            "財務風險"
+          ],
+          "priority": "high"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "dev_tools_agents",
+      "category_display": "🛠️ 開發者工具與 AI 代理",
+      "items": [
+        {
+          "title": "資安新突破！1Password讓Claude代理安全登入網站卻不洩密",
+          "core_summary": "1Password與Anthropic合作推出「1Password for Claude」，讓AI代理在執行瀏覽器任務時，可在使用者授權下安全登入網站。此系統的關鍵在於密碼與一次性驗證碼不會進入Claude的模型上下文或Anthropic系統，憑證仍由1Password保管。",
+          "expert_insight": "從開發者工具視角，這解決了AI代理應用一個核心的資安痛點，使得AI代理能更廣泛地應用於自動化業務流程，同時確保敏感資訊不外洩，提升開發者採用AI代理的信心。",
+          "source_url": "https://www.ithome.com.tw/news/177407",
+          "tags": [
+            "AI代理",
+            "密碼管理",
+            "資安",
+            "開發者工具"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Red Hat OpenShift 4.22技術預覽：AI代理將受控存取叢集資源",
+          "core_summary": "Red Hat在OpenShift 4.22中，以技術預覽形式推出OpenShift MCP伺服器與MCP閘道，旨在讓AI代理可在權限控管下存取叢集資源與維運資訊。新版也強化了機密運算與叢集自動擴充功能，並讓JobSet Operator正式可用，支援分散式AI訓練及LLM微調。",
+          "expert_insight": "從教育科技視角，這項更新為AI模型訓練與AI代理開發提供了更安全、可控的基礎架構。它將簡化教育機構或研究團隊部署AI模型與實驗AI代理的過程，特別在處理敏感資料或需要精細權限管理的場景。",
+          "source_url": "https://www.ithome.com.tw/news/177401",
+          "tags": [
+            "AI代理",
+            "OpenShift",
+            "雲原生",
+            "開發者工具"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "LobeHub：打造您的AI團隊，實現24/7智慧營運",
+          "core_summary": "GitHub熱門專案LobeHub旨在成為一個「Chief Agent Operator」，透過招聘、排程和報告，組織並管理整個AI代理團隊，實現7x24小時的智能營運。它提供了一個框架，讓使用者能更有效地部署和協調多個AI代理以完成複雜任務。",
+          "expert_insight": "從金融市場視角，LobeHub這類AI代理管理工具，能夠幫助企業實現更高效的自動化，尤其是在數據分析、風險評估、客戶服務等環節。透過優化AI代理的協作與排程，有望顯著降低營運成本、提升決策效率與客戶滿意度。",
+          "source_url": "https://github.com/lobehub/lobehub",
+          "tags": [
+            "AI代理管理",
+            "代理協作",
+            "開發工具",
+            "自動化"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "generative_media",
+      "category_display": "🎵 生成式多媒體與創作",
+      "items": [
+        {
+          "title": "廣告審查新紀元：Taboola運用LLM打造高效AI審查系統",
+          "core_summary": "跨國廣告科技業者Taboola，為解決龐大廣告量與多語言審查挑戰，採用Harness工程，打造出基於大型語言模型（LLM）的廣告審查系統Argus。該系統將人工審查時間從12小時縮短至數分鐘，減少75%工作量，並提升13個百分點的審查一致性。",
+          "expert_insight": "從媒體設計視角，此案例展示了LLM在內容審查領域的巨大潛力，不僅能提升效率與一致性，更能處理多模態的複雜廣告內容。這將有效保障平台內容品質，提升使用者體驗，同時為媒體公司節省大量人力成本。",
+          "source_url": "https://www.ithome.com.tw/news/177409",
+          "tags": [
+            "LLM應用",
+            "廣告審查",
+            "媒體科技",
+            "AI效率"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "開源Grok伴侶「Airi」：打造專屬虛擬靈魂，實現實時語音互動",
+          "core_summary": "GitHub熱門專案Airi是一個自託管、使用者擁有的Grok Companion，旨在創造個人化的虛擬靈魂伴侶。它支援實時語音聊天、Minecraft和Factorio遊戲互動，並可在Web、macOS和Windows上運行，目標是達到類似Neuro-sama的高度擬人化互動體驗。",
+          "expert_insight": "從媒體設計視角，Airi代表了AI虛擬角色互動的最新趨勢，結合實時語音與遊戲互動，為沉浸式體驗帶來無限可能。這類專案預示著個人化AI伴侶將成為媒體與娛樂產業的新興領域，並可能引發關於虛擬關係和內容創作倫理的討論。",
+          "source_url": "https://github.com/moeru-ai/airi",
+          "tags": [
+            "AI伴侶",
+            "虛擬角色",
+            "實時互動",
+            "個人化AI"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "edtech_applications",
+      "category_display": "📚 教育科技與應用創新",
+      "items": [
+        {
+          "title": "AI/ML研究工程師養成指南：精進數學、CS與AI專業",
+          "core_summary": "GitHub專案「maths-cs-ai-compendium」提供了一套全面的學習資源和指南，旨在幫助有志者成為頂尖的AI/ML研究工程師。內容涵蓋數學、電腦科學與人工智慧核心知識，為學習者規劃清晰的進修路徑。",
+          "expert_insight": "從教育科技視角，這項資源為AI領域的專業人才培養提供了寶貴的自學材料，降低了學習門檻。它能有效填補高等教育與業界需求之間的知識鴻溝，加速AI人才的成長，對於推動AI技術發展至關重要。",
+          "source_url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+          "tags": [
+            "AI教育",
+            "機器學習",
+            "工程師培訓",
+            "學習資源"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "從零開始AI工程：學習、建構、部署的實戰指南",
+          "core_summary": "GitHub專案「ai-engineering-from-scratch」提供了一個實用的學習路徑，教導使用者如何從基礎開始掌握AI工程，並具備實際建構和部署AI應用程式的能力。該專案強調實作與專案導向的學習方法。",
+          "expert_insight": "從教育科技視角，這類實戰指南對缺乏業界經驗的學習者極具價值，能夠將理論知識轉化為實際技能。它促進了AI工程師的專業發展，有助於企業更快速地導入和應用AI技術，提升整體產業的創新能力。",
+          "source_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "tags": [
+            "AI工程",
+            "學習資源",
+            "實作指南",
+            "線上教育"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "infra_opensource",
+      "category_display": "🧠 底層架構與開源模型",
+      "items": [
+        {
+          "title": "Linus Torvalds：Linux核心不排斥AI，技術價值是唯一考量",
+          "core_summary": "Linux核心創始人Linus Torvalds在郵件清單中表明，Linux核心專案不會全面排斥AI工具。他強調AI如同其他開發工具，開發者可自行決定是否採用，但核心社群不會因個人反對而禁止他人使用LLM協助開發，同時要求人類提交者仍須審查程式碼並承擔責任。",
+          "expert_insight": "從底層架構視角，Linus Torvalds的立場為開源軟體與AI的融合設定了務實基調。這意味著AI工具未來將更順暢地整合到Linux核心及相關生態系開發流程中，可能加速AI相關技術的普及與創新，影響從硬體驅動到雲端服務的廣泛應用。",
+          "source_url": "https://www.ithome.com.tw/news/177381",
+          "tags": [
+            "Linux",
+            "Linus Torvalds",
+            "AI開發",
+            "開源社群"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "德國推出開源主權AI模型Soofi S，瞄準高效能長文本推理",
+          "core_summary": "德國研究聯盟Soofi-Team公布開源Mamba–Transformer混合專家（MoE）模型Soofi S 30B-A3B，這是歐洲推動「主權AI」的最新專案。此模型主打高效率與長文本推理能力，展現歐洲在自主AI發展上的努力。",
+          "expert_insight": "從教育科技視角，Soofi S的推出為歐洲及全球的學術研究和開發者社群提供了新的開源AI模型選擇。其高效率和長文本推理能力，對於學術論文分析、智能輔助學習工具的開發，乃至於本土語言教育內容的生成，都具有重要潛力。",
+          "source_url": "https://www.ithome.com.tw/news/177378",
+          "tags": [
+            "開源模型",
+            "歐洲AI",
+            "主權AI",
+            "LLM"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Open Source AI現況報告：全面解析開源人工智慧的發展與趨勢",
+          "core_summary": "一份最新的報告深入剖析了開源人工智慧的現況，涵蓋了技術發展、生態系統、主要參與者及未來趨勢。該報告為了解目前開源AI領域的脈動提供了全面的視角，突顯其在AI創新中的關鍵作用。",
+          "expert_insight": "從金融市場視角，開源AI的蓬勃發展降低了AI技術的進入門檻，促進了更廣泛的創新，但同時也對專有AI模型的商業模式帶來競爭壓力。金融機構可以利用開源AI來開發成本效益更高的解決方案，但需注意相關的資安與合規風險。",
+          "source_url": "https://stateofopensource.ai/",
+          "tags": [
+            "開源AI",
+            "AI趨勢",
+            "產業報告",
+            "生態系統"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "law_ethics_society",
+      "category_display": "⚖️ 法律倫理與社會衝擊",
+      "items": [
+        {
+          "title": "臺灣製造業警報！中國高階後門Daxin、Stupig傳鎖定攻擊",
+          "core_summary": "資安公司賽門鐵克指出，中國高階後門程式Daxin已傳出被用於攻擊臺灣企業，特別是製造業。此惡意程式最早可追溯至2013年，被認為是最先進的中國惡意程式之一，主要攻擊目標多為各國政府或與中國利益相關的企業組織。",
+          "expert_insight": "從金融市場視角，臺灣製造業遭高階惡意軟體攻擊，可能導致生產線停擺、關鍵技術外洩，對企業營收與品牌聲譽造成嚴重損害，進而影響其股價表現與國際供應鏈信任度。政府與企業需加強資安防護，以維護國家經濟安全。",
+          "source_url": "https://www.ithome.com.tw/news/177390",
+          "tags": [
+            "臺灣資安",
+            "網路攻擊",
+            "製造業",
+            "國家安全"
+          ],
+          "priority": "high"
+        },
+        {
+          "title": "G7發布金融業量子整備路線圖，2035年為PQC轉型目標",
+          "core_summary": "G7網路專家小組發布《金融業量子整備路線圖》，提供金融機構、主管機關及關鍵金融服務供應商參考，以規畫後量子密碼學（PQC）的轉型。此路線圖將2035年設為整體參考目標，引導全球金融業應對量子計算對現有加密技術的潛在威脅。",
+          "expert_insight": "從金融市場視角，這份路線圖為金融機構的長期IT策略和資安投資提供了明確方向。提前佈局PQC轉型，將是未來金融機構維護數據安全、避免潛在巨額損失的關鍵。未能及早因應的機構，可能面臨嚴重的監管處罰與市場信任危機。",
+          "source_url": "https://www.ithome.com.tw/news/177380",
+          "tags": [
+            "金融資安",
+            "量子密碼學",
+            "G7",
+            "長期策略"
+          ],
+          "priority": "high"
+        },
+        {
+          "title": "AI取代人力？美國護士控訴AI與監控惡化工作與病人照護品質",
+          "core_summary": "美國Kaiser Permanente醫院的護士們投訴，AI技術與職場監控措施正使他們的工作狀況惡化，進而影響了對病患的照護品質。此事件引發了對AI在醫療領域應用倫理及勞工權益的擔憂。",
+          "expert_insight": "從教育科技視角，這凸顯了在AI導入任何專業領域時，需重視用戶培訓與人機協作設計。若AI系統未能與人類工作流良好整合，反而增加勞工負擔並損害服務品質，將對AI技術的信任度和推廣造成阻礙，甚至影響相關教育訓練課程的設計方向。",
+          "source_url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+          "tags": [
+            "AI倫理",
+            "職場監控",
+            "醫療AI",
+            "勞工權益"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    }
+  ],
+  "anomalies": {
+    "skipped_sources": [],
+    "notes": ""
+  }
+}
