@@ -1,0 +1,253 @@
+{
+  "date": "2026-07-20",
+  "generated_at": "2026-07-20T12:33:45+08:00",
+  "model_version": "gemini-2.5-flash",
+  "dashboard": {
+    "QQQ": "-1.50%",
+    "GOOGL": "-2.17%",
+    "AAPL": "Stable",
+    "MSFT": "-1.82%",
+    "NVDA": "-2.21%",
+    "META": "-2.79%"
+  },
+  "sections": [
+    {
+      "category_id": "giants_market",
+      "category_display": "🏢 巨頭動向與市場脈動",
+      "items": [
+        {
+          "title": "Google AI筆記更名Gemini Notebook，深度整合生態系統",
+          "core_summary": "Google將其AI筆記工具NotebookLM更名為Gemini Notebook，並深度整合至Gemini App與Google搜尋中，提升跨平台同步與存取便利性。此工具自推出以來已累積超過3,000萬用戶與60萬企業組織。",
+          "expert_insight": "金融市場：此舉顯示Google正強化其Gemini品牌在消費端及企業端的滲透力，透過核心產品整合，鞏固其AI生態系統地位，對競爭者形成壓力，並影響投資者對其AI戰略的信心。",
+          "source_url": "https://www.ithome.com.tw/news/177428",
+          "tags": [
+            "Google",
+            "Gemini",
+            "AI整合"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "中國Kimi K3需求激增，月之暗面暫停新用戶訂閱",
+          "core_summary": "中國AI新創「月之暗面」(Moonshot AI) 因其Kimi K3大模型需求激增，導致伺服器壓力過大，宣布暫停新的訂閱服務。此現象突顯了市場對高品質大型語言模型的高度渴望。",
+          "expert_insight": "金融市場：Kimi K3的訂閱暫停顯示了AI基礎設施供應鏈的潛在瓶頸及市場供需失衡，可能影響相關晶片、伺服器供應商的股價，並暗示新興AI公司快速成長後面臨的營運挑戰。",
+          "source_url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+          "tags": [
+            "Kimi",
+            "月之暗面",
+            "大語言模型"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Sophos推出AI原生網路安全防禦系統，強化企業資安韌性",
+          "core_summary": "資安業者Sophos整合並強化其多條產品線，推出以AI為核心的網路安全防禦系統，旨在應對AI驅動的網路威脅，並利用AI技術提升資安防護能力。此舉回應了市場對AI強化資安解決方案的熱切需求。",
+          "expert_insight": "金融市場：企業對AI原生資安解決方案的需求正快速成長，Sophos此舉有望搶佔市場份額，提升其競爭力。投資者應關注資安公司如何有效整合AI技術，以評估其長期成長潛力。",
+          "source_url": "https://www.ithome.com.tw/news/177421",
+          "tags": [
+            "資安",
+            "AI防禦",
+            "企業方案"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "dev_tools_agents",
+      "category_display": "🛠️ 開發者工具與 AI 代理",
+      "items": [
+        {
+          "title": "OmniRoute：開源AI網關一站式整合268+模型供應商",
+          "core_summary": "OmniRoute是一個開源的MIT授權AI網關，提供單一API端點即可連接超過268家供應商、500多種模型，包含Claude、GPT、Gemini等。它具備配額感知自動回退與高達95%的token壓縮功能。",
+          "expert_insight": "媒體設計：對於內容創作者和媒體開發者而言，OmniRoute提供極大便利性，簡化多模型調用複雜度，實現成本效益，加速實驗與部署。",
+          "source_url": "https://github.com/diegosouzapw/OmniRoute",
+          "tags": [
+            "AI網關",
+            "開發工具",
+            "多模型整合"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Cognee：AI代理的開源記憶平台，賦予長期記憶能力",
+          "core_summary": "Cognee是一個開源的AI記憶平台，專為AI代理設計，使其能透過自託管的知識圖譜引擎，在不同會話之間擁有持久的長期記憶，大幅提升AI代理的智能與效率。",
+          "expert_insight": "教育科技：此類記憶平台對於開發智能輔導系統、個性化學習伴侶或研究型AI代理至關重要，能讓AI在教學互動中累積並應用學生偏好與知識進度，實現更精準的互動。",
+          "source_url": "https://github.com/topoteretes/cognee",
+          "tags": [
+            "AI代理",
+            "記憶平台",
+            "知識圖譜"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Ruflo：領先的代理元工具，部署多玩家AI蜂群協作",
+          "core_summary": "Ruflo是一個先進的代理元工具，能夠部署智慧多玩家AI蜂群、協調自主工作流程並建構會話式AI系統。它具備自適應記憶、自學習智能與RAG整合等特性。",
+          "expert_insight": "媒體設計：Ruflo的多玩家AI蜂群協作能力，可望革新媒體內容的自動生成、編輯與發佈流程，讓多個AI代理共同完成複雜的創作任務，例如新聞摘要、腳本撰寫或多語種翻譯。",
+          "source_url": "https://github.com/ruvnet/ruflo",
+          "tags": [
+            "AI代理",
+            "工作流程",
+            "開發框架"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "generative_media",
+      "category_display": "🎵 生成式多媒體與創作",
+      "items": [
+        {
+          "title": "Voicebox：開源AI語音工作室，實現聲音克隆與創作",
+          "core_summary": "Voicebox是一個開源的AI語音工作室，提供聲音克隆、語音指令轉錄和語音內容創作功能。這個工具讓開發者和創作者能夠輕鬆地處理和生成多種語音內容。",
+          "expert_insight": "媒體設計：Voicebox的出現，將大大降低聲音創作的門檻，讓獨立內容創作者、播客製作者能更靈活地運用聲音資產，實現多語種旁白、虛擬角色配音等創新應用，拓展媒體敘事可能性。",
+          "source_url": "https://github.com/jamiepine/voicebox",
+          "tags": [
+            "生成語音",
+            "聲音克隆",
+            "開源工具"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Pollinations：友善的開源生成式AI平台",
+          "core_summary": "Pollinations是一個友善的開源生成式AI平台，提供多種生成式AI工具和模型，讓用戶可以輕鬆地進行內容創作與實驗，無需深入了解複雜的底層技術。",
+          "expert_insight": "教育科技：此平台能成為教育領域推廣生成式AI應用的良好入口，讓學生與教師能透過實作體驗AI創作流程，激發創造力，同時學習相關倫理與技術。",
+          "source_url": "https://github.com/pollinations/pollinations",
+          "tags": [
+            "生成式AI",
+            "開源平台",
+            "內容創作"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "edtech_applications",
+      "category_display": "📚 教育科技與應用創新",
+      "items": [
+        {
+          "title": "從零開始學習AI工程，實踐建構與部署AI系統",
+          "core_summary": "這是一個關於從零開始學習AI工程的開源資源，旨在幫助學習者理解、建構並部署AI系統，涵蓋了AI開發的各個關鍵環節，提供實用的學習路徑與範例。",
+          "expert_insight": "教育科技：該資源為有志於進入AI工程領域的學習者提供了寶貴的起點，能有效填補理論與實作之間的鴻溝，加速人才培養。企業也可靠此資源培訓內部團隊。",
+          "source_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "tags": [
+            "AI工程",
+            "學習資源",
+            "人才培訓"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "《深入理解AI Agent》開源書籍，探討設計原理與實踐",
+          "core_summary": "這本由李博杰撰寫的開源書籍《深入理解 AI Agent：設計原理與工程實踐》，深入探討了AI Agent的設計原理、實踐方法與工程應用，並提供了完整的正文、編譯版PDF與配套程式碼。",
+          "expert_insight": "教育科技：對於教育機構、研究人員及開發者而言，這本書是系統學習AI Agent領域的權威資源，有助於深化理解最新AI技術趨勢，並為相關課程設計與專案開發提供理論基礎與實務指導。",
+          "source_url": "https://github.com/bojieli/ai-agent-book",
+          "tags": [
+            "AI Agent",
+            "設計原理",
+            "學習資源"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "infra_opensource",
+      "category_display": "🧠 底層架構與開源模型",
+      "items": [
+        {
+          "title": "Claude Fable生成雅可比猜想反例，展現AI數學推理新突破",
+          "core_summary": "AI模型Claude Fable成功產生了雅可比猜想（Jacobian Conjecture）的一個反例，這項成果在數學界引起轟動，標誌著AI在複雜數學推理與科學發現領域取得重大進展。",
+          "expert_insight": "教育科技：此事件證明AI模型不僅能處理既有知識，更能自主進行高階抽象推理與科學探索，未來可望應用於數學研究輔助、自動定理證明等教育與科研場景，推動知識邊界。",
+          "source_url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+          "tags": [
+            "數學推理",
+            "AI突破",
+            "科學發現"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Ktransformers：彈性框架優化異質LLM推理與微調",
+          "core_summary": "Ktransformers是一個靈活的框架，專為優化異質大型語言模型（LLM）的推理與微調而設計。它提供多種加速技術和配置選項，幫助開發者提升模型性能和效率。",
+          "expert_insight": "媒體設計：對於需要部署大規模或高效能LLM的媒體公司而言，Ktransformers能顯著降低營運成本、加速內容生成與個性化推薦，提升用戶體驗，同時也賦予開發者更多創新彈性。",
+          "source_url": "https://github.com/kvcache-ai/ktransformers",
+          "tags": [
+            "LLM優化",
+            "推理加速",
+            "開源框架"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "OpenAI Codex模型上下文尺寸縮減，開發者需留意影響",
+          "core_summary": "OpenAI已將其Codex模型的上下文尺寸從372k縮減至272k。這項調整可能會影響依賴長上下文處理的開發者應用，需要相應地調整程式碼和工作流程。",
+          "expert_insight": "金融市場：開發者對於OpenAI此類模型參數變動的反應，將影響相關AI應用服務的穩定性及開發成本，進而可能間接影響依賴這些模型的科技公司的營收與市場評價。",
+          "source_url": "https://github.com/openai/codex/pull/33972/files",
+          "tags": [
+            "OpenAI",
+            "Codex",
+            "模型更新"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "law_ethics_society",
+      "category_display": "⚖️ 法律倫理與社會衝擊",
+      "items": [
+        {
+          "title": "中國主導成立世界AI合作組織，推進全球AI治理新秩序",
+          "core_summary": "由中國牽頭，包括俄羅斯、印尼等29國代表在上海簽署協議，成立「世界人工智慧合作組織」（WAICO）。該組織旨在促進AI國際合作與全球治理，總部設於上海。",
+          "expert_insight": "金融市場：此舉顯示中國在全球AI標準制定與治理中尋求更大的話語權，可能影響國際間AI技術的交流、數據流動與市場准入規則，對跨國AI企業的營運模式帶來潛在影響。",
+          "source_url": "https://www.ithome.com.tw/news/177431",
+          "tags": [
+            "AI治理",
+            "國際合作",
+            "地緣政治"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "研究警示：AI建議降低人類準確性卻增強自信，恐損害批判思考",
+          "core_summary": "一項研究發現，人們在接受AI建議後，其判斷的準確性會降低，但同時自信心卻顯著增加。這項結果引發了AI可能抑制人類批判性思考能力的擔憂。",
+          "expert_insight": "教育科技：這項研究對教育領域發出重要警訊。過度依賴AI輔助可能削弱學生的自主學習與批判性思考能力，教育科技產品設計需更審慎平衡AI提供資訊與培養學生獨立思考的角色。",
+          "source_url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+          "tags": [
+            "AI倫理",
+            "批判思考",
+            "認知偏誤"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "駭客巧用傳統「文字加鹽」手法，成功規避AI郵件防護",
+          "core_summary": "資安業者揭露，駭客正利用傳統的「文字加鹽」（Text Salting）技術，有效干擾基於機器學習與大型語言模型（LLM）的AI郵件防護工具，已偵測到逾百萬次釣魚攻擊。",
+          "expert_insight": "金融市場：金融業高度依賴AI資安防護，此漏洞揭示了AI防禦系統的局限性，可能增加企業面臨網路攻擊的風險與成本。這將促使企業重新評估其資安投資與策略，影響資安市場。",
+          "source_url": "https://www.ithome.com.tw/news/177434",
+          "tags": [
+            "AI資安",
+            "網路攻擊",
+            "釣魚郵件"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    }
+  ],
+  "anomalies": {
+    "skipped_sources": [],
+    "notes": ""
+  }
+}
