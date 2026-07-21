@@ -1,0 +1,277 @@
+{
+  "date": "2026-07-21",
+  "generated_at": "2026-07-21T12:12:50+08:00",
+  "model_version": "gemini-2.5-flash",
+  "dashboard": {
+    "QQQ": "Stable",
+    "GOOGL": "+1.51%",
+    "AAPL": "-2.14%",
+    "MSFT": "+2.15%",
+    "NVDA": "Stable",
+    "META": "Stable"
+  },
+  "sections": [
+    {
+      "category_id": "giants_market",
+      "category_display": "🏢 巨頭動向與市場脈動",
+      "items": [
+        {
+          "title": "阿里巴巴發表2.4兆參數模型，直指AI尖端競爭",
+          "core_summary": "阿里巴巴Qwen團隊宣布即將推出2.4兆參數的Qwen3.8大型AI模型，並計畫開放模型權重。此模型宣稱效能僅次於Anthropic的Fable 5，展現其在全球AI競爭中的領先野心。",
+          "expert_insight": "金融市場需密切關注巨頭在大型AI模型上的投入與技術突破，這不僅影響AI產業格局，也將帶動相關軟硬體投資與技術應用機會，可能重新定義市場價值。",
+          "source_url": "https://www.ithome.com.tw/news/177467",
+          "tags": [
+            "阿里巴巴",
+            "大型語言模型",
+            "市場競爭"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "中國開源AI策略崛起，挑戰美國專有模式",
+          "core_summary": "分析指出，中國的開源AI模型策略正逐步取得成功，與美國側重於專有和閉源模型形成對比。這項策略讓更多開發者能接觸並創新，可能加速其AI生態系的發展。",
+          "expert_insight": "金融市場應評估此趨勢對全球科技供應鏈與競爭力的影響，中國開源策略可能降低AI應用門檻，刺激區域經濟體創新，並影響全球技術投資方向。",
+          "source_url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+          "tags": [
+            "中國AI",
+            "開源策略",
+            "中美競爭"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "空中巴士撤離AWS，雲端服務巨頭面臨客戶策略轉變",
+          "core_summary": "空中巴士（Airbus）決定將其部分工作負載從亞馬遜網路服務（AWS）遷移，此舉標誌著大型企業在雲端策略上的重要轉變，可能對雲端市場競爭格局產生影響。",
+          "expert_insight": "金融市場需關注大型企業的雲端服務供應商轉換潮，這反映企業對成本效益、數據主權及多雲策略的重視，將影響雲端巨頭的營收表現與競爭態勢。",
+          "source_url": "https://www.theregister.com/columnists/2026/07/20/airbus-takes-flight-from-aws-what-happens-next-is-critical/5274109",
+          "tags": [
+            "雲端服務",
+            "企業轉型",
+            "市場競爭"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "dev_tools_agents",
+      "category_display": "🛠️ 開發者工具與 AI 代理",
+      "items": [
+        {
+          "title": "微軟開源Dusseldorf平台，強化應用程式資安檢測",
+          "core_summary": "微軟發布開源的頻外應用程式安全測試（OAST）平臺Dusseldorf，旨在協助資安人員偵測難以從應用程式內部觀察的漏洞，如SSRF、XSS等。",
+          "expert_insight": "金融市場可利用此開源工具強化其數位服務的安全防護，降低因漏洞造成的資安風險與潛在損失，提升客戶信任度並符合法規要求。",
+          "source_url": "https://www.ithome.com.tw/news/177470",
+          "tags": [
+            "資安工具",
+            "開源專案",
+            "漏洞檢測"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "AI模型發現WordPress遠端程式碼執行漏洞，成本僅25美元",
+          "core_summary": "有資安研究員利用GPT-5.6模型，僅花費25美元便成功發現了WordPress的遠端程式碼執行（RCE）漏洞。這展示了AI在漏洞挖掘方面的潛力與效率。",
+          "expert_insight": "金融市場應警惕AI在資安攻防兩端的雙面刃效應，一方面可提升資安測試效率，另一方面也可能降低駭客發動攻擊的成本，迫使企業加速資安防禦升級。",
+          "source_url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
+          "tags": [
+            "AI資安",
+            "漏洞挖掘",
+            "開發工具"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Vercel Labs發布Deepsec，用AI程式代理偵測程式碼漏洞",
+          "core_summary": "Vercel Labs發布Deepsec開源專案，這是一個運用程式碼代理（coding agents）尋找程式碼庫中漏洞的安全工具。它旨在提供一個安全框架，以自動化方式增強應用程式的安全性。",
+          "expert_insight": "媒體設計業者利用AI工具開發應用時，Deepsec能協助早期發現並修復程式碼漏洞，確保產品上線安全性，避免資安事件影響使用者信任及品牌形象。",
+          "source_url": "https://github.com/vercel-labs/deepsec",
+          "tags": [
+            "AI代理",
+            "程式碼安全",
+            "開源工具"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "generative_media",
+      "category_display": "🎵 生成式多媒體與創作",
+      "items": [
+        {
+          "title": "Google以SynthID浮水印技術，探索辨識AI生成DNA",
+          "core_summary": "Google DeepMind與Isomorphic Labs合作，研究將SynthID浮水印技術應用於生物資料，以辨識具風險的AI生成DNA序列，彌補現有生物安全篩檢機制的不足。",
+          "expert_insight": "媒體設計領域應借鏡此技術，思考如何將不可見浮水印融入AI生成的視覺、音訊內容，以確保內容來源的透明性與可追溯性，對抗深偽資訊。",
+          "source_url": "https://www.ithome.com.tw/news/177463",
+          "tags": [
+            "AI浮水印",
+            "生成內容",
+            "生物科技"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Voicebox開源AI語音工作室：克隆、聽寫、創作一站完成",
+          "core_summary": "Voicebox是一個開源的AI語音工作室，提供語音克隆、語音聽寫與內容創作等功能。它讓使用者能夠更靈活地生成、編輯和利用AI合成語音。",
+          "expert_insight": "媒體設計專業人士可利用Voicebox進行快速配音、音訊內容生成與創意實驗，大幅提升製作效率並拓展聲音設計的可能性，特別適用於多媒體內容創作與品牌聲音建構。",
+          "source_url": "https://github.com/jamiepine/voicebox",
+          "tags": [
+            "AI語音",
+            "開源工具",
+            "多媒體創作"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "AI網文輔助創作系統問世，助長篇小說擺脫「遺忘與幻覺」",
+          "core_summary": "一個基於Claude Code的長篇網文輔助創作系統已公開，旨在解決AI寫作中常見的「遺忘」和「幻覺」問題，支援百萬字量級的連載創作。",
+          "expert_insight": "媒體設計及內容創作產業將因此受惠，尤其對長篇故事、劇本創作而言，此工具能有效提升AI生成內容的連貫性和可靠性，加速創作流程並降低重工成本。",
+          "source_url": "https://github.com/lingfengQAQ/webnovel-writer",
+          "tags": [
+            "AI寫作",
+            "內容創作",
+            "生成式AI"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "edtech_applications",
+      "category_display": "📚 教育科技與應用創新",
+      "items": [
+        {
+          "title": "Google Gemini助力副業發展，開啟AI創業新機",
+          "core_summary": "Google透過其AI模型Gemini，展示了五種利用AI工具發展副業的創新方式。這包括從內容創作到自動化服務等多樣應用，為個人創業和技能拓展提供了新機會。",
+          "expert_insight": "教育科技應將此類資訊納入課程，指導學生如何運用生成式AI工具創造商業價值，培養創業思維與AI應用實踐能力，以適應未來工作市場。",
+          "source_url": "https://blog.google/products-and-platforms/products/gemini/launch-business-with-gemini/",
+          "tags": [
+            "創業",
+            "AI應用",
+            "技能培訓"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "機場模擬器提供沉浸式學習體驗，探索營運管理",
+          "core_summary": "Airport Simulator是一款互動式的機場管理模擬器，讓使用者能夠體驗和學習機場營運的複雜性，包括航班調度、資源分配等，提供實用的場景訓練。",
+          "expert_insight": "教育科技可將此類模擬器整合至高等教育或職業訓練課程，提供學生在無風險環境中學習複雜系統管理的機會，提升決策能力與實務操作技能。",
+          "source_url": "https://airport.apunen.com/",
+          "tags": [
+            "模擬學習",
+            "職業訓練",
+            "互動應用"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "從零學習AI工程：掌握建構、實作與交付AI系統的技能",
+          "core_summary": "「AI Engineering From Scratch」是一個開源專案，旨在提供從基礎到實戰的AI工程學習資源，引導使用者掌握AI系統的建構、實作與交付。",
+          "expert_insight": "教育科技應積極推廣此類開源學習資源，降低AI工程的學習門檻，讓更多學習者能系統性地掌握AI開發技能，以應對產業對AI人才的龐大需求。",
+          "source_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "tags": [
+            "AI工程",
+            "學習資源",
+            "開源教育"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "infra_opensource",
+      "category_display": "🧠 底層架構與開源模型",
+      "items": [
+        {
+          "title": "開源LLM推理框架SGLang驚爆重大漏洞，恐遭遠端程式碼執行攻擊",
+          "core_summary": "開源大型語言模型推理框架SGLang被揭露存在嚴重漏洞（CVE-2026-14890），攻擊者可利用其反序列化機制，在伺服器上執行任意程式碼，CVSS評分高達9.1分。",
+          "expert_insight": "金融市場在導入基於開源LLM框架的AI應用時，必須嚴格執行資安審查與修補，以防範此類高風險漏洞被利用，導致敏感資料外洩或系統癱瘓。",
+          "source_url": "https://www.ithome.com.tw/news/177479",
+          "tags": [
+            "LLM框架",
+            "開源漏洞",
+            "資安風險"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "OpenAI分享長週期模型安全部署經驗，強調風險與防護",
+          "core_summary": "OpenAI發布報告，分享在部署長週期AI模型時所學到的經驗，強調了新的安全風險、已觀察到的失敗案例，以及透過迭代部署改進的安全防護措施。",
+          "expert_insight": "教育科技領域應將OpenAI在AI安全與對齊方面的經驗納入教材，培養學生對AI倫理與風險的認知，確保未來AI開發者能設計出更安全、可信賴的AI系統。",
+          "source_url": "https://openai.com/index/safety-alignment-long-horizon-models",
+          "tags": [
+            "AI安全",
+            "模型對齊",
+            "OpenAI"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Cognee：開源AI記憶平台，賦予代理人永續長期記憶",
+          "core_summary": "Cognee是一個開源的AI記憶平台，透過自託管的知識圖譜引擎，賦予AI代理人在不同會話間持久的長期記憶，解決AI代理人資訊遺忘的問題。",
+          "expert_insight": "媒體設計領域在開發複雜的AI內容生成或互動應用時，可利用Cognee為AI代理提供連貫的上下文記憶，提升創作的品質與使用者互動的流暢性，實現更智能化的應用。",
+          "source_url": "https://github.com/topoteretes/cognee",
+          "tags": [
+            "AI代理",
+            "記憶平台",
+            "知識圖譜"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "law_ethics_society",
+      "category_display": "⚖️ 法律倫理與社會衝擊",
+      "items": [
+        {
+          "title": "歐盟AI法案8月生效：聊天機器人與深偽內容須主動透明揭露",
+          "core_summary": "歐盟執委會公布《AI法案》第50條透明義務最終指南，自8月2日起，聊天機器人、AI代理、生成式AI內容及深偽（Deepfake）等應用提供者與部署者，必須主動揭露其AI生成性質。",
+          "expert_insight": "媒體設計業者必須立即調整其AI生成內容的製作與發布流程，確保符合歐盟法規的透明度要求，否則將面臨法律責任與消費者信任危機。",
+          "source_url": "https://www.ithome.com.tw/news/177468",
+          "tags": [
+            "AI法規",
+            "歐盟",
+            "透明度"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "俄羅斯駭客濫用Google Gemini CLI，6分鐘內建立殭屍網路",
+          "core_summary": "趨勢科技揭露俄語駭客Bandcampro濫用Google Gemini的命令列工具（CLI），成功越獄並突破安全機制，在短短6分鐘內建立殭屍網路，用於詐騙及竊取憑證。",
+          "expert_insight": "金融市場需高度警惕AI工具被惡意利用的風險，駭客利用AI自動化攻擊將更高效且隱蔽，要求金融機構不斷提升AI驅動的威脅偵測與防禦能力，以保護客戶資產與資料安全。",
+          "source_url": "https://www.ithome.com.tw/news/177475",
+          "tags": [
+            "AI濫用",
+            "駭客攻擊",
+            "網路安全"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "上市車用電子廠淳安遭勒索軟體攻擊，資安應變機制啟動",
+          "core_summary": "台灣上市車用電子廠淳安電子（6283）發布重大訊息，確認公司遭受勒索軟體檔案加密攻擊，已立即啟動資安應變機制，評估對營運影響。",
+          "expert_insight": "金融市場應關注此事件對供應鏈資安風險的警示，勒索軟體攻擊對企業營運、財務穩定及股價皆有顯著衝擊，凸顯投資於資安防護與應變能力的重要性。",
+          "source_url": "https://www.ithome.com.tw/news/177464",
+          "tags": [
+            "勒索軟體",
+            "資安事件",
+            "企業衝擊"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    }
+  ],
+  "anomalies": {
+    "skipped_sources": [],
+    "notes": ""
+  }
+}
