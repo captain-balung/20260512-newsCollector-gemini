@@ -1,0 +1,283 @@
+{
+  "date": "2026-07-24",
+  "generated_at": "2026-07-24T12:11:17+08:00",
+  "model_version": "gemini-2.5-flash",
+  "dashboard": {
+    "QQQ": "-1.90%",
+    "GOOGL": "-7.13%",
+    "AAPL": "-1.30%",
+    "MSFT": "-2.24%",
+    "NVDA": "-1.56%",
+    "META": "-3.36%"
+  },
+  "sections": [
+    {
+      "category_id": "giants_market",
+      "category_display": "🏢 巨頭動向與市場脈動",
+      "items": [
+        {
+          "title": "Google遭歐盟重罰8.9億歐元，數位市場法衝擊科技巨頭",
+          "core_summary": "歐盟執委會因Google搜尋服務圖利自家產品及Google Play限制政策，違反數位市場法（DMA），對其處以8.9億歐元罰款。此舉彰顯歐盟對科技巨頭市場壟斷行為的強力監管態度。",
+          "expert_insight": "從金融市場角度看，這筆鉅額罰款不僅直接影響Alphabet的財報表現，更向所有科技巨頭傳達明確信號：歐洲市場的監管環境日益嚴峻，未來合規成本與策略調整將成為投資評估的重要風險因子。",
+          "source_url": "https://www.ithome.com.tw/news/177587",
+          "tags": [
+            "Google",
+            "歐盟罰款",
+            "數位市場法"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "AMD揭示AI運算新趨勢：推論需求激增，CPU重要性超車GPU",
+          "core_summary": "AMD董事長暨執行長蘇姿丰指出，AI運算重心已從訓練轉向推論，且CPU的需求增速甚至超越GPU。她表示AI應用型態的改變正重新推升CPU在資料中心的重要性，AI推論與訓練需求比已達6:4。",
+          "expert_insight": "從金融市場角度分析，這項趨勢預示著半導體產業的投資焦點可能轉變。投資人應關注CPU與加速器廠商在推論市場的布局與技術創新，這將直接影響其未來營收與競爭力。",
+          "source_url": "https://www.ithome.com.tw/news/177586",
+          "tags": [
+            "AMD",
+            "AI運算",
+            "CPU",
+            "GPU"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Alphabet第二季財報亮眼，Gemini App用戶突破9.5億展現AI實力",
+          "core_summary": "Alphabet公布第二季財報，營收年增24%達1,198億美元，營業利益成長30%。其中，Gemini App每月活躍用戶數已增至9.5億，顯示其AI產品在市場上取得顯著進展，正朝10億大關邁進。",
+          "expert_insight": "從金融市場視角來看，Alphabet強勁的財報數據及Gemini App的高速用戶增長，不僅驗證其AI策略的有效性，更為投資者提供了評估其未來市場主導地位和營收潛力的關鍵指標，尤其在生成式AI競爭白熱化的當下。",
+          "source_url": "https://www.ithome.com.tw/news/177554",
+          "tags": [
+            "Alphabet",
+            "財報",
+            "Gemini App",
+            "AI應用"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "dev_tools_agents",
+      "category_display": "🛠️ 開發者工具與 AI 代理",
+      "items": [
+        {
+          "title": "Google推出CodeMender AI代理，自動偵測修補程式碼漏洞",
+          "core_summary": "Google發表程式碼資安代理CodeMender公開預覽版，其能掃描程式碼尋找安全弱點，並在隔離環境中實際測試漏洞，自動產生並測試修補程式。此服務目前僅限少數政府與合作夥伴試用。",
+          "expert_insight": "從教育科技角度看，CodeMender的出現將大幅提升軟體開發的安全性與效率，未來的程式教育需更著重於如何與AI代理協作，而非僅是手動除錯，培養學生利用AI工具解決問題的能力。",
+          "source_url": "https://www.ithome.com.tw/news/177585",
+          "tags": [
+            "AI代理",
+            "資安修補",
+            "Google"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Oh-My-Pi：終端機AI編碼代理，革新開發者工作流",
+          "core_summary": "GitHub上熱門的『oh-my-pi』專案是一個基於終端機的AI編碼代理，提供哈希錨定編輯、優化工具組、LSP整合、Python支援及瀏覽器功能等，旨在提升開發者在程式碼編輯與除錯的效率。",
+          "expert_insight": "從教育科技視角，這類AI編碼代理的發展，將對程式設計教學帶來顛覆性影響。未來的編程教育將從傳統語法學習，轉變為如何有效運用AI工具輔助程式設計與問題解決，提升學生的實際開發能力。",
+          "source_url": "https://github.com/can1357/oh-my-pi",
+          "tags": [
+            "AI程式碼代理",
+            "開發工具",
+            "編程教育"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "OmniRoute：免費開源AI閘道器，整合290+供應商、500+模型",
+          "core_summary": "OmniRoute是一個MIT開源的AI閘道器，提供單一API端點即可連接290多家供應商（其中90多家免費）的500多個AI模型，包括Kimi、Claude、GPT、Gemini等，並支援配額感知自動切換及令牌壓縮功能。",
+          "expert_insight": "從金融市場角度分析，OmniRoute大幅降低了企業導入和管理多模態AI模型的成本與複雜度，特別是對於中小型企業和新創公司，能有效節省雲端資源費用，加速AI應用的普及與創新，具有顯著的經濟效益。",
+          "source_url": "https://github.com/diegosouzapw/OmniRoute",
+          "tags": [
+            "AI閘道器",
+            "LLM整合",
+            "開源工具"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "generative_media",
+      "category_display": "🎵 生成式多媒體與創作",
+      "items": [
+        {
+          "title": "微軟Xbox遊戲向下相容擴展至Windows 11，PC與掌機共遊時代來臨",
+          "core_summary": "微軟啟動Xbox PC向下相容功能預覽，首批支援4款初代Xbox遊戲可在Windows 11 PC及支援掌機上遊玩。此功能提供高達4倍解析度升頻等多種顯示選項，並允許已擁有數位版的玩家直接在PC上暢玩。",
+          "expert_insight": "從媒體設計角度來看，微軟將Xbox遊戲內容深度整合至PC平台，將顯著擴展內容觸及範圍與玩家社群。這不僅改變了遊戲內容的發行與消費模式，也促使遊戲開發者思考跨平台內容設計與使用者體驗的一致性。",
+          "source_url": "https://www.ithome.com.tw/news/177582",
+          "tags": [
+            "Xbox",
+            "Windows 11",
+            "遊戲平台",
+            "跨平台"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Palmier Pro：Macos上的AI開源影音編輯器，簡化創作流程",
+          "core_summary": "Palmier Pro是一個開源的macOS影音編輯器，專為AI整合而設計。它提供AI輔助的編輯功能，旨在讓影音創作更加便捷高效，尤其適合需要智慧化工具的內容創作者。",
+          "expert_insight": "從媒體設計視角看，Palmier Pro的開源特性與AI整合，大幅降低了專業級影音編輯的門檻。這將鼓勵更多創作者嘗試進階影音製作，加速內容創作的普及化，並可能催生更多創新性的AI輔助媒體內容形式。",
+          "source_url": "https://github.com/palmier-io/palmier-pro",
+          "tags": [
+            "AI影音編輯",
+            "開源軟體",
+            "macOS"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "WorldMonitor：AI驅動的即時全球情報儀表板",
+          "core_summary": "WorldMonitor是一個即時全球情報儀表板，透過AI技術實現新聞聚合、地緣政治監測和基礎設施追蹤，旨在提供統一的情境感知介面，幫助用戶掌握全球動態。",
+          "expert_insight": "從媒體設計角度看，WorldMonitor利用AI革新了資訊聚合與呈現方式。它將傳統新聞媒體的單向傳播轉化為多維度、即時的情境感知，促使媒體產業思考如何整合AI工具，提升新聞分析深度與視覺化呈現效率。",
+          "source_url": "https://github.com/koala73/worldmonitor",
+          "tags": [
+            "AI新聞",
+            "內容聚合",
+            "情境感知"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "edtech_applications",
+      "category_display": "📚 教育科技與應用創新",
+      "items": [
+        {
+          "title": "OpenAI推ChatGPT Health服務，整合病歷與Apple Health個人化健康諮詢",
+          "core_summary": "OpenAI在美國正式推出ChatGPT Health，允許用戶串接Apple Health及醫療機構病歷資料。該服務將利用個人健康數據，提供客製化的健康問題解答，目前開放美國18歲以上用戶使用。",
+          "expert_insight": "從教育科技角度看，ChatGPT Health為個人化健康教育帶來巨大潛力。它不僅能幫助用戶理解複雜的醫療資訊，更能根據其具體健康數據提供針對性建議，成為個人健康管理與疾病預防教育的重要輔助工具。",
+          "source_url": "https://www.ithome.com.tw/news/177595",
+          "tags": [
+            "AI健康",
+            "ChatGPT",
+            "Apple Health",
+            "個人化學習"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "OpenMAIC：開源多代理互動式教室，打造沉浸式AI學習體驗",
+          "core_summary": "OpenMAIC（Open Multi-Agent Interactive Classroom）是一個開源專案，旨在透過多代理互動提供沉浸式學習體驗。它允許使用者一鍵建立一個由多個AI代理組成的虛擬教室，促進更生動、個人化的學習模式。",
+          "expert_insight": "從教育科技角度分析，OpenMAIC的出現預示著未來教育模式的重大變革。它將AI代理引入課堂，使學生能夠在互動式環境中進行深度學習與探索，極大地提升了學習參與度和客製化程度，為智慧教育帶來創新契機。",
+          "source_url": "https://github.com/THU-MAIC/OpenMAIC",
+          "tags": [
+            "AI教育",
+            "多代理學習",
+            "互動式學習"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "AI工程從零開始：GitHub資源庫助您快速入門與實踐",
+          "core_summary": "GitHub上的『ai-engineering-from-scratch』專案提供從零開始學習AI工程的全面資源，涵蓋建構、部署和交付AI系統的各個階段，旨在幫助學習者掌握實用的AI工程技能。",
+          "expert_insight": "從教育科技視角，這類免費且結構化的學習資源對於普及AI教育至關重要。它為渴望進入AI領域的學習者提供了清晰的路徑，有助於培養具備實戰能力的AI工程人才，加速產業技術的應用與創新。",
+          "source_url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+          "tags": [
+            "AI工程",
+            "學習資源",
+            "人才培育"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "infra_opensource",
+      "category_display": "🧠 底層架構與開源模型",
+      "items": [
+        {
+          "title": "Linux核心24小時內修補440個漏洞，大規模更新引發關注",
+          "core_summary": "Linux核心開發團隊在不到24小時內，密集發布資安公告並修補約440個漏洞，涵蓋多個子系統。此大規模更新凸顯開源社群對基礎設施安全的快速響應能力，並提醒使用者應盡速安裝最新安全更新。",
+          "expert_insight": "從媒體設計角度而言，作為眾多數位內容平台與伺服器的底層支撐，Linux核心的資安穩定性至關重要。如此大規模且快速的漏洞修補，確保了數位內容生態系的基礎安全，避免潛在的服務中斷與資料外洩風險。",
+          "source_url": "https://www.ithome.com.tw/news/177599",
+          "tags": [
+            "Linux",
+            "資安修補",
+            "開源軟體"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Echo：開源模型實現Fable級成果，成本僅三分之一",
+          "core_summary": "『Echo』專案展示了如何利用開源權重模型（open-weight models）達到媲美Fable等級的AI成果，且成本僅為其三分之一。這證明了開源模型在性能與成本效益上的巨大潛力。",
+          "expert_insight": "從金融市場角度看，Echo的成就對AI產業的投資格局具備深遠意義。它表明，企業無需投入鉅資購買閉源模型，也能獲得頂尖AI能力，這將大幅降低AI技術的應用門檻，促進更多創新與競爭，值得投資者密切關注。",
+          "source_url": "https://news.ycombinator.com/item?id=49026810",
+          "tags": [
+            "開源模型",
+            "AI成本",
+            "成本效益"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "SkyPilot：整合碎片化AI算力，為前沿團隊打造AI超級電腦",
+          "core_summary": "SkyPilot是一個AI運算平台，旨在將分散的AI運算資源整合為一個統一的AI超級電腦。它幫助前沿AI團隊更快地建構客製化智慧解決方案，提升開發效率。",
+          "expert_insight": "從金融市場角度分析，SkyPilot解決了AI研發中算力成本高昂與資源碎片化的痛點。對於資本密集型的AI團隊而言，這項技術能大幅優化資源配置、降低運營成本，進而加速產品上市時間，是提高投資回報的關鍵基礎設施。",
+          "source_url": "https://github.com/skypilot-org/skypilot",
+          "tags": [
+            "AI運算平台",
+            "雲端資源",
+            "成本優化"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "law_ethics_society",
+      "category_display": "⚖️ 法律倫理與社會衝擊",
+      "items": [
+        {
+          "title": "LG顯示器涉嫌透過Windows Update偷裝McAfee試用版，微軟介入調查",
+          "core_summary": "部分LG高階顯示器用戶反映，連接Windows電腦後，電腦被未經同意偷偷安裝McAfee安全軟體試用版。此事件已引起微軟強力介入，但LG否認擅自安裝軟體。",
+          "expert_insight": "從媒體設計角度，此事件嚴重損害了使用者對硬體品牌及作業系統平台的信任。顯示器廠商若未經用戶同意強制安裝軟體，將對品牌聲譽造成不可逆的負面影響，並挑戰數位產品服務的倫理邊界。",
+          "source_url": "https://www.ithome.com.tw/news/177597",
+          "tags": [
+            "隱私爭議",
+            "軟體安裝",
+            "消費者權益"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "日本冷鏈龍頭Nichirei遭勒索軟體攻擊，民生食品供應鏈受衝擊",
+          "core_summary": "日本冷鏈物流巨頭Nichirei集團證實遭勒索軟體攻擊，導致冷凍倉庫及食品出貨作業中斷。駭客組織RansomHouse已聲稱犯案，儘管系統逐步恢復，但冷鏈物流全面復原預計需近兩週，嚴重影響民生供應。",
+          "expert_insight": "從金融市場角度看，冷鏈物流作為關鍵民生供應鏈的資安事故，直接衝擊消費者物價穩定及企業營運持續性。這不僅可能引發食品價格波動，也突顯了供應鏈環節的數位韌性不足對經濟造成的巨大風險，值得投資者高度警惕。",
+          "source_url": "https://www.ithome.com.tw/news/177580",
+          "tags": [
+            "勒索軟體",
+            "冷鏈物流",
+            "供應鏈資安",
+            "民生經濟"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "新創公司呼籲美國政府：勿切斷中國開源AI，恐扼殺創新",
+          "core_summary": "多位新創公司創辦人聯合敦促美國政府，不應限制甚至切斷與中國開源AI模型的連結。他們認為此舉將可能扼殺美國本土的AI創新，對整個產業生態造成負面衝擊。",
+          "expert_insight": "從金融市場角度來看，美國政府對中國開源AI模型的政策走向，將直接影響全球AI供應鏈的穩定性及新創公司的融資與發展前景。潛在的技術壁壘恐增加企業營運成本與不確定性，對投資決策產生重大影響。",
+          "source_url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+          "tags": [
+            "開源AI",
+            "地緣政治",
+            "中美科技戰",
+            "AI政策"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    }
+  ],
+  "anomalies": {
+    "skipped_sources": [],
+    "notes": ""
+  }
+}
