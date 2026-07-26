@@ -1,0 +1,269 @@
+{
+  "date": "2026-07-26",
+  "generated_at": "2026-07-26T12:22:57+08:00",
+  "model_version": "gemini-2.5-flash",
+  "dashboard": {
+    "QQQ": "+nan%",
+    "GOOGL": "+nan%",
+    "AAPL": "+nan%",
+    "MSFT": "+nan%",
+    "NVDA": "+nan%",
+    "META": "+nan%"
+  },
+  "sections": [
+    {
+      "category_id": "giants_market",
+      "category_display": "🏢 巨頭動向與市場脈動",
+      "items": [
+        {
+          "title": "深度智元募資因「算力差距言論」外洩受阻，衝擊中資AI市場信心",
+          "core_summary": "中國AI巨頭深度智元因其CEO關於中美算力差距的內部言論外洩，導致新一輪募資進程暫停。此事件凸顯了地緣政治與AI產業發展的敏感連結，尤其在技術自主性方面。",
+          "expert_insight": "這不僅影響深度智元自身的資金流動，更可能讓投資者對中國AI新創的未來發展抱持觀望態度，進而影響整體市場的估值與投資熱情，加劇資本市場對地緣政治風險的擔憂。",
+          "source_url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+          "tags": [
+            "AI投資",
+            "地緣政治",
+            "中國AI"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "開源AI迎來「Kubernetes時刻」，預示技術成熟與普及",
+          "core_summary": "業界觀察指出，開源AI模型正步入類似Kubernetes的發展階段，意味著技術標準化、生態系成熟與廣泛採用將成為趨勢。這將加速AI技術的民主化與創新。",
+          "expert_insight": "開源AI的成熟將降低企業導入AI的成本與門檻，刺激更多創新應用，對相關軟硬體供應商帶來新的市場機會，並可能重塑AI領域的競爭格局。",
+          "source_url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+          "tags": [
+            "開源AI",
+            "技術標準化",
+            "產業趨勢"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Google釋出開源Genkit框架，賦能AI應用開發新世代",
+          "core_summary": "Google推出開源框架Genkit，旨在簡化AI應用程式的開發流程，支援JavaScript、Go和Python語言。此框架已在Google內部生產環境使用，為開發者提供可靠的工具。",
+          "expert_insight": "作為AI巨頭推出的開源框架，Genkit有望成為AI應用開發的標準工具之一，大幅降低開發者進入門檻，加速創新迭代，並推動跨平台AI應用的普及。",
+          "source_url": "https://github.com/genkit-ai/genkit",
+          "tags": [
+            "Google",
+            "開源框架",
+            "AI開發"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "dev_tools_agents",
+      "category_display": "🛠️ 開發者工具與 AI 代理",
+      "items": [
+        {
+          "title": "Claude 5語境工程新指南：提升AI模型理解與應用效率",
+          "core_summary": "Anthropic為其新一代模型Claude 5發布了語境工程的新規則，指導開發者如何更有效地設計提示詞和互動模式，以最大化模型的性能和精準度。",
+          "expert_insight": "對於依賴Claude模型的開發者而言，掌握這些新規則至關重要，能直接影響其AI應用的效率、穩定性與成本，是提升開發品質與競爭力的關鍵。",
+          "source_url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+          "tags": [
+            "提示工程",
+            "Claude 5",
+            "AI模型"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "OmniRoute：統一多模態AI服務的開源閘道器",
+          "core_summary": "OmniRoute作為一個開源的AI閘道器，提供單一API端點即可連接超過290家供應商、500多個AI模型，並具備配額感知自動備援及令牌壓縮功能，極大化開發者靈活性與成本效益。",
+          "expert_insight": "對於需要整合多種AI模型或避免供應商鎖定的開發團隊而言，OmniRoute提供了極大的便利性和彈性，是管理複雜AI架構、優化資源使用的強大工具。",
+          "source_url": "https://github.com/diegosouzapw/OmniRoute",
+          "tags": [
+            "AI閘道器",
+            "多模型",
+            "開發工具",
+            "開源"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "MonkeyCode：為團隊打造的AI協作程式開發平台",
+          "core_summary": "MonkeyCode是一個專為團隊設計的AI程式開發平台，旨在透過智慧輔助功能提升團隊協作效率與程式碼品質。",
+          "expert_insight": "這類AI協作平台能大幅提升軟體開發團隊的生產力，尤其是在敏捷開發與程式碼審查流程中，AI輔助將成為未來開發工作流的標準配置。",
+          "source_url": "https://github.com/chaitin/MonkeyCode",
+          "tags": [
+            "AI程式碼",
+            "團隊協作",
+            "開發平台"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "generative_media",
+      "category_display": "🎵 生成式多媒體與創作",
+      "items": [
+        {
+          "title": "Hyperframes：HTML轉影片，開創代理程式生成媒體新模式",
+          "core_summary": "Hyperframes允許開發者透過編寫HTML來生成影片內容，專為AI代理程式設計，旨在簡化視覺內容的自動化生成流程。",
+          "expert_insight": "將HTML的靈活性帶入影片生成，對數位內容創作者與自動化行銷而言是巨大突破，能讓AI代理程式更有效率地製作客製化、動態的視覺內容。",
+          "source_url": "https://github.com/heygen-com/hyperframes",
+          "tags": [
+            "HTML轉影片",
+            "生成式媒體",
+            "AI代理"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Banana Slides：原生AI簡報生成，邁向「Vibe PPT」時代",
+          "core_summary": "Banana Slides是一款基於原生AI技術的PPT生成應用，支援上傳模板、素材並智能解析，能透過一句話或大綱自動生成簡報，並提供口頭修改和一鍵導出功能。",
+          "expert_insight": "這類AI簡報工具將徹底改變內容創建流程，設計師與非設計背景用戶都能快速產出具「氛圍感」的專業簡報，極大化效率與創意表現，特別是在商業提案與教學應用上。",
+          "source_url": "https://github.com/Anionex/banana-slides",
+          "tags": [
+            "AI簡報",
+            "內容創作",
+            "效率工具"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "WorldMonitor：AI驅動全球即時情資儀表板",
+          "core_summary": "WorldMonitor是一個AI驅動的全球即時情資儀表板，整合新聞聚合、地緣政治監控和基礎設施追蹤功能，提供統一的情境感知介面。",
+          "expert_insight": "對於需要即時掌握全球動態的金融分析師和投資者來說，這類AI情資平台能提供更高效、全面的市場洞察，輔助投資決策和風險管理。",
+          "source_url": "https://github.com/koala73/worldmonitor",
+          "tags": [
+            "AI情資",
+            "新聞聚合",
+            "地緣政治",
+            "數據視覺化"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "edtech_applications",
+      "category_display": "📚 教育科技與應用創新",
+      "items": [
+        {
+          "title": "AI求職框架：自動評估職位、客製履歷，提升求職效率",
+          "core_summary": "這個AI求職框架基於Claude Code開發，能自動評估職位發布內容、客製化履歷、撰寫求職信，並準備面試，協助使用者在求職過程中更具競爭力。",
+          "expert_insight": "對於職涯輔導機構和學生而言，這類工具能提供高度個人化的求職指導，彌補傳統教育在實用求職技巧上的不足，提升畢業生就業率。",
+          "source_url": "https://github.com/MadsLorentzen/ai-job-search",
+          "tags": [
+            "AI求職",
+            "職涯發展",
+            "教育輔導"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "SurfSense：開源AI研究工具，即時探索網路資料",
+          "core_summary": "SurfSense是一個開源的NotebookLM替代方案，允許用戶透過單一平台、API或MCP伺服器，即時研究開放網路上的資料，包括Reddit、YouTube、Google搜尋等。",
+          "expert_insight": "對於學生、研究人員和教育工作者來說，SurfSense提供了強大的AI輔助研究能力，能高效聚合和分析即時網路資訊，顯著提升學習與學術研究的效率和廣度。",
+          "source_url": "https://github.com/MODSetter/SurfSense",
+          "tags": [
+            "AI研究",
+            "學術輔助",
+            "開源工具"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Banana Slides：原生AI簡報生成，革新教學內容製作",
+          "core_summary": "Banana Slides是一款AI原生簡報生成應用，支援上傳模板、素材及智能解析，能透過文字描述自動生成PPT，並提供修改與導出功能，加速簡報製作流程。",
+          "expert_insight": "教師可利用此工具快速生成高質量的課程簡報，將更多時間投入到課堂互動與學生輔導，而非繁瑣的內容排版，有效提升教學效率與品質。",
+          "source_url": "https://github.com/Anionex/banana-slides",
+          "tags": [
+            "AI簡報",
+            "教學工具",
+            "數位教材"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "infra_opensource",
+      "category_display": "🧠 底層架構與開源模型",
+      "items": [
+        {
+          "title": "Debian社群探討LLM整合：開源作業系統的AI應用前景",
+          "core_summary": "Debian社群正在積極討論三項關於在其作業系統中整合大型語言模型（LLM）的提案，這標誌著開源軟體與AI技術融合的重要一步。",
+          "expert_insight": "Debian作為廣泛使用的開源OS，其對LLM的支援將為大量開發者提供直接在基礎設施層面應用AI的機會，推動AI模型在作業系統層級的普及與效能優化。",
+          "source_url": "https://www.debian.org/vote/2026/vote_002",
+          "tags": [
+            "Debian",
+            "LLM整合",
+            "開源作業系統"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "微型LLM突破：8美元微控制器運行千萬級參數模型",
+          "core_summary": "研究展示成功在僅8美元的微控制器上運行一個2890萬參數的大型語言模型，證明了AI模型邊緣運算的極大潛力與成本效益。",
+          "expert_insight": "這項技術突破將大幅降低AI模型的部署門檻，推動AI在物聯網、嵌入式設備等資源受限環境中的普及，開啟全新的應用場景與市場。",
+          "source_url": "https://github.com/slvDev/esp32-ai",
+          "tags": [
+            "邊緣AI",
+            "微控制器",
+            "LLM",
+            "硬體優化"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "PageIndex：無向量化、基於推理的RAG新範式",
+          "core_summary": "PageIndex提出一種無需向量儲存、基於推理的RAG（檢索增強生成）文檔索引方法，旨在提供更高效且邏輯性更強的資訊檢索與生成。",
+          "expert_insight": "這種「無向量」RAG的創新，可能簡化AI應用資料管理，降低成本並提升推理精準度，對下一代AI知識庫系統的設計產生深遠影響。",
+          "source_url": "https://github.com/VectifyAI/PageIndex",
+          "tags": [
+            "RAG",
+            "資訊檢索",
+            "AI架構"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "law_ethics_society",
+      "category_display": "⚖️ 法律倫理與社會衝擊",
+      "items": [
+        {
+          "title": "Android擬限縮ADB權限，引發開發者與用戶隱私爭議",
+          "core_summary": "傳聞Android作業系統可能很快會限制設備上的ADB（Android Debug Bridge）權限，此舉可能影響開發者工作流程、用戶自定義能力，並引發關於系統控制與數據隱私的討論。",
+          "expert_insight": "限制ADB權限可能在提升系統安全性的同時，限縮了用戶對自身設備的完全控制權，也對依賴ADB進行開發、測試的應用生態帶來挑戰，需要在安全與自由之間取得平衡。",
+          "source_url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+          "tags": [
+            "Android",
+            "ADB",
+            "隱私權",
+            "開發者權限"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Strix：開源AI滲透測試工具，強化應用程式安全性",
+          "core_summary": "Strix是一個開源的AI滲透測試工具，旨在協助開發者和安全團隊自動化地發現並修復應用程式中的漏洞，提升軟體安全性。",
+          "expert_insight": "隨著AI的普及，利用AI進行資安防護將成為主流。Strix這類工具能有效提升軟體安全水準，有助於企業履行數據保護的法定義務，降低因漏洞導致的隱私洩漏風險。",
+          "source_url": "https://github.com/usestrix/strix",
+          "tags": [
+            "AI資安",
+            "滲透測試",
+            "開源安全"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    }
+  ],
+  "anomalies": {
+    "skipped_sources": [],
+    "notes": ""
+  }
+}
