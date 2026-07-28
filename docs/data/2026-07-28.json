@@ -1,0 +1,269 @@
+{
+  "date": "2026-07-28",
+  "generated_at": "2026-07-28T11:57:40+08:00",
+  "model_version": "gemini-2.5-flash",
+  "dashboard": {
+    "QQQ": "-0.31%",
+    "GOOGL": "+2.13%",
+    "AAPL": "+1.17%",
+    "MSFT": "+1.94%",
+    "NVDA": "-4.99%",
+    "META": "Stable"
+  },
+  "sections": [
+    {
+      "category_id": "giants_market",
+      "category_display": "🏢 巨頭動向與市場脈動",
+      "items": [
+        {
+          "title": "輝達攜手科技巨頭與Linux基金會，共築開源AI安全防線",
+          "core_summary": "針對AI資安風險日益升高，輝達聯合微軟、SpacexAI、Databricks等業界巨擘與Linux基金會，共同成立「開放安全AI聯盟」，旨在開發並分享開源資安技術，以防範AI引發的網路攻擊。",
+          "expert_insight": "金融市場視角：大型科技公司合作建立AI安全標準，可望降低企業採用AI的資安疑慮，進而加速AI技術在各產業的普及與投資，同時也可能對資安產業帶來新的商機與挑戰。",
+          "source_url": "https://www.ithome.com.tw/news/177677",
+          "tags": [
+            "輝達",
+            "AI資安",
+            "開源聯盟",
+            "產業合作"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "中國AI新星月之暗面開源2.8兆參數Kimi K3模型，挑戰全球巨頭",
+          "core_summary": "中國AI新創「月之暗面」（Moonshot AI）透過Hugging Face釋出其Kimi K3模型的完整權重、程式碼及技術報告，宣稱這是全球首款開放權重的3兆級模型，供研究人員與企業免費部署與開發。",
+          "expert_insight": "金融市場視角：此舉將加劇全球AI模型市場的競爭，特別是在開源領域。對於尋求低成本或客製化AI解決方案的企業，這提供了強大的新選擇，可能影響現有大型AI服務商的市場策略與營收。",
+          "source_url": "https://www.ithome.com.tw/news/177676",
+          "tags": [
+            "Kimi K3",
+            "月之暗面",
+            "開源模型",
+            "大語言模型"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Google攜手KDDI啟動日本AI新創支援計畫，加速當地創新",
+          "core_summary": "Google與日本電信巨頭KDDI合作，在日本推出「AI新創支援計畫」，旨在加速具有創新AI原生技術的日本新創企業發展，提供必要的資源與支持。",
+          "expert_insight": "金融市場視角：Google此舉顯示其在全球AI生態系布局的野心，透過投資和扶持區域新創，可望強化其AI雲端服務市場佔有率，並為日本科技產業帶來資金與技術活水，加速當地AI產業鏈的發展。",
+          "source_url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/ai-startup-support-program-japan/",
+          "tags": [
+            "Google",
+            "KDDI",
+            "AI新創",
+            "日本市場"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "dev_tools_agents",
+      "category_display": "🛠️ 開發者工具與 AI 代理",
+      "items": [
+        {
+          "title": "Google更新開放知識格式，強化AI代理知識溯源與結果驗證",
+          "core_summary": "Google將開放知識格式（OKF）升級至v0.2，為AI代理所使用的資料表結構、業務指標等加入資料來源、產生者、驗證紀錄等追溯資訊，並新增運算核驗機制，確保AI代理回報數據的準確性與可信度。",
+          "expert_insight": "媒體設計視角：這項更新對AI代理內容的可靠性與透明度至關重要，能有效提升AI生成資訊的公信力，減少誤傳，對於需要高度準確性的資訊類應用，如新聞媒體或研究分析，是基礎設施級的進步。",
+          "source_url": "https://www.ithome.com.tw/news/177668",
+          "tags": [
+            "Google",
+            "AI代理",
+            "知識格式",
+            "資料驗證"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "AI編碼掀起軟體開發革命：工程師角色轉變與品質控管新挑戰",
+          "core_summary": "AI技術已從單純的程式碼補全，深入到軟體開發的完整生命週期，包含需求釐清、規格拆解、程式生成、測試與除錯。企業正重新評估開發方法與團隊分工，促使工程師工作重心從「怎麼做」轉向「做什麼」。",
+          "expert_insight": "教育科技視角：AI編碼的普及將徹底改變軟體工程教育的重點。未來的程式設計課程需更多聚焦於高階設計思維、問題拆解能力、AI工具協作與結果驗證，而非基礎語法記憶，以培養能駕馭AI的「超人」開發者。",
+          "source_url": "https://www.ithome.com.tw/article/177657",
+          "tags": [
+            "AI編碼",
+            "軟體開發",
+            "工程師轉型",
+            "開發者工具"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Devin開發商Cognition收購Poke，強化AI代理人主動互動與任務追蹤能力",
+          "core_summary": "AI程式開發代理人Devin的開發商Cognition宣布收購簡訊AI助理Poke的開發商The Interaction Company of California，旨在將Poke主動聯繫使用者、持續追蹤任務及類人對話模式等功能，整合至Devin中，提升其智慧與實用性。",
+          "expert_insight": "教育科技視角：Devin整合主動式AI互動能力後，將能更有效地引導使用者完成複雜的編程任務或學習專案。這代表AI代理人不僅是工具，更能成為具有教學指導性質的輔助者，在實作導向的學習環境中扮演更關鍵的角色。",
+          "source_url": "https://www.ithome.com.tw/news/177650",
+          "tags": [
+            "Devin",
+            "AI代理人",
+            "Cognition",
+            "開發者工具"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "generative_media",
+      "category_display": "🎵 生成式多媒體與創作",
+      "items": [
+        {
+          "title": "開源AI工具Modly：本機GPU即可從圖像生成3D模型",
+          "core_summary": "Modly是一個桌面應用程式，允許用戶利用本機GPU，透過AI技術從2D圖像自動生成3D模型，為3D內容創作提供高效且易於存取的解決方案。",
+          "expert_insight": "媒體設計視角：這項開源工具對3D內容創作者、遊戲開發者及XR設計師而言是重大福音。它大幅降低了3D模型製作的技術門檻和成本，加速設計流程，使更多個人創作者能夠將2D靈感快速轉化為3D資產。",
+          "source_url": "https://github.com/lightningpixel/modly",
+          "tags": [
+            "3D生成",
+            "AI創作",
+            "開源工具",
+            "媒體設計"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "開源Grok伴侶Airi：打造可自託管的虛擬AI直播互動夥伴",
+          "core_summary": "Airi是一個自託管的開源AI專案，目標是建立一個「waifu」級的虛擬AI伴侶，具備即時語音聊天、Minecraft和Factorio遊戲互動能力，並支援Web、macOS和Windows平台，旨在將虛擬實體帶入現實世界。",
+          "expert_insight": "媒體設計視角：此專案展現AI在虛擬角色互動與直播娛樂領域的巨大潛力。透過即時語音與遊戲互動，不僅能創造更沉浸的使用者體驗，也為個人創作者提供了新穎的內容生成與社群互動模式，模糊了現實與虛擬的界線。",
+          "source_url": "https://github.com/moeru-ai/airi",
+          "tags": [
+            "AI虛擬人",
+            "虛擬伴侶",
+            "即時互動",
+            "開源專案"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "edtech_applications",
+      "category_display": "📚 教育科技與應用創新",
+      "items": [
+        {
+          "title": "DocsGPT：為教育與企業打造的私有AI代理平台",
+          "core_summary": "DocsGPT是一個開源的私有AI平台，專為代理人、助理和企業搜尋設計，內建代理建構器、深度研究、文件分析、多模型支援和API連接功能，可安全部署於內部環境。",
+          "expert_insight": "教育科技視角：該平台能讓教育機構安全地建立專屬AI知識庫和智慧助理，用於學生學習輔導、教師教材研究、學術論文分析等。由於是私有部署，可有效保護敏感的教育資料，同時提供客製化的學習支援，大幅提升學習效率與研究深度。",
+          "source_url": "https://github.com/arc53/DocsGPT",
+          "tags": [
+            "AI教育應用",
+            "知識管理",
+            "私有部署",
+            "學習輔助"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "AI代理新技能：快速匯總Reddit、X、YouTube等最新資訊",
+          "core_summary": "這是一項為AI代理設計的技能，能夠在Reddit、X（原Twitter）、YouTube、Hacker News、Polymarket等平台及網路上，研究任何主題在過去30天內的資訊，並綜合生成一份有根據的摘要。",
+          "expert_insight": "教育科技視角：對於學生進行研究、教師準備課程內容，這項AI代理技能可大幅提升資訊彙整效率，讓使用者能快速掌握特定主題的最新動態與社群討論，培養批判性思考與快速學習的能力，特別是在時事與新興科技領域。",
+          "source_url": "https://github.com/mvanhorn/last30days-skill",
+          "tags": [
+            "AI學習",
+            "資訊彙整",
+            "研究工具",
+            "社群分析"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "infra_opensource",
+      "category_display": "🧠 底層架構與開源模型",
+      "items": [
+        {
+          "title": "開源電話交換機FreePBX發現重大漏洞，恐遭遠端接管",
+          "core_summary": "開源IP電話交換機管理平台FreePBX修補兩項CVSS風險分數高達9.3的重大漏洞。攻擊者可未經身分驗證，遠端執行任意系統指令或竄改管理員帳號，對使用該平台的企業構成嚴重資安威脅。",
+          "expert_insight": "金融市場視角：企業使用開源基礎設施時，資安風險管理是重中之重。此漏洞揭露提醒金融業和其他高度依賴通訊系統的組織，必須定期更新並監控其開源組件，以防範潛在的資料洩露或服務中斷，影響業務連續性。",
+          "source_url": "https://www.ithome.com.tw/news/177635",
+          "tags": [
+            "開源軟體",
+            "資安漏洞",
+            "FreePBX",
+            "基礎設施"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "PyPI實施套件14天上傳期限，強化開源生態資安防護",
+          "core_summary": "Python套件索引服務PyPI宣布，將對發布超過14天的套件版本拒絕新增檔案，以降低攻擊者在入侵發布憑證後，向穩定舊版本植入惡意程式的風險，提升Python開源生態系統的安全性。",
+          "expert_insight": "金融市場視角：PyPI此舉對仰賴Python開源套件進行軟體開發的金融科技公司意義重大。這項安全政策能有效降低供應鏈攻擊的風險，保護金融應用程式的底層安全性，減少因第三方套件漏洞導致的潛在損失與合規風險。",
+          "source_url": "https://www.ithome.com.tw/news/177656",
+          "tags": [
+            "PyPI",
+            "開源安全",
+            "供應鏈攻擊",
+            "Python"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Bun JavaScript運行時Rust重寫進度揭露，效能與穩定性受關注",
+          "core_summary": "一篇報導探討了高效能JavaScript運行時Bun在Rust語言上重寫的最新進度，此舉旨在進一步提升其運行速度與穩定性，引起開發者社群的廣泛關注。",
+          "expert_insight": "媒體設計視角：對於依賴高效能前端框架或Node.js應用程式的媒體平台和互動設計師而言，Bun在Rust上的改寫若成功，將意味著更快的開發工具和更流暢的用戶體驗。這將直接影響網頁與互動媒體的設計與部署效率。",
+          "source_url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+          "tags": [
+            "JavaScript",
+            "Bun",
+            "Rust",
+            "開源開發"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "law_ethics_society",
+      "category_display": "⚖️ 法律倫理與社會衝擊",
+      "items": [
+        {
+          "title": "歐洲發布新AI品質管理標準EN 18286，引導高風險AI合規發展",
+          "core_summary": "歐洲近日發布EN 18286標準，旨在協助高風險AI業者有效因應即將生效的歐盟AI法案，提供AI品質管理的具體規範與指南，確保AI系統的安全性、透明度與可信賴性。",
+          "expert_insight": "金融市場視角：歐盟AI法案及其配套標準的推出，將對全球AI市場，特別是進入歐洲市場的金融科技公司產生深遠影響。這要求企業重新審視其AI模型的開發與部署流程，確保符合嚴格的合規要求，避免潛在的巨額罰款與聲譽風險。",
+          "source_url": "https://www.ithome.com.tw/news/177674",
+          "tags": [
+            "歐盟AI法案",
+            "AI標準",
+            "AI治理",
+            "法律倫理"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "雲端安全聯盟發布報告，揭示非人類身分治理成企業資安新挑戰",
+          "core_summary": "隨著AI代理、微服務與雲端自動化應用普及，企業內「非人類身分」（NHI）數量激增。雲端安全聯盟（CSA）發布報告，提出NHI分類與治理方法，以應對傳統資安管理模式所面臨的挑戰。",
+          "expert_insight": "教育科技視角：教育機構在導入AI學習系統、自動化管理工具時，也會面臨NHI治理的挑戰。確保這些自動化系統的身分驗證與權限管理得當，對於保護學生資料隱私、維持系統安全與教學內容的完整性至關重要，需納入數位素養教育。",
+          "source_url": "https://www.ithome.com.tw/news/177637",
+          "tags": [
+            "AI治理",
+            "非人類身分",
+            "資安管理",
+            "雲端安全"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "台灣網路詐騙通報破百萬件：公私協力防詐奏效，熱心民眾成關鍵力量",
+          "core_summary": "數位發展部公布「網路詐騙通報查詢網」上線近兩年成果，通報件數突破百萬，成功下架逾50萬件詐騙訊息。其中，有8位熱心民眾通報量破萬件，展現公民力量，未來將深化廣告生態系的聯防機制。",
+          "expert_insight": "金融市場視角：網路詐騙對金融消費者造成巨大損失，也影響金融機構的信任度與營運成本。此公私協力防詐模式，尤其在廣告生態系聯防的深化，能有效降低詐騙事件發生率，間接保護金融資產，提升數位金融環境的安全性與用戶信心。",
+          "source_url": "https://www.ithome.com.tw/news/177634",
+          "tags": [
+            "網路詐騙",
+            "數位發展部",
+            "公私協力",
+            "金融資安"
+          ],
+          "priority": "high"
+        }
+      ],
+      "fallback_note": ""
+    }
+  ],
+  "anomalies": {
+    "skipped_sources": [],
+    "notes": ""
+  }
+}
