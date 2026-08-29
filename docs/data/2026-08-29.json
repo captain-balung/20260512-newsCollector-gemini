@@ -1,0 +1,256 @@
+{
+  "date": "2026-08-29",
+  "generated_at": "2026-08-29T09:10:23+08:00",
+  "model_version": "gemini-2.5-flash",
+  "dashboard": {
+    "QQQ": "-0.65%",
+    "GOOGL": "+1.74%",
+    "AAPL": "+1.63%",
+    "MSFT": "+1.68%",
+    "NVDA": "-4.57%",
+    "META": "+1.21%"
+  },
+  "sections": [
+    {
+      "category_id": "giants_market",
+      "category_display": "🏢 巨頭動向與市場脈動",
+      "items": [
+        {
+          "title": "傳聞Nvidia將以129億美元收購Hugging Face，震撼AI產業版圖",
+          "core_summary": "The Information報導指出，晶片巨頭Nvidia已同意以129億美元天價收購開源AI平台Hugging Face，儘管交易進度仍有不同說法。此舉若屬實，將顯著重塑AI軟硬體生態系統，並加劇市場競爭。",
+          "expert_insight": "（金融市場）這宗潛在的巨額併購案將對AI金融市場產生深遠影響，Nvidia若成功整合Hugging Face的廣大開發者社群與模型資源，其市場壟斷地位將更為鞏固，可能帶動相關AI概念股的重新評價與產業鏈的策略調整。",
+          "source_url": "https://www.ithome.com.tw/news/178502",
+          "tags": [
+            "併購",
+            "AI巨頭",
+            "開源AI",
+            "金融市場"
+          ],
+          "priority": "high"
+        },
+        {
+          "title": "NetApp收購JetStream，提升VMware雲端災難復原服務",
+          "core_summary": "資料儲存業者NetApp宣布併購VMware災難復原與遷移軟體商JetStream Software。此收購旨在強化NetApp在企業儲存與資料保護領域的能力，特別是針對VMware跨雲端與多雲環境的災難復原即服務（DRaaS）。",
+          "expert_insight": "（金融市場）此併購案顯示雲端數據保護與災難復原市場的策略整合趨勢，NetApp透過此舉擴展其在混合雲環境的服務範疇，預期將提升其在企業級解決方案市場的競爭力，對相關雲服務供應商帶來影響。",
+          "source_url": "https://www.ithome.com.tw/news/178505",
+          "tags": [
+            "雲端服務",
+            "併購",
+            "資料保護",
+            "VMware"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "dev_tools_agents",
+      "category_display": "🛠️ 開發者工具與 AI 代理",
+      "items": [
+        {
+          "title": "Anthropic發布MHS標準，賦予AI代理直接控制實體設備能力",
+          "core_summary": "Anthropic推出模型硬體標準（MHS）研究預覽版，使AI代理人能直接操作顯微鏡、機械手臂等實驗室與製造設備。此標準旨在將AI應用從軟體層面拓展至實體世界，涵蓋科學研究與先進製造。",
+          "expert_insight": "（教育科技）這項技術進展對教育科技實驗室與職業培訓具有革命性意義。未來學生將能透過AI代理進行虛擬或遠端實驗操作，加速科學探索與實踐，同時也能在工業領域降低實作門檻，提升學習效率與安全性。",
+          "source_url": "https://www.ithome.com.tw/news/178508",
+          "tags": [
+            "AI代理",
+            "機器人",
+            "科學研究",
+            "智慧製造"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Hugging Face發表親民價Microduck機器人，普及AI實體互動開發",
+          "core_summary": "Hugging Face旗下Pollen Robotics公司推出僅售399美元的雙足機器人Microduck。這款輕巧機器人旨在降低開發者接觸實體AI與機器人訓練的門檻，讓更多人能參與AI與機器人的創新應用。",
+          "expert_insight": "（教育科技）低成本且易於操作的實體機器人，對於STEM教育與機器人學研究是一大利器。它能讓學生和研究者在預算有限下進行AI與機器人實驗，促進教育普及與創新，尤其對於入門級學習者而言更具吸引力。",
+          "source_url": "https://www.ithome.com.tw/news/178517",
+          "tags": [
+            "機器人",
+            "開源AI",
+            "教育應用",
+            "AI開發"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Google發布Gemini 3.5 Transcribe，高階語音轉文字支援多說話者辨識",
+          "core_summary": "Google推出Gemini 3.5 Transcribe語音轉文字模型，具備自動移除贅詞、處理更正、整理標點與格式等高階功能。此模型還支援自動語言辨識、自訂詞彙及多名說話者區分，適用於即時字幕、會議紀錄等多元應用。",
+          "expert_insight": "（媒體設計）Gemini 3.5 Transcribe對媒體內容製作是重大突破，特別在後製、字幕生成與多媒體內容分析上。其精準的多說話者區分能力將大幅減少人工校對時間，提升影音內容的可及性與製作效率，對直播、廣播及會議記錄等場景極具價值。",
+          "source_url": "https://www.ithome.com.tw/news/178499",
+          "tags": [
+            "語音轉文字",
+            "AI模型",
+            "媒體工具",
+            "Gemini"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "generative_media",
+      "category_display": "🎵 生成式多媒體與創作",
+      "items": [
+        {
+          "title": "OpenMontage：開源AI代理驅動的影片製作系統問世",
+          "core_summary": "OpenMontage是全球首個開源的AI代理驅動影片製作系統，擁有12條製作流程、100多種工具及700多個代理技能與製作知識檔案。它能將AI編碼助手轉變為完整的影片製作工作室，大幅提升內容創作效率。",
+          "expert_insight": "（媒體設計）對於影片製作產業而言，OpenMontage提供了一個強大的開源解決方案，透過AI代理實現自動化與智能化的影片剪輯與後製。這將降低影片製作的專業門檻，促進獨立創作者與小型團隊的內容產出，顛覆傳統製片流程。",
+          "source_url": "https://github.com/calesthio/OpenMontage",
+          "tags": [
+            "影片製作",
+            "AI代理",
+            "開源軟體",
+            "媒體創作"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "WorldMonitor：AI驅動的即時全球情報儀表板",
+          "core_summary": "WorldMonitor是一個即時全球情報儀表板，透過AI技術聚合新聞、監控地緣政治及追蹤基礎設施。它在統一情境感知介面中提供AI驅動的新聞聚合功能，為使用者提供全面的資訊洞察。",
+          "expert_insight": "（媒體設計）這項工具對媒體從業人員與分析師而言具有巨大潛力。AI驅動的新聞聚合與情報分析能力，能幫助媒體機構快速掌握全球動態、發現潛在新聞熱點，並提升內容策展與報導的深度與效率。",
+          "source_url": "https://github.com/koala73/worldmonitor",
+          "tags": [
+            "AI新聞",
+            "情報分析",
+            "媒體聚合",
+            "地緣政治"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Screenshot-to-Code工具：截圖一鍵轉換為整潔程式碼",
+          "core_summary": "Screenshot-to-Code工具允許使用者透過上傳螢幕截圖，即可自動將其轉換為整潔的HTML/Tailwind/React/Vue程式碼。這項功能極大地簡化了前端開發流程，加速了從設計到實作的轉化。",
+          "expert_insight": "（媒體設計）對於前端設計師和網頁開發者而言，這是一項極具效率的生成式工具。它將設計與開發的界線模糊化，讓設計師能更快地將視覺概念轉化為可互動的介面，極大化原型開發速度，同時也輔助開發者快速建構基礎結構，節省大量重複性編碼工作。",
+          "source_url": "https://github.com/abi/screenshot-to-code",
+          "tags": [
+            "程式碼生成",
+            "前端開發",
+            "設計自動化",
+            "AI工具"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "edtech_applications",
+      "category_display": "📚 教育科技與應用創新",
+      "items": [
+        {
+          "title": "亞太永續展會：台灣六都AI、IoT賦能智慧永續城市發展",
+          "core_summary": "在亞太永續博覽會上，台灣六都展示了利用AI、IoT、5G及雲端平台等數位科技，提升城市治理效率與降低資源浪費的永續應用成果。展會突顯了智慧城市在環境治理、人本照護、交通運輸等領域的數位永續趨勢。",
+          "expert_insight": "（教育科技）台灣各城市在永續發展中融入AI與IoT技術，為教育領域提供了豐富的實例教學素材。這些實際案例可被整合進 STEM 課程，讓學生了解如何運用科技解決真實世界的環境與社會問題，培養未來公民的數位永續素養。",
+          "source_url": "https://www.ithome.com.tw/news/178518",
+          "tags": [
+            "智慧城市",
+            "永續發展",
+            "AI應用",
+            "台灣"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "OpenAI攜手泰國政府啟動加速器，培育健康教育AI新創",
+          "core_summary": "OpenAI與泰國高等教育、科學、研究暨創新部（MHESI）合作，啟動一項為期八週的加速器計畫。此計畫旨在協助10家泰國健康、福祉與教育領域的AI新創公司，將其AI原型轉化為可信任的產品。",
+          "expert_insight": "（教育科技）這項計畫體現了AI巨頭對新興市場教育科技發展的投入。透過扶植健康與教育領域的AI新創，不僅能推動當地產業創新，也將為泰國帶來更多數位化學習與健康管理解決方案，促進教育普及與公平性。",
+          "source_url": "https://openai.com/index/supporting-next-generation-ai-startups-thailand",
+          "tags": [
+            "新創育成",
+            "教育科技",
+            "國際合作",
+            "AI應用"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "infra_opensource",
+      "category_display": "🧠 底層架構與開源模型",
+      "items": [
+        {
+          "title": "GLM-5.3模型開源發布，強化底層AI研究與應用",
+          "core_summary": "GLM-5.3大型語言模型現已開源發布（open-weight），意味著研究人員和開發者能自由存取其模型權重。此舉將加速社群對GLM模型架構的理解、實驗與客製化應用，推動AI底層技術的發展。",
+          "expert_insight": "（教育科技）開源的大型語言模型對學術研究和教育訓練具有重大價值。學生和研究者可以深入探索AI模型的工作原理，進行創新實驗，這對於AI人才的培養和技術普及是關鍵一步，促進知識共享與協同創新。",
+          "source_url": "https://huggingface.co/zai-org/GLM-5.3",
+          "tags": [
+            "開源模型",
+            "大語言模型",
+            "AI研究",
+            "GLM"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "主權科技局投資50萬歐元予Flatpak，推動開源應用部署",
+          "core_summary": "主權科技局（Sovereign Tech Agency）宣布投資50萬歐元於Flatpak專案。Flatpak是一個用於Linux桌面環境的通用應用程式打包和分發框架，此投資將有助於強化其基礎設施與開發，促進開源軟體的普及。",
+          "expert_insight": "（媒體設計）對於依賴開源軟體進行內容創作和開發的媒體設計師而言，Flatpak的發展至關重要。更穩定的應用程式分發和更新機制，將確保設計工具的可靠性與兼容性，降低技術門檻，讓設計師能更專注於創作本身。",
+          "source_url": "https://modal.cx/blog/announcing-flatpak-sta/",
+          "tags": [
+            "開源軟體",
+            "應用部署",
+            "Linux",
+            "投資"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "law_ethics_society",
+      "category_display": "⚖️ 法律倫理與社會衝擊",
+      "items": [
+        {
+          "title": "中國駭客APT24再鎖定台灣，供應鏈攻擊危及新聞小說網站",
+          "core_summary": "資安週報指出，中國駭客組織APT24持續入侵台灣數位行銷業者，導致採用其廣告聯播的台灣新聞與小說網站遭遇供應鏈攻擊。此次攻擊旨在蒐集特定使用者瀏覽器指紋並投放惡意程式，資安院已示警相關風險。",
+          "expert_insight": "（金融市場）針對台灣關鍵網路基礎與媒體平台的供應鏈攻擊，凸顯了金融產業面臨的潛在網路安全風險。企業需加強第三方供應商管理與內部資安防禦，以避免資料外洩或服務中斷，進而影響市場穩定性與投資人信心。",
+          "source_url": "https://www.ithome.com.tw/news/178489",
+          "tags": [
+            "網路攻擊",
+            "台灣資安",
+            "供應鏈攻擊",
+            "國家駭客"
+          ],
+          "priority": "high"
+        },
+        {
+          "title": "OpenAI倡議AI網路集體防禦，獲百家科技巨頭響應",
+          "core_summary": "由於AI驅動的網路攻擊日益成熟與複雜，OpenAI發起一封公開信，呼籲全球企業集體加強網路防禦。此倡議已獲得Google、Anthropic、微軟、AWS等上百家科技巨頭的連署支持，共同應對AI時代的資安挑戰。",
+          "expert_insight": "（金融市場）這項跨產業的集體防禦倡議對金融市場具重要意義。隨著AI應用普及，潛在的資安威脅加劇，若能有效合作提升防禦能力，將降低金融機構面臨網路攻擊的風險，維護市場運作的穩定性與投資人資產安全。",
+          "source_url": "https://www.ithome.com.tw/news/178506",
+          "tags": [
+            "網路安全",
+            "AI倫理",
+            "產業合作",
+            "資安防禦"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "企業員工AI使用未受控管，近半數對話透過個人帳號進行，影子AI風險浮現",
+          "core_summary": "調查顯示，企業員工使用AI工具處理工作日益普遍，但近半數的AI對話是透過個人帳號進行，而非企業授權平台。這種「影子AI」現象導致資料外洩、合規性與安全性風險顯著升高，對企業治理構成挑戰。",
+          "expert_insight": "（金融市場）金融業對數據隱私與合規性要求極高，影子AI的盛行將對企業帶來嚴峻的監管與資安風險。若敏感客戶資料經由未受控的AI工具處理，恐觸發法規罰款與信任危機，建議企業需盡快建立完善的AI治理策略與員工使用規範。",
+          "source_url": "https://www.ithome.com.tw/news/178484",
+          "tags": [
+            "企業資安",
+            "AI治理",
+            "影子AI",
+            "資料外洩"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    }
+  ],
+  "anomalies": {
+    "skipped_sources": [],
+    "notes": ""
+  }
+}
