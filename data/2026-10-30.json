@@ -1,0 +1,280 @@
+{
+  "date": "2026-10-30",
+  "generated_at": "2026-10-30T09:08:24+08:00",
+  "model_version": "gemini-2.5-flash",
+  "dashboard": {
+    "QQQ": "+nan%",
+    "GOOGL": "+nan%",
+    "AAPL": "+nan%",
+    "MSFT": "+nan%",
+    "NVDA": "+nan%",
+    "META": "+nan%"
+  },
+  "sections": [
+    {
+      "category_id": "giants_market",
+      "category_display": "🏢 巨頭動向與市場脈動",
+      "items": [
+        {
+          "title": "微軟雲端Azure營收飆升48%，推動季度總營收強勁增長",
+          "core_summary": "微軟公布截至9月30日的最新財報，營收年增19%，淨利年增32%。其中，Azure雲端服務營收大幅增長48%，成為主要增長動能，而Windows裝置業務則下滑22%。",
+          "expert_insight": "金融市場：微軟Azure雲端業務的強勁增長，顯示企業對AI和雲端基礎設施的需求持續擴大，這將驅動科技股估值，並影響相關供應鏈的投資動向。",
+          "source_url": "https://www.ithome.com.tw/news/180062",
+          "tags": [
+            "微軟",
+            "雲端運算",
+            "財報"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Google Cloud營收翻倍突破300億美元，搜尋業務成長顯著放緩",
+          "core_summary": "Google母公司Alphabet最新財報顯示，總營收年增25%，營業利益成長30%。其中，Google Cloud營收年增103%，首次突破300億美元大關，但核心搜尋業務的成長速度明顯放緩。",
+          "expert_insight": "金融市場：Google Cloud營收強勁增長，凸顯企業對雲端服務及AI基礎設施的投資熱度不減。儘管搜尋業務成長放緩，但AI新業務將是Alphabet未來股價的關鍵驅動力。",
+          "source_url": "https://www.ithome.com.tw/news/180051",
+          "tags": [
+            "Google",
+            "雲端",
+            "財報",
+            "AI投資"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "蘋果發表首款觸控MacBook Pro，搭載PROLED XDR顯示器與動態島",
+          "core_summary": "蘋果發表了首款支援觸控操作的MacBook Pro，搭載全新的PROLED XDR雙層OLED顯示器，並將iPhone的動態島設計引入Mac。新產品售價自2,899美元起。",
+          "expert_insight": "媒體設計：蘋果首款觸控MacBook Pro及其高規格顯示器，將為設計師提供更直覺、高精度的創作體驗，促進互動式設計與AR/VR內容的發展。",
+          "source_url": "https://www.ithome.com.tw/news/180050",
+          "tags": [
+            "蘋果",
+            "MacBook Pro",
+            "觸控螢幕",
+            "媒體設計"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "dev_tools_agents",
+      "category_display": "🛠️ 開發者工具與 AI 代理",
+      "items": [
+        {
+          "title": "GitHub發布Copilot Fusion，實現AI跨模型協同提升開發效率",
+          "core_summary": "微軟GitHub推出Copilot Fusion協調系統，讓Copilot能依任務協調多個AI模型以完成工作。測試顯示其成本比單獨使用Claude Opus 5.5節省一半。",
+          "expert_insight": "媒體設計：Copilot Fusion的跨模型協同能力，將大幅提升設計流程中的程式碼生成效率與品質，讓設計師能更快將創意轉化為可執行的原型，加速產品開發。",
+          "source_url": "https://www.ithome.com.tw/news/180064",
+          "tags": [
+            "GitHub Copilot",
+            "AI協作",
+            "開發工具"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "GitHub開源AI原型工具Replica，自然語言生成介面加速設計流程",
+          "core_summary": "GitHub開源了AI原型工具Replica，允許設計師、產品經理和工程師透過GitHub Copilot應用程式，以自然語言快速製作可操作的介面原型。Replica能依據團隊既有設計規範生成畫面，並支援協作分享。",
+          "expert_insight": "媒體設計：Replica透過自然語言生成介面原型，並整合企業設計規範，能顯著提升設計師與開發者的協作效率，加速產品迭代，對媒體設計產業意義重大。",
+          "source_url": "https://www.ithome.com.tw/news/180076",
+          "tags": [
+            "AI設計",
+            "原型工具",
+            "開源",
+            "設計協作"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Google推出Connected Apps平臺，串接Gemini與搜尋擴大第三方應用",
+          "core_summary": "Google推出Connected Apps Platform預覽版，讓第三方開發者能透過其MCP（Model-Connected Platform）將自家服務功能一次串接至Gemini與Google搜尋。開發者可在此平臺註冊、測試及提交應用審查。",
+          "expert_insight": "媒體設計/教育科技：Connected Apps平臺讓第三方服務能深度整合Gemini與Google搜尋，為教育和媒體應用帶來巨大潛力，可創造更智能、個人化的內容與互動體驗。",
+          "source_url": "https://www.ithome.com.tw/news/180073",
+          "tags": [
+            "Google Gemini",
+            "AI平台",
+            "應用整合",
+            "開發者"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "generative_media",
+      "category_display": "🎵 生成式多媒體與創作",
+      "items": [
+        {
+          "title": "Nvidia釋出Nemotron 3.5語音模型，整合語音轉文字、翻譯與講者辨識",
+          "core_summary": "Nvidia推出開放權重語音模型Nemotron 3.5 Transcribe，整合了語音轉文字、翻譯、講者區分和錄音問答功能。此模型可轉錄40種語言，其中31種支援與英語互譯，13種可標記不同講者。",
+          "expert_insight": "媒體設計/教育科技：Nemotron 3.5的語音整合能力，將徹底改變多媒體內容創作與學習互動方式。媒體設計可利用其快速生成多語言影音內容，教育科技則能提供更個人化的語音輔助學習體驗。",
+          "source_url": "https://www.ithome.com.tw/news/180065",
+          "tags": [
+            "Nvidia",
+            "語音AI",
+            "生成式AI",
+            "多媒體"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Google Photos推出萬聖節AI魔法，輕鬆變換背景與尋找回憶",
+          "core_summary": "Google Photos為萬聖節推出多項AI功能，用戶可使用「Ask Photos」快速尋找過去的變裝照片，並運用AI工具輕鬆編輯，為照片增添萬聖節的驚悚背景。",
+          "expert_insight": "媒體設計：Google Photos的AI編輯功能，讓一般用戶也能輕鬆創造出專業級的節慶內容。這展現了AI在個人化媒體創作上的潛力，並為媒體設計工具的普及化提供借鏡。",
+          "source_url": "https://blog.google/products-and-platforms/products/photos/halloween-tricks-2026/",
+          "tags": [
+            "Google Photos",
+            "AI修圖",
+            "生成式內容",
+            "創意工具"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "edtech_applications",
+      "category_display": "📚 教育科技與應用創新",
+      "items": [
+        {
+          "title": "Gemini Notebook整合數百本教科書，為學生提供客製化學習輔助",
+          "core_summary": "Google的Gemini Notebook現已整合來自OpenStax和S Chand的數百本教科書。學生可以利用這些資源，生成客製化的學習指南和測驗，以提升學習效率。",
+          "expert_insight": "教育科技：Gemini Notebook整合大量教科書資源，並能生成客製化學習指南和測驗，將徹底改變學生的學習方式，提供個人化、高效的學習輔助。",
+          "source_url": "https://blog.google/innovation-and-ai/products/gemini-notebook/new-access-textbooks/",
+          "tags": [
+            "Gemini Notebook",
+            "AI教育",
+            "學習資源",
+            "個人化學習"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Google Gemini助力英國與義大利教室教學，提升師生學習體驗",
+          "core_summary": "Google發表多項案例研究，展示Gemini AI如何在英國和義大利的教室中協助學生和教師。這些案例涵蓋了Gemini在提升學習互動性、輔助教學準備等方面的應用成效。",
+          "expert_insight": "教育科技：Gemini在課堂上的應用案例，提供了AI如何輔助教學和學習的實證。這鼓勵教育者探索更多AI工具，並加速教育數位轉型的進程。",
+          "source_url": "https://blog.google/products-and-platforms/products/education/impact-studies-uk-italy/",
+          "tags": [
+            "Google Gemini",
+            "AI教學",
+            "數位轉型",
+            "課堂應用"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "高雄打造城市AI大腦，主動預警淹水、塞車與道路異常",
+          "core_summary": "高雄市政府攜手Nvidia、中華電信等業者啟動「高雄AI燈塔」計畫，旨在建立一套城市級AI治理架構。該系統將整合攝影機、感測器數據，透過AI主動發現並推理淹水、塞車及道路異常事件，提升城市治理效率。",
+          "expert_insight": "教育科技：高雄的城市AI大腦計畫，透過AI應用於智慧治理，可作為教育科技領域的典範案例，啟發學生思考AI如何解決社會問題，並培養跨領域的應用能力。",
+          "source_url": "https://www.ithome.com.tw/news/180075",
+          "tags": [
+            "高雄市政府",
+            "智慧城市",
+            "AI應用",
+            "城市治理"
+          ],
+          "priority": "high"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "infra_opensource",
+      "category_display": "🧠 底層架構與開源模型",
+      "items": [
+        {
+          "title": "Mistral AI發布Mistral Large 4開放權重，推動先進模型普及",
+          "core_summary": "Mistral AI宣布發布其大型語言模型Mistral Large 4的權重，使其成為開源模型。此舉將大幅降低研究人員與開發者使用頂尖AI模型的門檻，加速AI創新與應用。",
+          "expert_insight": "教育科技/金融市場：Mistral Large 4開放模型權重，大幅降低企業和學術界使用最先進大型語言模型的門檻。這將加速AI創新，對教育研究和金融服務的客製化AI應用帶來巨大機會。",
+          "source_url": "https://mistral.ai/news/mistral-large-4-oss/",
+          "tags": [
+            "Mistral AI",
+            "開源模型",
+            "大型語言模型",
+            "AI開發"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Google發表Gemini 4 Carbon，綜合能力與資安評測雙登榜首",
+          "core_summary": "Google推出新一代AI模型Gemini 4 Carbon，在第三方評測機構Artificial Analysis的綜合能力指數中排名第一，並在漏洞發現、利用驗證及修補等三項資安基準測試中取得最佳成績。",
+          "expert_insight": "教育科技/媒體設計：Gemini 4 Carbon在綜合能力與資安表現的突破，預示AI模型將更安全、可靠。這將加速其在教育內容生成、媒體設計工具中的應用，同時降低潛在風險。",
+          "source_url": "https://www.ithome.com.tw/news/180049",
+          "tags": [
+            "Google Gemini",
+            "AI模型",
+            "資安",
+            "基準測試"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "開源本地AI工作室Locally-Uncensored，桌面環境一站式生成與開發",
+          "core_summary": "Locally-Uncensored是一個開源的本地AI工作室應用，提供桌面端的聊天、圖像與視訊生成，以及程式碼代理功能。它無需Docker、終端機或雲端服務，支援Windows和Linux系統。",
+          "expert_insight": "教育科技/媒體設計：這款本地運行、無需雲端的AI工作室，大幅降低了AI開發和使用的門檻。這對教育機構推廣AI教育、以及媒體設計師進行個人化創作提供了極大的便利性與隱私保護。",
+          "source_url": "https://github.com/PurpleDoubleD/locally-uncensored",
+          "tags": [
+            "AI工作室",
+            "開源軟體",
+            "本地部署",
+            "AI應用"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "law_ethics_society",
+      "category_display": "⚖️ 法律倫理與社會衝擊",
+      "items": [
+        {
+          "title": "北韓駭客掃描臺灣PHP主機，PHP2Shell漏洞成國家級資安威脅",
+          "core_summary": "資安日報指出，北韓駭客組織正積極掃描全球216臺PHP主機，其中包括臺灣，目標是利用近期揭露的PHP2Shell漏洞。此漏洞可能導致伺服器遭遠端控制，對國家資安構成潛在威脅。",
+          "expert_insight": "金融市場/教育科技：北韓駭客鎖定臺灣PHP主機掃描漏洞，構成國家級資安威脅。臺灣金融機構與教育單位必須立即檢查並修補PHP系統，強化網路邊界防禦，以保護關鍵資料與服務。",
+          "source_url": "https://www.ithome.com.tw/news/180068",
+          "tags": [
+            "北韓駭客",
+            "資安威脅",
+            "PHP漏洞",
+            "臺灣"
+          ],
+          "priority": "high"
+        },
+        {
+          "title": "Sony日本ISP與保險業務系統遭駭，逾296萬筆會員與保戶個資外洩",
+          "core_summary": "電子巨擘Sony集團旗下Sony Network Communications的資料庫遭駭客入侵，導致So-net及plala服務的258萬筆會員資訊與5.4萬筆郵件密碼外洩，Sony保險公司網站亦有38.5萬筆保戶個資被竊取。",
+          "expert_insight": "金融市場：大型企業如Sony旗下保險業務的個資外洩，凸顯網路攻擊的普遍性與嚴重性。金融服務業需不斷投資資安防禦，並建立完善應變機制，以維持客戶信任及避免巨額罰款。",
+          "source_url": "https://www.ithome.com.tw/news/180057",
+          "tags": [
+            "Sony",
+            "個資外洩",
+            "資料庫入侵",
+            "資安事件"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "中國駭客Volt Typhoon打造隱密攻擊框架Silent Train，鎖定美國關鍵基礎設施",
+          "core_summary": "中國駭客組織Volt Typhoon在殭屍網路KV Botnet被圍剿後，建置了更為隱密、複雜且動態的攻擊框架Silent Train，持續綁架連網設備，用於隱蔽地攻擊美國關鍵基礎設施。",
+          "expert_insight": "金融市場：針對關鍵基礎設施的持續性攻擊，直接威脅國家經濟穩定。金融機構需強化與政府部門的資安情報共享，並審視供應鏈安全，防範潛在的連鎖反應。",
+          "source_url": "https://www.ithome.com.tw/news/180063",
+          "tags": [
+            "中國駭客",
+            "關鍵基礎設施",
+            "網路攻擊",
+            "國家安全"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    }
+  ],
+  "anomalies": {
+    "skipped_sources": [],
+    "notes": ""
+  }
+}
