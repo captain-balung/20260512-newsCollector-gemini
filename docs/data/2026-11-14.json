@@ -1,0 +1,277 @@
+{
+  "date": "2026-11-14",
+  "generated_at": "2026-11-14T09:05:52+08:00",
+  "model_version": "gemini-2.5-flash",
+  "dashboard": {
+    "QQQ": "+nan%",
+    "GOOGL": "+nan%",
+    "AAPL": "+nan%",
+    "MSFT": "+nan%",
+    "NVDA": "+nan%",
+    "META": "+nan%"
+  },
+  "sections": [
+    {
+      "category_id": "giants_market",
+      "category_display": "🏢 巨頭動向與市場脈動",
+      "items": [
+        {
+          "title": "Nvidia CEO黃仁勳閃電辭職，股價應聲重挫",
+          "core_summary": "輝達（Nvidia）董事會宣布執行長黃仁勳立即辭職，由財務長Colette Kress擔任臨時執行長。此消息導致Nvidia股價開盤重挫10%，市值跌破4兆美元，競爭對手AMD股價則大漲27%。",
+          "expert_insight": "金融市場視角，領導層的突然變動對公司股價產生劇烈影響，特別是像Nvidia這樣的AI晶片巨頭。市場對其未來策略和成長動能充滿不確定性，投資者需密切關注新任領導層的動向及對公司未來營運方向的闡述。",
+          "source_url": "https://www.ithome.com.tw/news/180472",
+          "tags": [
+            "晶片巨頭",
+            "高層異動",
+            "股價波動"
+          ],
+          "priority": "high"
+        },
+        {
+          "title": "Google聯手三星推出AI智慧眼鏡，劍指Meta市場霸主地位",
+          "core_summary": "Google攜手三星、南韓眼鏡品牌Gentle Monster及美國眼鏡品牌Warby Parker推出搭載Gemini的AI智慧眼鏡，預計12月10日率先在美國及南韓上市。此舉正式挑戰由Meta主導的智慧眼鏡市場。",
+          "expert_insight": "媒體設計視角，AI智慧眼鏡的推出將重新定義使用者與數位內容的互動方式，為媒體消費、創作帶來新介面與體驗。金融市場視角，巨頭在AI硬體領域的布局，預示著新一輪的硬體軍備競賽，值得關注其商業模式及市場接受度對股價的影響。",
+          "source_url": "https://www.ithome.com.tw/news/180473",
+          "tags": [
+            "AI硬體",
+            "智慧眼鏡",
+            "科技巨頭競爭"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "OpenAI推ChatGPT Wallet，將AI代理整合至金融交易",
+          "core_summary": "OpenAI推出ChatGPT Wallet，為ChatGPT Work、Codex和dots中的AI代理提供安全的支付解決方案。此錢包允許AI代理在使用者批准和現有卡片保護下，直接完成購買交易。",
+          "expert_insight": "金融市場視角，這標誌著AI代理直接介入金融交易領域，為自動化支付和電子商務帶來新的可能性，但同時也需關注潛在的資安風險和監管挑戰。教育科技視角，AI錢包的普及也可能改變線上學習平台和數位內容的支付模式。",
+          "source_url": "https://openai.com/index/introducing-chatgpt-wallet",
+          "tags": [
+            "AI支付",
+            "金融科技",
+            "OpenAI"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "dev_tools_agents",
+      "category_display": "🛠️ 開發者工具與 AI 代理",
+      "items": [
+        {
+          "title": "AWS強化AgentCore執行環境，支援大型AI代理開發",
+          "core_summary": "AWS擴充Amazon Bedrock AgentCore執行環境至Runtime V2，單一工作階段最多可使用8個虛擬CPU及32 GB記憶體。此升級允許AI代理在執行環境內編譯大型程式專案、操作瀏覽器及載入本地模型。",
+          "expert_insight": "開發者工具視角，這項升級顯著提升了AI代理的開發彈性和效能，使開發者能處理更複雜、資源密集型的AI應用。這有助於加速AI代理的落地與普及，推動更多創新應用場景。",
+          "source_url": "https://www.ithome.com.tw/news/180503",
+          "tags": [
+            "AWS",
+            "AI代理",
+            "開發者工具"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Rust 1.100發布：新增套件冷卻期，Never Type終穩定",
+          "core_summary": "程式語言Rust開發團隊發布Rust 1.100.0，套件管理工具Cargo新增依賴套件發布冷卻期，以降低軟體供應鏈攻擊風險。此外，歷經十年嘗試的Never Type正式穩定，並開放自訂記憶體配置器的核心介面。",
+          "expert_insight": "開發者工具視角，Cargo的冷卻期機制為軟體供應鏈安全提供了重要保障，對依賴開源套件的開發者意義重大。Never Type的穩定化則提升了Rust的類型系統表達能力，有利於編寫更安全和高效的程式碼。",
+          "source_url": "https://www.ithome.com.tw/news/180489",
+          "tags": [
+            "Rust",
+            "程式語言",
+            "軟體供應鏈安全"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "NVIDIA推出SkillSpector，強化AI代理技能資安防護",
+          "core_summary": "輝達（NVIDIA）推出SkillSpector，這是一款AI代理技能的安全掃描器。它用於在安裝前偵測Claude Code、Codex和MCP技能中的漏洞、惡意模式、安全風險、提示注入、資料外洩及供應鏈風險。",
+          "expert_insight": "開發者工具視角，隨著AI代理的普及，其安全性成為關鍵挑戰。SkillSpector的推出，為開發者和企業提供了一項重要工具，確保AI代理應用在部署前的安全與可靠性，有效降低潛在的資安風險。",
+          "source_url": "https://github.com/NVIDIA/SkillSpector",
+          "tags": [
+            "AI代理安全",
+            "NVIDIA",
+            "資安工具"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "generative_media",
+      "category_display": "🎵 生成式多媒體與創作",
+      "items": [
+        {
+          "title": "開源AI影像工作室：支援多模型、500+提示詞與ComfyUI",
+          "core_summary": "開源專案`dsh-image-gen`是一款AI影像工作室，可在對話中生成、編輯、比較圖像，內建超過500個提示詞、圖庫及多模型工作流，並支援整合ComfyUI，為DeepSeek Harness提供全面的影像創作功能。",
+          "expert_insight": "媒體設計視角，這款工具為創意專業人士和愛好者提供了一個強大的開源平台，大幅降低了AI影像創作的門檻與成本。其多模型支援與豐富功能將加速AI生成圖像的應用與普及，拓展設計可能性。",
+          "source_url": "https://github.com/shanliuling/dsh-image-gen",
+          "tags": [
+            "AI影像生成",
+            "開源工具",
+            "創意設計"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Locally-Uncensored：桌面版一站式AI創作中心",
+          "core_summary": "Locally-Uncensored是一款整合了聊天、圖像與影片生成以及程式碼編寫代理功能的開源桌面應用程式。它可在Windows和Linux上運行，無需Docker、終端機或雲端服務，提供使用者本地端的全面AI創作體驗。",
+          "expert_insight": "媒體設計視角，此工具將多種生成式AI功能匯集於本地端應用，為內容創作者提供了極大的便利性與隱私保障。特別適合希望在離線環境下進行圖像、影片與程式碼創作的專業人士，開啟更多獨立創作的機會。",
+          "source_url": "https://github.com/PurpleDoubleD/locally-uncensored",
+          "tags": [
+            "本地AI",
+            "多媒體生成",
+            "開源應用"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "FFmpeg-skill：AI代理專用本地影片編輯工具",
+          "core_summary": "FFmpeg-skill提供42種FFmpeg工具，具備機器可讀的合約和MCP伺服器，使Claude Code、Cursor和Codex等編碼代理能夠進行本地影片編輯。功能涵蓋剪輯、字幕、重構、音量調整及平台導出，無需雲端或API金鑰。",
+          "expert_insight": "媒體設計視角，這款工具將強大的影片處理能力直接賦予AI代理，實現影片內容的智慧化、自動化編輯。對於加速影片製作流程、客製化內容生成具有潛在的革命性影響，提升效率並降低雲端成本。",
+          "source_url": "https://github.com/kajisho5/ffmpeg-skill",
+          "tags": [
+            "影片編輯",
+            "AI代理",
+            "FFmpeg"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "edtech_applications",
+      "category_display": "📚 教育科技與應用創新",
+      "items": [
+        {
+          "title": "AlphaGenome 2：AI深入細胞層次追蹤疾病基因變異",
+          "core_summary": "DeepMind發布基因序列預測模型AlphaGenome 2，能針對不同細胞類型與狀態預測DNA變異對基因表現的影響。相較前代，新版可辨識只在特定細胞中發揮作用的變異，有助於研究人員追查疾病相關的基因調控機制。",
+          "expert_insight": "教育科技視角，這項AI模型在生物醫學研究領域的突破，將大幅加速基因層面的疾病機理探索。對於生物科學、醫學教育及藥物開發的教學與實踐都具有深遠的影響，促進更精準的知識理解。",
+          "source_url": "https://www.ithome.com.tw/news/180462",
+          "tags": [
+            "基因體學",
+            "生醫AI",
+            "疾病研究"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "AI解鎖哥德爾筆記本，揭示數百項定理",
+          "core_summary": "人工智慧成功解讀了數學家庫爾特·哥德爾（Kurt Gödel）的筆記本，據稱其中包含數百項已被證明的定理。這項突破性成果展示了AI在解鎖歷史科學文獻方面的巨大潛力。",
+          "expert_insight": "教育科技視角，AI在此領域的應用開啟了探索歷史知識寶庫的新途徑，對於學術研究、文獻分析及數學教育具有劃時代的意義。它有助於加速知識的傳承與創新，讓過去的智慧重新煥發光彩。",
+          "source_url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+          "tags": [
+            "AI研究",
+            "數學史",
+            "知識解鎖"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Google終止對無AI學校的搜尋服務引發教育界熱議",
+          "core_summary": "有報導指出Google正切斷對「無AI學校」的搜尋服務，引發業界廣泛討論與猜測。此舉若屬實，將對教育領域的資訊獲取與教學模式產生重大影響，可能加速數位鴻溝的擴大。",
+          "expert_insight": "教育科技視角，這項政策變動（若屬實）將迫使學校重新思考AI在教育中的角色，並可能擴大數位鴻溝。對於教學內容、研究方式及學生學習習慣都將帶來顛覆性挑戰，強調了AI普及的急迫性。",
+          "source_url": "https://text.npr.org/nx-s1-6029408",
+          "tags": [
+            "教育政策",
+            "Google搜尋",
+            "AI影響"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "infra_opensource",
+      "category_display": "🧠 底層架構與開源模型",
+      "items": [
+        {
+          "title": "llama.cpp v1.0.0發布，強化本地AI生態基礎",
+          "core_summary": "開源專案llama.cpp發布1.0.0版本，為本地AI生態系統奠定更堅實的基礎。此版本通常代表穩定性與功能的重要里程碑，將進一步推動個人電腦及邊緣設備上大型語言模型的運行與開發。",
+          "expert_insight": "開發者工具視角，llama.cpp的更新對開源社群及希望在本地端運行LLM的開發者至關重要。它降低了AI技術的門檻，加速了客製化AI應用的發展，促進更廣泛的AI創新。",
+          "source_url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+          "tags": [
+            "開源模型",
+            "本地AI",
+            "LLM"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Apache修補HTTP/2模組重大漏洞，64%雲端環境恐受波及",
+          "core_summary": "Apache軟體基金會發布Apache HTTP Server 2.4.71，修補了HTTP/2模組中存在的重大安全漏洞CVE-2026-119618。該弱點源自多執行緒處理HTTP/2請求時的競爭條件，估計全球64%的雲端環境可能因此曝險。",
+          "expert_insight": "金融市場與媒體設計視角，此重大漏洞若遭利用，恐導致大規模服務中斷或資料洩露，對依賴Apache伺服器運行的企業造成巨大財務損失與商譽損害。特別是數位媒體平台與金融服務業，必須迅速採取防護措施。",
+          "source_url": "https://www.ithome.com.tw/news/180490",
+          "tags": [
+            "資安漏洞",
+            "Apache",
+            "雲端安全"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "國網中心擬擴充AI模型微調服務，加速臺灣AI發展",
+          "core_summary": "國網中心計畫擴充其TAIWAN AI RAP（可重複使用人工智慧服務平台）的模型微調服務。此舉旨在提供更強大的AI運算資源和工具，以支援臺灣本土企業與學術機構發展與優化AI模型。",
+          "expert_insight": "教育科技視角，國網中心此舉將提供豐富的AI算力與資源，對於學術研究和人才培育至關重要，有助於提升臺灣在AI領域的自主研發能力。金融市場視角，完善的AI基礎設施也能支持金融業在風險評估、市場分析等應用。",
+          "source_url": "https://www.ithome.com.tw/news/180496",
+          "tags": [
+            "國網中心",
+            "AI算力",
+            "模型微調"
+          ],
+          "priority": "high"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "law_ethics_society",
+      "category_display": "⚖️ 法律倫理與社會衝擊",
+      "items": [
+        {
+          "title": "美國非營利組織控告五大科技巨頭，憂AI助長生物武器與網攻",
+          "core_summary": "美國四家非營利組織聯合提告OpenAI、Google、Meta、Anthropic及SpaceXSI等五家公司。他們指控這些先進AI系統可能失控，助長網路攻擊及生物武器擴散，並要求法院凍結相關模型的開發。",
+          "expert_insight": "金融市場視角，這項訴訟一旦成立，可能導致巨頭們的AI研發進程受阻，對其估值產生負面影響。法律倫理視角，這凸顯了AI技術發展中極具爭議的倫理與安全問題，將對全球AI監管框架的制定帶來深遠影響，促使各界更謹慎地評估AI風險。",
+          "source_url": "https://www.ithome.com.tw/news/180485",
+          "tags": [
+            "AI倫理",
+            "法律訴訟",
+            "科技監管"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "駭客集團聲稱入侵資安院竊取102 GB資料，資安院：去年已通報",
+          "core_summary": "資安情資業者揭露，駭客組織「UNC6783」聲稱已入侵臺灣國家資通安全研究院（NICS），並竊取及外洩102 GB的內部文件。資安院對此回應表示，已於去年7月進行資安通報，並持續監控觀察中。",
+          "expert_insight": "法律倫理視角，政府機構遭駭客攻擊不僅是技術問題，更涉及國家安全與公民隱私的重大危機，需嚴肅審視其應變機制及資訊揭露的時效性與透明度。金融市場視角，這類事件可能影響國際對臺灣資安環境的信任，進而衝擊經濟活動。",
+          "source_url": "https://www.ithome.com.tw/news/180499",
+          "tags": [
+            "國家資安",
+            "資料外洩",
+            "駭客攻擊"
+          ],
+          "priority": "high"
+        },
+        {
+          "title": "AI衝擊寫作信任：作家與讀者關係面臨考驗",
+          "core_summary": "隨著AI生成內容的普及，作家與讀者之間的信任關係正遭受侵蝕。文章探討了AI在文學創作中帶來的挑戰，尤其是在內容品質和原創性方面的擔憂，引發對真實性與作者權威性的重新思考。",
+          "expert_insight": "媒體設計視角，AI生成內容的崛起，對內容創作者的定義、版權歸屬及內容真實性提出嚴峻挑戰。教育科技視角，學校和學術機構需重新審視AI工具在寫作和研究中的應用，並加強學術誠信教育，培養辨別能力。",
+          "source_url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+          "tags": [
+            "AI寫作",
+            "內容信任",
+            "版權問題"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    }
+  ],
+  "anomalies": {
+    "skipped_sources": [],
+    "notes": ""
+  }
+}
