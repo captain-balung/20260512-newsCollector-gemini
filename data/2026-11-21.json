@@ -1,0 +1,253 @@
+{
+  "date": "2026-11-21",
+  "generated_at": "2026-11-21T09:09:53+08:00",
+  "model_version": "gemini-2.5-flash",
+  "dashboard": {
+    "QQQ": "+nan%",
+    "GOOGL": "+nan%",
+    "AAPL": "+nan%",
+    "MSFT": "+nan%",
+    "NVDA": "+nan%",
+    "META": "+nan%"
+  },
+  "sections": [
+    {
+      "category_id": "giants_market",
+      "category_display": "🏢 巨頭動向與市場脈動",
+      "items": [
+        {
+          "title": "AI新星Anthropic掛牌那斯達克，首日市值突破兆元",
+          "core_summary": "Claude開發商Anthropic週四在那斯達克掛牌上市，成為全球首家前沿AI公司，發行價每股83美元，首日收盤上漲17%，市值約達1.27兆美元。此次IPO發售9.8億股，規模約813億美元，創下IPO新紀錄。",
+          "expert_insight": "Anthropic的成功上市及其超高市值，無疑是AI產業發展的一個里程碑，顯示市場對「前沿AI公司」的巨大信心與期望。然而，其發售規模創紀錄也同時凸顯了估值泡沫化的潛在風險，投資人需審慎評估。",
+          "source_url": "https://www.ithome.com.tw/news/180671",
+          "tags": [
+            "Anthropic",
+            "AI上市",
+            "金融市場"
+          ],
+          "priority": "high"
+        },
+        {
+          "title": "Anthropic破紀錄IPO未能挽救AI股頹勢，全球股市承壓",
+          "core_summary": "儘管前沿AI公司Anthropic成功進行了創紀錄的IPO，但全球股市仍出現下滑，未能阻止更廣泛的AI科技股拋售潮。這顯示市場對AI領域的狂熱投資情緒正趨於冷靜，投資人開始重新評估估值。",
+          "expert_insight": "這則新聞提供了對Anthropic上市的關鍵反思，指出即使是明星級AI公司也難以獨立扭轉市場整體趨勢。金融市場的動態顯示，AI投資已進入更為理性的階段，企業在追求技術突破的同時，也需兼顧盈利模式與市場預期管理。",
+          "source_url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+          "tags": [
+            "股市",
+            "AI投資",
+            "市場修正"
+          ],
+          "priority": "high"
+        },
+        {
+          "title": "Google Gemini進軍Mac桌面，AI助理戰局白熱化",
+          "core_summary": "Google宣布其AI助理Gemini現已支援Mac電腦操作，可直接控制Mac上的應用程式、檔案及網站，協助使用者完成複雜的多步驟任務。此舉顯示Google正積極追趕OpenAI和Anthropic在電腦操作型AI代理領域的布局。",
+          "expert_insight": "隨著AI代理能直接操作桌面應用，使用者體驗將被重新定義，設計師需重新思考應用程式與AI介面的整合。這也為媒體內容的生成與編輯帶來更自動化與高效的可能性。",
+          "source_url": "https://www.ithome.com.tw/news/180677",
+          "tags": [
+            "Google Gemini",
+            "AI助理",
+            "Mac支援"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "dev_tools_agents",
+      "category_display": "🛠️ 開發者工具與 AI 代理",
+      "items": [
+        {
+          "title": "VS Code 1.147升級AI代理功能，智慧化瀏覽器與任務排程",
+          "core_summary": "微軟發布Visual Studio Code（VS Code）1.147穩定版，重點擴充AI代理功能。新版允許AI代理直接操作外部Chrome或Edge瀏覽器，並能排程工作請求在指定時間送出，同時新增依任務類型自動選擇AI模型的能力。",
+          "expert_insight": "這項更新強化了AI在開發流程中的深度整合，不僅提升開發效率，更預示著未來IDE將成為AI代理與多種應用互動的核心平台。對於軟體開發者而言，學習如何有效利用這些AI輔助功能將成為新趨勢。",
+          "source_url": "https://www.ithome.com.tw/news/180670",
+          "tags": [
+            "VS Code",
+            "AI代理",
+            "開發工具"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "OpenCode開源程式碼代理，打造高效開發體驗",
+          "core_summary": "anomalyco發布了OpenCode，這是一個開源的程式碼編寫AI代理，旨在協助開發者更高效地進行程式碼撰寫與開發工作。它提供了一種開放、協作的方式來利用AI改進軟體開發流程。",
+          "expert_insight": "開源AI編碼代理的興起，為全球開發者提供了低門檻接觸與客製化AI輔助開發的機會。這不僅能加速創新，也促進了AI技術在開發社群中的普及與迭代，值得開發者社群密切關注。",
+          "source_url": "https://github.com/anomalyco/opencode",
+          "tags": [
+            "開源",
+            "AI編碼代理",
+            "開發效率"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Mastra：TypeScript AI應用與代理開發新框架",
+          "core_summary": "Mastra是一個現代化的TypeScript框架，專為AI驅動的應用程式和AI代理開發而設計。它提供了一套完整的工具與結構，讓開發者能更高效、便捷地構建AI解決方案。",
+          "expert_insight": "專為AI應用設計的框架，代表著開發模式正從傳統軟體走向AI優先。對於媒體設計領域，這類工具能加速開發者將AI功能整合到創意工具或互動體驗中，降低技術門檻。",
+          "source_url": "https://github.com/mastra-ai/mastra",
+          "tags": [
+            "TypeScript",
+            "AI框架",
+            "代理開發"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "generative_media",
+      "category_display": "🎵 生成式多媒體與創作",
+      "items": [
+        {
+          "title": "AutoClip：開源AI影片剪輯神器，一鍵生成短影音",
+          "core_summary": "AutoClip是一個開源的AI影片剪輯桌面工具，能將播客、訪談、課程等長影片自動剪輯成適合抖音、小紅書、TikTok、Reels與YouTube Shorts的短影音，並自動生成字幕、封面及發布文案。",
+          "expert_insight": "這款工具的出現預示著生成式AI在影片內容創作領域的巨大潛力，大幅降低了短影音製作的專業門檻與時間成本。對於媒體從業人員和內容創作者而言，它將成為提升生產力的關鍵利器，並可能改變內容分發的生態。",
+          "source_url": "https://github.com/zhouxiaoka/autoclip",
+          "tags": [
+            "AI剪輯",
+            "短影音",
+            "生成式媒體"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "edtech_applications",
+      "category_display": "📚 教育科技與應用創新",
+      "items": [
+        {
+          "title": "EdgeEver：AI原生筆記應用，重新定義知識管理",
+          "core_summary": "EdgeEver是一款AI原生的筆記應用程式，旨在提供比Evernote或Obsidian更強大的替代方案。它具備即時跨平台同步、豐富的筆記功能（如表格、心智圖、圖表）、網頁擷取與多重協同作業平台(MCP)，且支援100%免費部署於Cloudflare或Docker。",
+          "expert_insight": "結合AI的筆記應用將深刻改變學習與研究方式，提高知識擷取、組織與創造的效率。這對學生和研究人員是極大利好，能讓他們更專注於內容本身，而非繁瑣的整理工作，有效提升學習成效。",
+          "source_url": "https://github.com/tianma-if/edgeever",
+          "tags": [
+            "AI筆記",
+            "知識管理",
+            "教育工具"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Google推出PaperOrchestra：多代理AI框架自動撰寫學術論文",
+          "core_summary": "Google Research開源了PaperOrchestra，這是一個多代理AI框架，專為自動化AI研究論文撰寫而設計。該框架能協調多個AI代理，共同完成學術論文的生成，從概念到初稿，提升研究效率。",
+          "expert_insight": "儘管可能引起學術倫理討論，但PaperOrchestra展現了AI在輔助學術研究與寫作方面的巨大潛力。對於高等教育和研究機構而言，這將是提升研究產出效率的工具，但同時也需建立嚴格的AI使用規範，確保學術原創性與誠信。",
+          "source_url": "https://github.com/google-research/paper-orchestra",
+          "tags": [
+            "AI論文",
+            "學術研究",
+            "教育科技"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Watch Duty運用Google Gemini加速野火警報發布，提升救災效率",
+          "core_summary": "非營利組織Watch Duty正運用Google Gemini模型，大幅加速野火警報的發布速度。透過AI快速處理與分析大量資訊，Watch Duty能更快地向受影響社區發出精準的火災預警，從而提升公共安全與應變能力。",
+          "expert_insight": "將AI應用於災害預警與公共安全，展現了科技向善的力量，同時也為AI教育提供了極佳的實例。透過真實世界的案例，能讓學生了解AI如何解決重大社會問題，激發其學習AI的興趣與應用創新思維。",
+          "source_url": "https://blog.google/company-news/outreach-and-initiatives/google-org/watch-duty-gemini-tool/",
+          "tags": [
+            "AI應用",
+            "公共安全",
+            "Gemini"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "infra_opensource",
+      "category_display": "🧠 底層架構與開源模型",
+      "items": [
+        {
+          "title": "台灣6G實驗網啟動，鏈結國際共築未來通訊生態",
+          "core_summary": "在經濟部與國科會支持下，台灣首座「6G-FORMOSA實驗網」正式啟用，整合國內產學研18家單位，並串聯歐盟、英國及國際衛星營運商。目標是搶攻預計2029年制定的6G標準與2035年875億美元的市場商機，打造國際級驗證平台。",
+          "expert_insight": "台灣6G實驗網的啟用，不僅是技術里程碑，更是國家級策略佈局，旨在提前搶佔未來通訊技術的龐大市場份額。此舉將吸引國際投資與合作，提升台灣在全球科技供應鏈中的關鍵地位，對相關產業鏈的股價與國家經濟有長期正面影響。",
+          "source_url": "https://www.ithome.com.tw/news/180685",
+          "tags": [
+            "6G網路",
+            "台灣科技",
+            "國際合作"
+          ],
+          "priority": "high"
+        },
+        {
+          "title": "AI自主設計驗證CPU架構「Frostbite」，硬體創新迎來新時代",
+          "core_summary": "一個名為「Frostbite」的全新CPU架構被AI發現、設計並驗證成功，這標誌著AI已能深入參與到複雜的硬體底層設計中。這項突破性進展預示著未來CPU設計流程的巨大變革，將大幅加速硬體創新的速度與效率。",
+          "expert_insight": "AI設計CPU的案例，展示了AI在工程教育和研究領域的顛覆性潛力。它不僅能作為強大的設計輔助工具，甚至可能成為獨立的設計者，推動學術界重新思考計算機架構的教學與研究範式。",
+          "source_url": "https://architectlabs.com/blog/frostbite",
+          "tags": [
+            "AI設計",
+            "CPU架構",
+            "硬體創新"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "PyTorch Titan平台登場，加速生成式AI模型訓練",
+          "core_summary": "PyTorch推出原生平台TorchTitan，專為訓練生成式AI模型而設計。這個平台旨在提供一套優化的工具和架構，讓開發者能更高效、大規模地進行生成式AI模型的開發與訓練，縮短從研究到部署的週期。",
+          "expert_insight": "TorchTitan的問世，鞏固了PyTorch在生成式AI訓練領域的領導地位，為開發者提供了更強大的底層支持。這將鼓勵更多創新應用誕生，對於媒體設計領域尤其重要，因其能加速生成式藝術、音樂與影片模型的發展。",
+          "source_url": "https://github.com/pytorch/torchtitan",
+          "tags": [
+            "PyTorch",
+            "生成式AI",
+            "模型訓練"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "law_ethics_society",
+      "category_display": "⚖️ 法律倫理與社會衝擊",
+      "items": [
+        {
+          "title": "刑事局揭詐團新招：Android手機化身轉接站，警示全民防詐",
+          "core_summary": "刑事警察局揭露詐騙集團新手法：利用Android手機搭配智能撥號APP與藍牙設備，將境外詐騙電話轉接為國內門號撥出，規避警示。同時，不肖卡商勾結物流運送人頭SIM卡及設備，警方已查獲多處轉接據點。",
+          "expert_insight": "此類詐騙手法對金融市場及個人資產構成直接威脅，可能導致民眾財產損失，影響社會信任與金融穩定。對銀行、支付業者來說，需強化異常交易監測與防詐宣導，以保障客戶權益。",
+          "source_url": "https://www.ithome.com.tw/news/180687",
+          "tags": [
+            "詐騙",
+            "資安",
+            "刑事局"
+          ],
+          "priority": "high"
+        },
+        {
+          "title": "歐盟執委會證實遭AI工具網攻，部分系統癱瘓一個月",
+          "core_summary": "歐盟執委會證實其於10月22日偵測到一場涉及AI工具的網路攻擊，導致部分內部系統至今仍無法使用。據報導，駭客利用了開源AI滲透測試框架ARTEX，目前員工個資是否外洩仍在釐清中。",
+          "expert_insight": "國家級機構遭AI工具網攻，顯示資安威脅已進化到新層次。這不僅對政府機關，也對金融機構的資安防禦提出嚴峻挑戰。金融業必須重新評估並升級其AI驅動的資安防禦策略，防範類似攻擊導致的數據洩露與服務中斷風險。",
+          "source_url": "https://www.ithome.com.tw/news/180672",
+          "tags": [
+            "AI網攻",
+            "資安危機",
+            "歐盟執委會"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Google員工連署籲公司：勿懲罰拒絕AI入校園的學校",
+          "core_summary": "Google員工發起連署，要求公司不應懲罰那些選擇不採用AI產品的學校。這項行動突顯了科技巨頭在教育領域推廣AI產品時，可能面臨的倫理與隱私考量，以及教育機構自主選擇的權利。",
+          "expert_insight": "這項員工連署揭示了AI在教育應用中的深層倫理問題，包括數據隱私、演算法偏見及學生自主學習的影響。教育科技公司在推廣AI產品時，必須更積極地與教育工作者和家長溝通，並將「負責任的AI」原則融入產品設計與政策中，避免加劇數位鴻溝或侵犯教育自主權。",
+          "source_url": "https://www.motherjones.com/politics/2026/11/google-alphabet-union-school-ai-protest-gemini-workers-petition/",
+          "tags": [
+            "AI倫理",
+            "教育應用",
+            "員工倡議"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    }
+  ],
+  "anomalies": {
+    "skipped_sources": [],
+    "notes": ""
+  }
+}
