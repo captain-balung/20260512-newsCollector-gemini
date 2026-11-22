@@ -1,0 +1,255 @@
+{
+  "date": "2026-11-22",
+  "generated_at": "2026-11-22T09:05:54+08:00",
+  "model_version": "gemini-2.5-flash",
+  "dashboard": {
+    "QQQ": "-5.67%",
+    "GOOGL": "-2.70%",
+    "AAPL": "-1.90%",
+    "MSFT": "-2.77%",
+    "NVDA": "-14.01%",
+    "META": "-5.93%"
+  },
+  "sections": [
+    {
+      "category_id": "giants_market",
+      "category_display": "🏢 巨頭動向與市場脈動",
+      "items": [
+        {
+          "title": "網擎策略投資微智安聯 臺灣資安業者強攻海外市場",
+          "core_summary": "網擎資訊宣布策略投資新創微智安聯，旨在結合AI技術強化資安產品研發，並攜手開拓日本、奈及利亞等國際市場，深化臺灣資安產業全球布局。",
+          "expert_insight": "金融市場：此策略性投資展現臺灣資安業者尋求國際擴張的野心，透過併購或投資可有效整合資源、加速產品AI化，對資本市場的併購趨勢與企業估值產生影響。",
+          "source_url": "https://www.ithome.com.tw/news/180692",
+          "tags": [
+            "策略投資",
+            "資安產業",
+            "海外市場"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "開源版Salesforce問世：Twenty瞄準AI時代CRM市場",
+          "core_summary": "Twenty是一個開源的Salesforce替代方案，其設計理念原生融入了AI功能，旨在為企業提供更彈性、客製化的客戶關係管理解決方案，特別適合AI時代的需求。",
+          "expert_insight": "金融市場：開放原始碼的AI原生CRM對傳統巨頭如Salesforce構成挑戰，可能引發市場競爭格局變化，尤其在成本敏感型或追求客製化AI解決方案的企業中，將改變其投資決策。",
+          "source_url": "https://github.com/twentyhq/twenty",
+          "tags": [
+            "CRM",
+            "開源軟體",
+            "AI應用",
+            "市場競爭"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "dev_tools_agents",
+      "category_display": "🛠️ 開發者工具與 AI 代理",
+      "items": [
+        {
+          "title": "Go語言擴展PostgreSQL：提升資料庫開發彈性與效能",
+          "core_summary": "gopgext提供一套以Go語言開發的PostgreSQL擴展，讓開發者能更靈活地利用Go的優勢，直接在資料庫層級實現自定義功能，優化資料處理效率。",
+          "expert_insight": "教育科技：這類工具提升了資料庫系統的靈活性與效能，對於學習進階資料庫開發的學生而言，提供了結合現代程式語言與主流資料庫的實用案例。",
+          "source_url": "https://jespino.github.io/gopgext/",
+          "tags": [
+            "PostgreSQL",
+            "Go語言",
+            "資料庫",
+            "開發工具"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Zero C#：無運行時與垃圾回收的C#創新實現",
+          "core_summary": "Zero C#是一個將C#帶入無運行時環境的專案，移除垃圾回收機制，目標是讓C#應用程式在特定場景下能達到極致的性能與資源控制，減少額外開銷。",
+          "expert_insight": "媒體設計：對於需要極致效能的媒體應用（如遊戲引擎、即時音訊/視訊處理），這種C#的優化版本能有效降低延遲、提升效率，開闢了在效能敏感領域使用C#的可能性。",
+          "source_url": "https://onurgumus.github.io/zero-csharp/index.html",
+          "tags": [
+            "C#",
+            "效能優化",
+            "無GC",
+            "開發者工具"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "極簡AI代理SWE-agent：百行代碼搞定GitHub議題",
+          "core_summary": "mini-swe-agent是一個僅百行代碼的輕量級AI代理，卻能有效解決GitHub上的程式碼議題，並在SWE-bench測試中取得高分，展示了高效率AI代理的潛力。",
+          "expert_insight": "教育科技：這項技術降低了AI代理開發的複雜度與門檻，對於學生和初學者學習如何構建高效能的自動化開發工具具有極高的參考價值，加速AI在軟體工程教育中的普及。",
+          "source_url": "https://github.com/SWE-agent/mini-swe-agent",
+          "tags": [
+            "AI代理",
+            "軟體工程",
+            "開源工具",
+            "自動化"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "generative_media",
+      "category_display": "🎵 生成式多媒體與創作",
+      "items": [
+        {
+          "title": "AutoClip開源AI剪輯工具：長影片一鍵轉短影音",
+          "core_summary": "AutoClip是一款開源AI桌面工具，能將長篇播客、訪談、課程等內容自動剪輯成適合短影音平台的片段，並生成字幕、封面與文案，大幅提升內容創作者效率。",
+          "expert_insight": "媒體設計：此工具透過AI大幅簡化短影音製作流程，對於個人創作者及小型媒體團隊是顛覆性的生產力提升，能有效降低進入門檻、加速內容傳播。",
+          "source_url": "https://github.com/zhouxiaoka/autoclip",
+          "tags": [
+            "AI剪輯",
+            "短影音",
+            "內容創作",
+            "開源"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Google研究推出PaperOrchestra：AI多代理自動撰寫論文",
+          "core_summary": "PaperOrchestra是Google Research開發的多代理框架，旨在實現AI研究論文的自動化撰寫。透過協調不同AI代理，完成從研究到寫作的複雜流程。",
+          "expert_insight": "教育科技：此框架揭示了AI在學術研究與寫作領域的巨大潛力，雖然提高效率，但也引發關於學術誠信和原創性的討論，需在教育中引導正確使用。",
+          "source_url": "https://github.com/google-research/paper-orchestra",
+          "tags": [
+            "AI寫作",
+            "學術研究",
+            "多代理系統",
+            "生成式AI"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "edtech_applications",
+      "category_display": "📚 教育科技與應用創新",
+      "items": [
+        {
+          "title": "尼泊爾推開源電子病歷：19家公立醫院數位化成功經驗",
+          "core_summary": "尼泊爾積極導入基於OpenMRS的開源電子病歷系統，目前已有19家公立醫院成功轉型，實現跨科部病歷查閱與醫院營運數據掌握，推動全國醫療數位化。",
+          "expert_insight": "教育科技：此案例為全球醫療數位化提供寶貴經驗，尤其對開發中國家在有限資源下推動數位轉型具參考價值，未來可作為醫護人員新系統操作培訓的範例。",
+          "source_url": "https://www.ithome.com.tw/news/180691",
+          "tags": [
+            "電子病歷",
+            "開源應用",
+            "醫療數位化",
+            "尼泊爾"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "EdgeEver：AI原生筆記應用，挑戰Evernote與Obsidian",
+          "core_summary": "EdgeEver是一款AI原生的筆記應用，提供跨平台同步、豐富的筆記功能（如表格、心智圖），並支援網路剪藏，旨在成為Evernote和Obsidian的開源免費替代品。",
+          "expert_insight": "教育科技：AI原生筆記工具能顯著提升學生的學習效率與知識管理能力，透過AI輔助整理、建立內容，有助於更深入理解複雜概念，改變傳統學習方式。",
+          "source_url": "https://github.com/tianma-if/edgeever",
+          "tags": [
+            "AI筆記",
+            "知識管理",
+            "開源軟體",
+            "學習工具"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "AFFiNE：次世代開源知識庫，整合規劃、分類與創作",
+          "core_summary": "AFFiNE是一款開源、隱私優先的次世代知識庫，旨在整合規劃、分類與創作功能，提供超越Notion和Miro的使用體驗，可高度客製化。",
+          "expert_insight": "媒體設計：對於創意工作者和團隊，AFFiNE提供了一個靈活且隱私友善的協作平台，其整合性功能有助於從概念發想、規劃到實際創作的全流程管理，提升團隊效率。",
+          "source_url": "https://github.com/toeverything/AFFiNE",
+          "tags": [
+            "知識庫",
+            "開源工具",
+            "協作平台",
+            "內容創作"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "infra_opensource",
+      "category_display": "🧠 底層架構與開源模型",
+      "items": [
+        {
+          "title": "Inkling-2-Mini：5.4GB記憶體高效運行的輕量級LLM",
+          "core_summary": "Inkling-2-Mini是一個經過量化優化的語言模型，能以極低的5.4GB記憶體高效運行，使其更適用於資源受限的設備或邊緣計算場景。",
+          "expert_insight": "媒體設計：輕量級LLM的普及將讓裝置端AI應用更可行，例如在手機或攝影設備上實現即時生成式媒體處理，為媒體創作者提供更多創新可能。",
+          "source_url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+          "tags": [
+            "LLM",
+            "模型優化",
+            "低記憶體",
+            "邊緣計算"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "vLLM與華為昇騰整合：加速LLM推理效能",
+          "core_summary": "vllm-ascend是一個社群維護的硬體插件，旨在將vLLM框架與華為昇騰處理器結合，優化大型語言模型在特定硬體上的推理性能，提供更高效的運算。",
+          "expert_insight": "金融市場：LLM推理效能的提升，對於金融機構的即時市場分析、風險評估等AI應用至關重要，能有效降低運營成本、加速決策過程。",
+          "source_url": "https://github.com/vllm-project/vllm-ascend",
+          "tags": [
+            "LLM推理",
+            "硬體加速",
+            "華為昇騰",
+            "開源"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "PyTorch Titan：原生平台訓練生成式AI模型",
+          "core_summary": "Torchtitan是一個基於PyTorch的原生平台，專為訓練生成式AI模型而設計。它提供了一套完整的工具和最佳化方案，旨在簡化和加速大型生成模型的開發。",
+          "expert_insight": "教育科技：PyTorch Titan的推出，為研究人員和學生提供了更便捷、高效的生成式AI模型訓練環境，有助於加速學術研究進程並降低學習門檻。",
+          "source_url": "https://github.com/pytorch/torchtitan",
+          "tags": [
+            "PyTorch",
+            "生成式AI",
+            "模型訓練",
+            "開源框架"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "law_ethics_society",
+      "category_display": "⚖️ 法律倫理與社會衝擊",
+      "items": [
+        {
+          "title": "Bend 2：用數學證明防止AI錯誤的新型程式語言",
+          "core_summary": "Bend 2是一種新型程式語言，其核心設計融入了形式化證明機制，旨在預防AI模型可能產生的錯誤，為AI系統提供更高的可靠性和安全性。",
+          "expert_insight": "法律倫理與社會衝擊：在AI系統的安全性與可靠性日益受到關注的背景下，Bend 2這類具備錯誤阻擋機制的語言，能有效降低AI應用帶來的潛在風險，對AI倫理規範和責任歸屬有重要影響。",
+          "source_url": "https://github.com/bendlang/bend",
+          "tags": [
+            "AI安全",
+            "形式化驗證",
+            "程式語言",
+            "AI倫理"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Heretic：無訓練修改語言模型行為，抑制偏見與審查",
+          "core_summary": "Heretic提供了一種無需重新訓練即可修改語言模型行為的方法，能夠移除內容審查、抑制不當言論和減少迎合性回應，提升模型輸出的中立性與客觀性。",
+          "expert_insight": "法律倫理與社會衝擊：此技術直接挑戰了現有大型語言模型的偏見與審查問題，為AI倫理和內容治理提供了新的工具，但也可能引發關於「正確」行為定義和模型操控的爭議。",
+          "source_url": "https://github.com/p-e-w/heretic",
+          "tags": [
+            "LLM偏見",
+            "內容審查",
+            "AI倫理",
+            "模型修改"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    }
+  ],
+  "anomalies": {
+    "skipped_sources": [],
+    "notes": ""
+  }
+}
