@@ -1,0 +1,253 @@
+{
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T09:13:38+08:00",
+  "model_version": "gemini-2.5-flash",
+  "dashboard": {
+    "QQQ": "-5.67%",
+    "GOOGL": "-2.70%",
+    "AAPL": "-1.90%",
+    "MSFT": "-2.77%",
+    "NVDA": "-14.01%",
+    "META": "-5.93%"
+  },
+  "sections": [
+    {
+      "category_id": "giants_market",
+      "category_display": "🏢 巨頭動向與市場脈動",
+      "items": [
+        {
+          "title": "網擎策略投資微智安聯，擴大產品與海外市場版圖",
+          "core_summary": "台灣網擎資訊（Openfind）宣布策略投資新創公司微智安聯（Shield eXtreme），旨在運用AI強化技術研發，並共同拓展海外資安市場，特別揭露在日本與奈及利亞市場的營運現況。",
+          "expert_insight": "金融市場視角: 這項策略投資顯示台灣資安業者積極透過併購與合作，整合AI技術以擴大產品線並進軍國際市場，對於台灣科技產業的全球競爭力具有正面意義。",
+          "source_url": "https://www.ithome.com.tw/news/180692",
+          "tags": [
+            "企業併購",
+            "資安產業",
+            "海外市場"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Twenty：開源CRM挑戰Salesforce，主打AI原生設計",
+          "core_summary": "Twenty是一個開源的客戶關係管理(CRM)系統，被定位為Salesforce的替代方案，其核心設計理念是為AI應用而生，旨在提供團隊與AI代理協同工作的平台。",
+          "expert_insight": "金融市場視角: AI原生設計的開源CRM解決方案可能對現有市場領導者如Salesforce構成威脅，其成本效益和客製化彈性將吸引中小企業及新創，改變市場格局。",
+          "source_url": "https://github.com/twentyhq/twenty",
+          "tags": [
+            "開源軟體",
+            "CRM",
+            "AI應用"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Appwrite：開源雲端平台，為AI代理與開發者而生",
+          "core_summary": "Appwrite是一個開源的後端雲端平台，專為AI代理和開發者設計，提供包含認證、資料庫、儲存、函式、即時通訊等多項服務，旨在簡化應用程式開發。",
+          "expert_insight": "媒體設計視角: 對於媒體或遊戲開發團隊而言，Appwrite提供完整的後端解決方案，加速AI功能整合與產品迭代，降低技術門檻，使其能更專注於內容創作與用戶體驗設計。",
+          "source_url": "https://github.com/appwrite/appwrite",
+          "tags": [
+            "開源雲",
+            "AI代理",
+            "後端服務"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "dev_tools_agents",
+      "category_display": "🛠️ 開發者工具與 AI 代理",
+      "items": [
+        {
+          "title": "微軟警示GitHub Copilot CLI釣魚風險，AI代理恐遭操控",
+          "core_summary": "微軟揭露駭客可能利用合法的OAuth裝置驗證碼登入機制，誘騙開發者核准登入GitHub Copilot CLI，進而取得存取權杖，不僅可能導致資料外洩，甚至能遠端操控AI代理執行命令。",
+          "expert_insight": "教育科技視角: 在推廣AI輔助編程工具時，資安教育應同步強化，特別是針對OAuth流程與AI代理權限管理，提升開發者的警覺性，防範新型態的釣魚攻擊。",
+          "source_url": "https://www.ithome.com.tw/news/180676",
+          "tags": [
+            "AI資安",
+            "開發者工具",
+            "釣魚攻擊"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Pi：整合式AI代理工具包，統一LLM API與程式碼助手",
+          "core_summary": "Earendil-works發布Pi，一款開源的AI代理工具包，它提供統一的LLM API介面、代理迴圈、終端使用者介面(TUI)和編碼代理CLI，旨在簡化AI應用的開發流程。",
+          "expert_insight": "媒體設計視角: 對於需要快速整合AI功能的媒體產品開發者，Pi提供了一站式解決方案，尤其統一的LLM API可大幅縮短開發週期，加速將AI互動或內容生成能力導入產品。",
+          "source_url": "https://github.com/earendil-works/pi",
+          "tags": [
+            "AI工具包",
+            "LLM API",
+            "開發者工具"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Mini-SWE-Agent：精簡AI代理，百行程式碼解決GitHub問題",
+          "core_summary": "Mini-SWE-Agent是一個僅需百行程式碼的AI代理，專為解決GitHub Issue或在命令列中提供協助而設計，其簡潔的架構使其在SWE-bench測試中取得高分，強調無繁瑣配置的實用性。",
+          "expert_insight": "教育科技視角: 這種極簡且高效的AI代理模型，可作為編程教學的絕佳案例，示範如何以最少資源實現強大功能，鼓勵學生從實作中理解AI代理的運作原理。",
+          "source_url": "https://github.com/SWE-agent/mini-swe-agent",
+          "tags": [
+            "AI代理",
+            "開源",
+            "軟體開發"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "generative_media",
+      "category_display": "🎵 生成式多媒體與創作",
+      "items": [
+        {
+          "title": "AutoClip：開源AI影片剪輯工具，一鍵長片轉短片",
+          "core_summary": "AutoClip是一個開源的AI影片剪輯桌面工具，能將播客、訪談、課程等長影片自動剪輯成短影片，並生成字幕、封面和發布文案，支援多個短影音平台格式。",
+          "expert_insight": "媒體設計視角: 對於內容創作者和媒體公司而言，AutoClip大幅提升影片內容再利用的效率，透過AI自動化剪輯與內容生成，降低製作成本，加速跨平台內容分發。",
+          "source_url": "https://github.com/zhouxiaoka/autoclip",
+          "tags": [
+            "AI影片剪輯",
+            "內容創作",
+            "媒體自動化"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "edtech_applications",
+      "category_display": "📚 教育科技與應用創新",
+      "items": [
+        {
+          "title": "Edgeever：AI原生筆記應用，打造知識管理新體驗",
+          "core_summary": "Edgeever是一款AI原生的筆記應用程式，旨在成為Evernote和Obsidian的替代方案，提供全平台即時同步、豐富的筆記功能（表格、心智圖、圖表等），並具備網頁剪輯器。",
+          "expert_insight": "教育科技視角: 這類AI驅動的知識管理工具，能有效提升學生的學習效率與組織能力，透過智能整理、連結知識點，協助教師設計更互動的學習材料，豐富教學體驗。",
+          "source_url": "https://github.com/tianma-if/edgeever",
+          "tags": [
+            "AI筆記",
+            "知識管理",
+            "教育應用"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "AFFiNE：開源知識庫，整合規劃、分類與創作",
+          "core_summary": "AFFiNE是一個次世代開源知識庫，結合了規劃、分類和創作功能，旨在成為Notion和Miro的開放替代方案，強調隱私保護、高度可客製化且隨時可用。",
+          "expert_insight": "教育科技視角: AFFiNE能為教育機構和學生提供一個綜合性的協作學習平台，其將不同功能整合於一體，有助於專案式學習與知識共享，培養更全面的學習能力。",
+          "source_url": "https://github.com/toeverything/AFFiNE",
+          "tags": [
+            "知識庫",
+            "協作工具",
+            "開源"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "學術研究技能包：AI助理助攻研究寫作流程",
+          "core_summary": "這是一個專為Claude Code設計的學術研究技能包，涵蓋從研究、寫作、審查、修訂到定稿的完整流程，旨在利用AI助理提升學術論文的產出效率與品質。",
+          "expert_insight": "教育科技視角: 對於研究生和研究人員而言，此技能包能顯著提升學術研究效率，縮短論文撰寫時程，同時也提出AI在學術倫理與原創性方面的潛在討論點，值得教育界關注。",
+          "source_url": "https://github.com/Imbad0202/academic-research-skills",
+          "tags": [
+            "學術研究",
+            "AI寫作",
+            "教育輔助"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "infra_opensource",
+      "category_display": "🧠 底層架構與開源模型",
+      "items": [
+        {
+          "title": "本地AI新手指南：Inkling、Qwen與Unsloth實作教學",
+          "core_summary": "這篇文章為初學者提供了如何在本地環境運行AI的指南，介紹了Inkling、Qwen和Unsloth等工具和模型，旨在讓更多人能親身體驗並部署自己的AI解決方案。",
+          "expert_insight": "教育科技視角: 這份指南對想學習AI的初學者是極佳資源，降低了進入門檻，讓學生和開發者能在不依賴雲端資源的情況下，動手實作和理解大型語言模型的運作。",
+          "source_url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+          "tags": [
+            "本地AI",
+            "開源模型",
+            "AI學習"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "vLLM Ascend：華為昇騰平台vLLM社群維護硬體外掛",
+          "core_summary": "vLLM-ascend是vLLM在華為昇騰(Ascend)硬體平台上的社群維護外掛，旨在提供vLLM高效推理大型語言模型的能力，並拓展其在非NVIDIA硬體上的應用。",
+          "expert_insight": "金融市場視角: 隨著AI軍備競賽加劇，硬體生態系的多元發展至關重要。vLLM支援華為昇騰，象徵AI算力基礎設施的去中心化趨勢，將影響未來晶片市場的競爭格局。",
+          "source_url": "https://github.com/vllm-project/vllm-ascend",
+          "tags": [
+            "AI硬體",
+            "開源模型",
+            "算力基礎"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "MiniMind：兩小時從零訓練64M大型語言模型",
+          "core_summary": "MiniMind是一個教學專案，讓使用者能在短短兩小時內，從頭開始訓練出一個64M參數的大型語言模型，提供了一個實用的學習路徑，深入理解LLM的訓練過程。",
+          "expert_insight": "教育科技視角: 對於想深入了解大型語言模型內部運作原理的學生與研究者來說，MiniMind提供了一個低門檻、高效率的實作平台，能快速掌握AI模型訓練的核心概念。",
+          "source_url": "https://github.com/jingyaogong/minimind",
+          "tags": [
+            "LLM訓練",
+            "AI教學",
+            "開源專案"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "law_ethics_society",
+      "category_display": "⚖️ 法律倫理與社會衝擊",
+      "items": [
+        {
+          "title": "微軟警示GitHub Copilot CLI釣魚風險，AI代理恐遭操控",
+          "core_summary": "微軟揭露駭客可能利用合法的OAuth裝置驗證碼登入機制，誘騙開發者核准登入GitHub Copilot CLI，進而取得存取權杖，不僅可能導致資料外洩，甚至能遠端操控AI代理執行命令。",
+          "expert_insight": "法律倫理視角: 此類AI輔助工具的資安漏洞，凸顯了AI倫理中「責任歸屬」的複雜性，以及在開發與部署AI工具時，對使用者數據安全與隱私保護的法律義務。",
+          "source_url": "https://www.ithome.com.tw/news/180676",
+          "tags": [
+            "AI資安",
+            "數據倫理",
+            "法律規範"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Anthropic能源揭露：2028年87%電力來自天然氣，11%來自煤炭",
+          "core_summary": "根據報告，AI巨頭Anthropic預計到2028年，其運算所需的電力將有高達87%來自天然氣，另有11%來自燃煤，引發對大型語言模型碳足跡與環境影響的關注。",
+          "expert_insight": "法律倫理視角: AI產業的快速發展帶來巨大的能源消耗，這份數據凸顯AI技術的環境永續性挑戰，促使政府與企業應加速制定綠色AI政策與能源轉型策略，以符合ESG標準。",
+          "source_url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+          "tags": [
+            "AI倫理",
+            "環境永續",
+            "能源消耗"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "意識AI的神話：探討人工智慧意識的哲學與科學邊界",
+          "core_summary": "這篇文章深入探討了關於人工智慧是否可能具備「意識」的哲學與科學辯論，剖析了相關神話與現實之間的差異，並挑戰了人類對AI意識的固有想像。",
+          "expert_insight": "法律倫理視角: 關於AI意識的討論不僅是科學議題，更牽涉到AI的權利、責任與社會地位等倫理法律層面，對未來AI治理與人機互動的規範將產生深遠影響。",
+          "source_url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+          "tags": [
+            "AI哲學",
+            "AI倫理",
+            "社會衝擊"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    }
+  ],
+  "anomalies": {
+    "skipped_sources": [],
+    "notes": ""
+  }
+}
