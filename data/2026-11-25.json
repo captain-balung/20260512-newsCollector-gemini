@@ -1,0 +1,277 @@
+{
+  "date": "2026-11-25",
+  "generated_at": "2026-11-25T09:10:37+08:00",
+  "model_version": "gemini-2.5-flash",
+  "dashboard": {
+    "QQQ": "+nan%",
+    "GOOGL": "+nan%",
+    "AAPL": "+nan%",
+    "MSFT": "+nan%",
+    "NVDA": "+nan%",
+    "META": "+nan%"
+  },
+  "sections": [
+    {
+      "category_id": "giants_market",
+      "category_display": "🏢 巨頭動向與市場脈動",
+      "items": [
+        {
+          "title": "資安界巨額聯姻！CrowdStrike斥資439億美元併購Zscaler",
+          "core_summary": "資安巨頭CrowdStrike宣布將以439億美元全股票交易併購雲端安全公司Zscaler，創下資安產業史上最大的併購案紀錄。此舉將大幅擴展CrowdStrike的網路安全服務範疇，並強化其在雲端資安市場的領導地位。",
+          "expert_insight": "從金融市場角度看，這樁巨額併購不僅彰顯資安產業的整合趨勢與市場高估值，更預示未來企業級資安解決方案將走向更全面、整合的平台模式，投資人應關注兩公司整合後的綜效與市場版圖變化。",
+          "source_url": "https://www.ithome.com.tw/news/180740",
+          "tags": [
+            "資安併購",
+            "市場整合",
+            "金融交易"
+          ],
+          "priority": "high"
+        },
+        {
+          "title": "亞馬遜收購AI運算技術團隊，強化自研晶片效能",
+          "core_summary": "Amazon宣布收購以色列新創Decart AI的運算最佳化技術，並延攬其核心研發團隊。此舉旨在提升亞馬遜自研AI晶片的效能，進而降低AI模型訓練及推論的成本。",
+          "expert_insight": "這反映出巨頭在AI晶片軍備競賽中，對底層運算效率的高度重視。從金融市場角度，收購關鍵技術和人才，有助於亞馬遜降低雲端AI服務成本，提升競爭力，對其AWS業務的長期盈利能力是正面訊號。",
+          "source_url": "https://www.ithome.com.tw/news/180751",
+          "tags": [
+            "Amazon",
+            "AI晶片",
+            "技術併購"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Google Gemini AI攜手NBA勇士隊，革新球迷體驗與商業營運",
+          "core_summary": "Google的Gemini AI與NBA金州勇士隊、Valkyries隊及大通中心達成合作，將利用AI技術優化球迷互動體驗及提升場館營運效率。此舉將AI應用從核心技術層面拓展至體育娛樂產業的商業實踐。",
+          "expert_insight": "從媒體設計角度，這代表AI在客製化內容與互動體驗上將扮演關鍵角色，能創造更沉浸且個人化的球迷參與模式。從金融市場角度，此合作展現AI在傳統產業中的商業變現潛力，開啟體育產業的數位轉型新商機。",
+          "source_url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
+          "tags": [
+            "Google Gemini",
+            "體育科技",
+            "AI應用"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "dev_tools_agents",
+      "category_display": "🛠️ 開發者工具與 AI 代理",
+      "items": [
+        {
+          "title": "Anthropic推出Claude Ship，AI將全面接管程式碼審查與交付",
+          "core_summary": "Anthropic發布Claude Ship，將AI自動化能力從程式碼撰寫擴展至軟體交付流程，讓AI能自動審查、修正程式碼，並依據企業政策核准變更。此舉旨在解決AI生成程式碼後，人工審查可能成為開發瓶頸的問題。",
+          "expert_insight": "對於開發者而言，這是一項提升效率的革命性工具，能大幅縮短軟體開發週期。從教育科技角度，這也意味著未來程式設計教育需更著重AI協作、程式碼品質與安全規範，而非僅限於基礎語法教學。",
+          "source_url": "https://www.ithome.com.tw/news/180741",
+          "tags": [
+            "AI開發工具",
+            "程式碼審查",
+            "軟體工程"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "開源AI程式碼代理「OpenCode」崛起，助力開發者提升效率",
+          "core_summary": "anomalyco團隊推出開源AI程式碼代理「OpenCode」，旨在為開發者提供智能化的輔助，實現程式碼的自動生成、優化與協作。此專案代表了開源社區在AI開發工具領域的最新探索與進展。",
+          "expert_insight": "從教育科技視角，這類開源AI代理能降低學習門檻，讓學生更容易接觸AI輔助開發，加速實作與創新。對媒體設計而言，其底層技術的普及也可能催生更多以AI生成內容為核心的設計工具，改變創作流程。",
+          "source_url": "https://github.com/anomalyco/opencode",
+          "tags": [
+            "開源AI",
+            "程式碼代理",
+            "開發工具"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "輕量級AI代理「Mini-SWE-agent」：百行程式碼解決GitHub問題",
+          "core_summary": "Mini-SWE-agent是一個僅百行程式碼的AI代理，能高效解決GitHub上的程式碼問題，並在命令列提供協助。儘管體積小巧，卻在SWE-bench測試中取得超過74%的驗證分數，展現出色的問題解決能力。",
+          "expert_insight": "這款高效且輕量的AI工具，將大幅提升開發者處理技術問題的效率，特別是對於中小型專案或個人開發者而言，是極具價值的生產力工具。在教育科技領域，它也可用於教學範例，幫助學生理解AI代理的實作與應用。",
+          "source_url": "https://github.com/SWE-agent/mini-swe-agent",
+          "tags": [
+            "AI代理",
+            "開源工具",
+            "程式開發"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "generative_media",
+      "category_display": "🎵 生成式多媒體與創作",
+      "items": [
+        {
+          "title": "Google Flow助印度獨立影人，AI加速大螢幕故事創作",
+          "core_summary": "Google Flow技術正賦能印度獨立電影製作人，讓他們能夠更快速、有效地將大螢幕故事搬上檯面。這項技術透過AI支援的工具，簡化了影像創作流程，為新興電影人才帶來更多機會。",
+          "expert_insight": "從媒體設計角度，Google Flow的應用預示著AI將成為內容創作的普惠工具，降低專業製作門檻。這將改變傳統影視產業的製作流程，使更多元的故事和聲音得以被看見，對於全球媒體內容的豐富性具有深遠影響。",
+          "source_url": "https://blog.google/innovation-and-ai/models-and-research/google-labs/women-in-film-india-google-flow/",
+          "tags": [
+            "AI影像創作",
+            "媒體設計",
+            "獨立電影"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "音樂串流平台Tidal宣布禁止AI生成音樂內容",
+          "core_summary": "知名音樂串流服務Tidal正式宣布禁止其平台上架完全由AI生成的音樂內容。此舉回應了近期業界對於AI音樂版權、原創性及藝術家權益的激烈討論，標誌著音樂產業對AI內容規範化的重要一步。",
+          "expert_insight": "從媒體設計與金融市場視角看，這項禁令將引導內容創作者更注重AI的「輔助性」而非「替代性」，同時也提醒投資者需關注AI對版權及藝術市場的深遠影響，確保創作者價值得以維護，避免市場惡性競爭。",
+          "source_url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+          "tags": [
+            "AI音樂",
+            "版權爭議",
+            "媒體規範"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "AutoClip：開源AI影片剪輯工具，一鍵將長影片轉製短內容",
+          "core_summary": "AutoClip是一款開源AI影片剪輯桌面工具，能將播客、訪談、課程等長影片自動剪輯成符合抖音、TikTok、YouTube Shorts等平台格式的短影片。它還能自動生成字幕、封面及發布文案，大幅提升內容創作者的效率。",
+          "expert_insight": "從媒體設計角度，AutoClip的出現將徹底改變短影音內容的生產流程，讓個人創作者也能快速產出高品質內容。這降低了專業剪輯的門檻，使得AI成為內容再利用和多平台發布的關鍵助力，有利於知識傳播與品牌曝光。",
+          "source_url": "https://github.com/zhouxiaoka/autoclip",
+          "tags": [
+            "AI影片剪輯",
+            "開源工具",
+            "內容創作"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "edtech_applications",
+      "category_display": "📚 教育科技與應用創新",
+      "items": [
+        {
+          "title": "Claude Code學術研究技能包：AI輔助研究、寫作與修訂",
+          "core_summary": "一款專為Claude Code設計的學術研究技能包，涵蓋從研究、寫作、審閱到修訂與定稿的全流程。它讓AI能深度參與學術論文的生成與優化，提升研究效率與品質。",
+          "expert_insight": "從教育科技視角，這項工具徹底革新了學術研究的教學與實踐方式，學生和研究人員能借助AI進行更高效的文獻探索和草稿撰寫。這也促使教育機構重新思考批判性思維、數據驗證及學術倫理在AI時代的重要性。",
+          "source_url": "https://github.com/Imbad0202/academic-research-skills",
+          "tags": [
+            "教育科技",
+            "AI學術寫作",
+            "研究工具"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Edgeever：AI原生筆記應用，打造智能知識庫與全平台同步",
+          "core_summary": "Edgeever是一款AI原生筆記應用，旨在成為Evernote和Obsidian的開源替代品。它提供豐富的筆記功能，如表格、心智圖、圖表及海報，並支援所有平台即時同步、網頁剪輯器等，且100%免費部署於Cloudflare或Docker。",
+          "expert_insight": "從教育科技角度，這款AI原生筆記工具能幫助學生和專業人士更高效地組織、管理知識，甚至可能透過AI功能進行內容摘要或關聯推薦。其開源與免費特性，使其具備廣泛的推廣潛力，加速數位學習與知識管理的普及。",
+          "source_url": "https://github.com/tianma-if/edgeever",
+          "tags": [
+            "AI筆記",
+            "知識管理",
+            "開源應用"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Google發起「人類首考」，以544個提示評估LLM可靠性",
+          "core_summary": "Google推出「人類首考」（Humanity's First Exam），透過544個不同提示來全面測試大型語言模型（LLM）的可靠性。這項開創性測試旨在深入了解LLM在複雜情境下的表現極限。",
+          "expert_insight": "從教育科技角度，這項測試為評估AI模型的「理解」與「推理」能力提供了新的框架，對於未來設計AI輔助教學系統至關重要。同時，也促使我們反思AI在教育場景中，哪些能力是可信賴的，哪些仍需人類監督。",
+          "source_url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/humanitys-first-exam/",
+          "tags": [
+            "LLM評估",
+            "AI可靠性",
+            "教育研究"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "infra_opensource",
+      "category_display": "🧠 底層架構與開源模型",
+      "items": [
+        {
+          "title": "思科攜手OpenAI，開源Shirudo強化AI基礎架構防護",
+          "core_summary": "思科與OpenAI聯手推出開源技術Shirudo，運用AI代理人加速基礎架構防護。此技術能在不重啟系統的情況下抵禦攻擊，並在漏洞修補程式釋出前，確保企業系統安全。",
+          "expert_insight": "從金融市場角度，基礎設施的資安韌性是企業營運和數據保護的關鍵，Shirudo的推出為金融機構提供了更先進的即時防禦方案，有助於降低資安風險帶來的潛在損失。對整體AI產業而言，這也標誌著AI模型本身的安全性正受到越來越高的重視。",
+          "source_url": "https://www.ithome.com.tw/news/180742",
+          "tags": [
+            "開源資安",
+            "AI基礎設施",
+            "網路安全"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "GPT-6模型展現內在蛋白質設計能力，突破AI科學應用新里程",
+          "core_summary": "OpenAI宣稱其GPT-6模型展現了內在的蛋白質設計能力，能透過推理和程式碼設計蛋白質結構和序列。實驗室測試顯示，模型設計的蛋白質在五個目標中都顯示出結合的證據，這代表AI在生命科學領域的重大突破。",
+          "expert_insight": "從教育科技視角，這項進展預示著AI將在生命科學研究與教學中扮演更核心角色，學生將有機會利用AI工具探索複雜的生物分子設計。對於金融市場，這可能催生新的生物科技與製藥投資機會，加速新藥開發週期，改變產業生態。",
+          "source_url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+          "tags": [
+            "GPT-6",
+            "AI生命科學",
+            "蛋白質設計"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Minimind：兩小時內從零訓練64M大型語言模型",
+          "core_summary": "Minimind是一個開源專案，旨在讓開發者能在短短兩小時內，從零開始訓練出一個64M參數的大型語言模型（LLM）。這為個人或小型團隊提供了一個高效、可實踐的LLM開發入門途徑。",
+          "expert_insight": "從教育科技角度，Minimind極大地降低了LLM學習與實作的門檻，讓更多學生和研究者能親手體驗模型訓練的整個過程，加速人才培養。對底層架構而言，這也證明了高效模型訓練在普及化方面的潛力。",
+          "source_url": "https://github.com/jingyaogong/minimind",
+          "tags": [
+            "LLM訓練",
+            "開源模型",
+            "AI開發"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "law_ethics_society",
+      "category_display": "⚖️ 法律倫理與社會衝擊",
+      "items": [
+        {
+          "title": "美國FCC擬強化物聯網資安標章，產品認證須三年更新",
+          "core_summary": "美國聯邦通訊委員會（FCC）計劃加強物聯網產品的資安標章管理，要求獲認證產品每三年更新認證，並定期抽查上市產品是否持續符合安全標準。這項新規則草案將配合美國2025年推出的「美國網路安全標章」制度。",
+          "expert_insight": "從金融市場角度，這項法規將提升消費者對物聯網產品的信任度，可能促進市場健康發展，但同時也增加了製造商的合規成本。從教育科技視角，未來的資安教育需納入更多關於物聯網設備生命週期管理與合規性知識。",
+          "source_url": "https://www.ithome.com.tw/news/180738",
+          "tags": [
+            "物聯網資安",
+            "政府監管",
+            "網路安全"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "韓國三星證券客戶個資外洩，8200餘名用戶受影響",
+          "core_summary": "韓國三星證券證實其「客戶之聲」系統遭外部入侵，導致逾8,200名客戶的個資外洩，內容包含姓名、帳戶號碼、地址、聯絡方式及駕照號碼等敏感資訊。該公司已通報相關監管機構並採取阻擋措施。",
+          "expert_insight": "從金融市場角度，這是一起嚴重的資安事件，不僅損害客戶信任，也可能引發大規模金融詐欺風險。金融機構必須持續投入更多資源強化資安防護，並加強緊急應變與客戶溝通機制，以維護市場穩定。",
+          "source_url": "https://www.ithome.com.tw/news/180744",
+          "tags": [
+            "金融資安",
+            "個資外洩",
+            "風險管理"
+          ],
+          "priority": "high"
+        },
+        {
+          "title": "韓國電力公社系統遭駭，152萬人銀行帳號、信用卡資訊外洩",
+          "core_summary": "韓國重要電力基礎設施營運商韓國電力公社（KEPCO）揭露其兩套資訊系統遭駭，導致約152萬名用戶、企業代表及員工的個資外洩。外洩資料除身分與聯絡資訊外，更包含銀行帳號、信用卡卡號及電費帳單等敏感金融資訊。",
+          "expert_insight": "從金融市場角度，此事件不僅對大量個人造成潛在的金融詐騙風險，更凸顯關鍵基礎設施資安的脆弱性。政府與企業應將網路韌性視為國家安全層級的戰略重點，全面升級防禦機制，以保護國民財產與社會穩定。",
+          "source_url": "https://www.ithome.com.tw/news/180753",
+          "tags": [
+            "關鍵基礎設施",
+            "個資外洩",
+            "金融風險"
+          ],
+          "priority": "high"
+        }
+      ],
+      "fallback_note": ""
+    }
+  ],
+  "anomalies": {
+    "skipped_sources": [],
+    "notes": ""
+  }
+}
