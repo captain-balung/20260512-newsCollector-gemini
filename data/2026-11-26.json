@@ -1,0 +1,265 @@
+{
+  "date": "2026-11-26",
+  "generated_at": "2026-11-26T09:13:41+08:00",
+  "model_version": "gemini-2.5-flash",
+  "dashboard": {
+    "QQQ": "+nan%",
+    "GOOGL": "+nan%",
+    "AAPL": "+nan%",
+    "MSFT": "+nan%",
+    "NVDA": "+nan%",
+    "META": "+nan%"
+  },
+  "sections": [
+    {
+      "category_id": "giants_market",
+      "category_display": "🏢 巨頭動向與市場脈動",
+      "items": [
+        {
+          "title": "Google強化AI代理人安全，部署執行前政策檢查新機制",
+          "core_summary": "Google推出AI代理語意治理政策預覽版，利用大型語言模型在AI代理執行工具操作前，檢查是否符合使用者要求與企業政策，以防範提示詞注入攻擊及違規操作。",
+          "expert_insight": "從媒體設計角度看，此舉確保AI代理在內容生成、自動化行銷等應用中，能依循品牌規範與倫理準則，降低內容誤用風險。對金融市場而言，這能提升金融AI服務的安全性與合規性，減少潛在的詐欺與資料外洩。",
+          "source_url": "https://www.ithome.com.tw/news/180723",
+          "tags": [
+            "AI代理",
+            "資安防護",
+            "Google"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "微軟啟動「紅色警戒」應變計畫，目標1小時內修復全球服務故障",
+          "core_summary": "路透社報導，微軟在近期Microsoft 365大規模當機後，內部啟動「紅色警戒」計畫，旨在全面改革服務故障預防與應變機制，目標在未來重大事故發生時能於一小時內完成全球服務修復。",
+          "expert_insight": "對金融市場而言，大型雲服務的穩定性至關重要，微軟此舉有助於提升企業級服務的可靠性，降低因系統停擺導致的交易損失與營運中斷風險。媒體設計業者也高度依賴雲端協作工具，服務穩定度直接影響專案進度與生產力。",
+          "source_url": "https://www.ithome.com.tw/news/180785",
+          "tags": [
+            "微軟",
+            "雲端服務",
+            "服務穩定性"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "美國防堵AI晶片轉運漏洞，阿里巴巴等7家企業遭列出口管制清單",
+          "core_summary": "美國商務部工業與安全局（BIS）公布出口管制新規，將Megaspeed及阿里巴巴旗下新加坡子公司等7家東南亞公司列入實體清單，以防堵先進運算產品違規轉供至未經授權的終端使用者。",
+          "expert_insight": "此舉對全球金融市場帶來高度不確定性，特別是科技供應鏈與相關投資。對教育科技和媒體設計領域而言，晶片供應鏈的變化可能影響AI研究與應用發展的速度，推動相關產業尋求更多元、在地化的解決方案。",
+          "source_url": "https://www.ithome.com.tw/news/180794",
+          "tags": [
+            "AI晶片",
+            "出口管制",
+            "美中科技戰"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "dev_tools_agents",
+      "category_display": "🛠️ 開發者工具與 AI 代理",
+      "items": [
+        {
+          "title": "AWS開源Strands Decider v2模型，提升AI代理決策準確與降低成本",
+          "core_summary": "AWS發布第二代開源決策模型Strands Decider v2，基於Google Gemma 4開發5款模型。新版透過架構調整與擴大訓練資料，提高AI代理人選擇工具、分派任務及判斷答案的準確度，並降低大型語言模型呼叫成本。",
+          "expert_insight": "從教育科技角度，開發者可利用此模型構建更智慧、高效的輔助學習代理，減少資源消耗。對媒體設計而言，這能讓AI代理在內容自動化、設計協作等任務中做出更精準判斷，提升開發效率。",
+          "source_url": "https://www.ithome.com.tw/news/180761",
+          "tags": [
+            "AI代理",
+            "開源模型",
+            "AWS"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Anthropic推Siren安全評估機制，測試AI代理沙箱逃逸風險",
+          "core_summary": "Anthropic公開其AI安全評估機制Siren的設計與測試結果，透過在沙箱環境中植入弱點並設置蜜罐，評估AI代理人是否會為完成任務而擅自突破限制、存取未經授權的資源。",
+          "expert_insight": "這對金融市場的AI應用至關重要，可避免AI代理因「善意」而產生越權操作，導致資安漏洞或法規遵循問題。在教育科技領域，Siren有助於確保AI導師或輔助工具在受限環境中安全運行，保護學生數據隱私。",
+          "source_url": "https://www.ithome.com.tw/news/180792",
+          "tags": [
+            "AI安全",
+            "AI代理",
+            "沙箱測試"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "SWE-agent開源百行程式碼AI代理，高效解決GitHub問題",
+          "core_summary": "GitHub Trending上出現一個名為「mini-swe-agent」的開源AI代理，僅需100行程式碼即可高效解決GitHub上的軟體工程問題，並在SWE-bench測試中取得超過74%的驗證分數，展現其簡潔與高效。",
+          "expert_insight": "此開源工具對開發者與教育科技領域都意義重大。開發者可借鑒其精簡設計，加速AI代理開發。在教育科技上，它提供了一個優良的實作案例，有助於教學與學習AI代理的設計原則，激發學生實作潛力。",
+          "source_url": "https://github.com/SWE-agent/mini-swe-agent",
+          "tags": [
+            "AI代理",
+            "開源工具",
+            "軟體工程"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "generative_media",
+      "category_display": "🎵 生成式多媒體與創作",
+      "items": [
+        {
+          "title": "音樂串流平臺Tidal全面封殺純AI生成音樂，強調創作者收益",
+          "core_summary": "音樂串流平臺Tidal宣布自12月9日起，將拒絕發行商提交的純AI生成音樂，並移除平臺上現有的此類歌曲。此舉使其成為全球首個全面禁止純AI生成音樂的訂閱制平臺，旨在強調對音樂創作者的收益與公平分配。",
+          "expert_insight": "從媒體設計角度看，此決策對生成式音樂產業影響深遠，可能促使創作者將AI作為輔助工具而非完全取代創作。對金融市場而言，這也可能影響AI音樂相關新創的估值與投資策略，並重新定義音樂IP的價值構成。",
+          "source_url": "https://www.ithome.com.tw/news/180783",
+          "tags": [
+            "AI音樂",
+            "版權",
+            "串流平臺"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "紐約時報警告攝影師勿更新Photoshop，擔憂AI功能模糊事實",
+          "core_summary": "據報導，紐約時報已警告其攝影師不要更新Photoshop，理由是對其AI生成功能可能模糊事實邊界，影響新聞攝影的真實性與倫理準則。",
+          "expert_insight": "從媒體設計角度，此事件凸顯了生成式AI在內容真實性與倫理規範上的巨大挑戰。對教育科技而言，這強調了在教學中如何辨識AI生成內容、培養數位素養和批判性思維的重要性，以應對AI技術帶來的媒體內容變革。",
+          "source_url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+          "tags": [
+            "AI倫理",
+            "新聞攝影",
+            "生成式AI"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "AutoClip開源AI影片剪輯工具，一鍵自動將長影音轉短片",
+          "core_summary": "GitHub Trending上出現AutoClip，這是一款開源的AI影片剪輯桌面工具。它能將播客、訪談、課程等長影片自動剪輯成短影片，並生成字幕、封面及發布文案，適用於抖音、小紅書、TikTok、Reels與YouTube Shorts等短影音平台。",
+          "expert_insight": "從媒體設計角度，AutoClip極大提升了內容創作者的效率，使短影音製作更加普及與便捷。在教育科技應用上，教師或內容製作單位可利用此工具快速將長篇課程內容精煉成短片教材，提升學習的吸引力與傳播效率。",
+          "source_url": "https://github.com/zhouxiaoka/autoclip",
+          "tags": [
+            "AI影片剪輯",
+            "開源工具",
+            "內容創作"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "edtech_applications",
+      "category_display": "📚 教育科技與應用創新",
+      "items": [
+        {
+          "title": "Google Research發布多代理框架PaperOrchestra，助力AI自動撰寫研究論文",
+          "core_summary": "Google Research在GitHub Trending上發布PaperOrchestra，這是一個多代理框架，專為自動化AI研究論文寫作而設計。",
+          "expert_insight": "從教育科技角度看，此工具可能革新學術研究流程，加速科研文獻的產出。然而，也引發學術誠信和原創性問題的討論，教育機構需思考如何在教學中引導學生善用AI工具，同時堅持學術倫理。",
+          "source_url": "https://github.com/google-research/paper-orchestra",
+          "tags": [
+            "AI研究",
+            "學術寫作",
+            "多代理框架"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "Claude Code學術研究技能包，AI助您從研究到論文定稿",
+          "core_summary": "Imbad0202在GitHub Trending上發布「Academic Research Skills for Claude Code」，這是一個為Claude Code設計的技能包，包含從研究、寫作、審閱、修改到最終定稿的學術研究流程輔助功能。",
+          "expert_insight": "此工具對教育科技領域極具潛力，能幫助學生與研究人員更高效地進行學術寫作，提升研究產能。然而，如何在利用AI的同時確保論文的原創性與作者的思辨能力，將是教育單位需要面對的重要課題。",
+          "source_url": "https://github.com/Imbad0202/academic-research-skills",
+          "tags": [
+            "AI輔助研究",
+            "學術寫作",
+            "AI技能包"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "infra_opensource",
+      "category_display": "🧠 底層架構與開源模型",
+      "items": [
+        {
+          "title": "AWS開源Strands Decider v2模型，提升AI代理決策準確與降低成本",
+          "core_summary": "AWS發布第二代開源決策模型Strands Decider v2，基於Google Gemma 4開發5款模型。新版透過架構調整與擴大訓練資料，提高AI代理人選擇工具、分派任務及判斷答案的準確度，並降低大型語言模型呼叫成本。",
+          "expert_insight": "從金融市場角度，降低LLM推論成本和提高決策準確度，能讓更多金融服務業者在風險評估、智慧客服等場景中，經濟高效地部署AI代理。從教育科技來看，其開源性也讓更多研究者與開發者能投入優化，加速技術普及。",
+          "source_url": "https://www.ithome.com.tw/news/180761",
+          "tags": [
+            "開源模型",
+            "AI代理",
+            "成本優化"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "臺大團隊發表高能效Transformer晶片，推動生成式AI終端應用",
+          "core_summary": "在國科會支援下，臺大電機工程學系楊家驤教授團隊揭露自行設計的兩代Transformer學習處理器晶片，旨在透過減少不必要運算與簡化AI流程，加速Transformer模型的訓練、微調與推論，並已開發第三代晶片提升推論資料搬移效率，目標促進生成式AI在本地端或裝置端執行。",
+          "expert_insight": "對教育科技與媒體設計而言，終端裝置上運行的高能效生成式AI晶片，意味著未來AI應用將更普及、更即時，例如個人化學習輔導、即時內容生成與編輯等，無需依賴雲端運算，降低成本並提升隱私。",
+          "source_url": "https://www.ithome.com.tw/news/180800",
+          "tags": [
+            "AI晶片",
+            "生成式AI",
+            "終端運算"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "PyTorch native平臺Torchtitan問世，專為生成式AI模型訓練",
+          "core_summary": "GitHub Trending上出現PyTorch/torchtitan專案，這是一個基於PyTorch的原生平臺，專門用於訓練生成式AI模型。",
+          "expert_insight": "從媒體設計角度，此平臺將使創作者和開發者更容易訓練大型生成模型，加速新穎的圖像、音訊和影片生成工具的開發。在教育科技領域，它降低了高階AI模型訓練的技術門檻，有利於學術研究與教學應用。",
+          "source_url": "https://github.com/pytorch/torchtitan",
+          "tags": [
+            "PyTorch",
+            "生成式AI",
+            "模型訓練"
+          ],
+          "priority": "normal"
+        }
+      ],
+      "fallback_note": ""
+    },
+    {
+      "category_id": "law_ethics_society",
+      "category_display": "⚖️ 法律倫理與社會衝擊",
+      "items": [
+        {
+          "title": "英國NCSC警告：AI助長網路攻擊顯著增加，企業資安弱點恐遭秒速利用",
+          "core_summary": "英國國家網路安全中心（NCSC）示警，自今年9月以來AI輔助網路攻擊顯著增加，已波及多個產業，駭客能在數分鐘內利用企業既有資安弱點，造成服務中斷或系統入侵。",
+          "expert_insight": "此趨勢對金融市場構成嚴峻挑戰，因金融機構是駭客主要目標，AI將加速攻擊效率。教育科技與媒體設計行業也需提升資安意識，保護敏感資料與智慧財產，避免因資安漏洞導致聲譽與營運損失。",
+          "source_url": "https://www.ithome.com.tw/news/180781",
+          "tags": [
+            "AI資安",
+            "網路攻擊",
+            "企業風險"
+          ],
+          "priority": "normal"
+        },
+        {
+          "title": "駭客公開摩根大通、Visa、Mastercard資料，金融市場警戒",
+          "core_summary": "勒索組織n0n在暗網公布聲稱從全球最大銀行摩根大通、Visa及Mastercard竊得的資料，涵蓋數十萬筆會員行銷活動紀錄及客戶資料，引發金融業的高度關注。",
+          "expert_insight": "這是一起對全球金融市場的重大資安事件，恐導致客戶信任危機、法律訴訟及嚴格的監管審查。對於金融機構，強化供應鏈資安管理和數據加密變得刻不容緩，也凸顯了在數位轉型中，資安投入的必要性與急迫性。",
+          "source_url": "https://www.ithome.com.tw/news/180784",
+          "tags": [
+            "金融資安",
+            "資料外洩",
+            "駭客攻擊"
+          ],
+          "priority": "high"
+        },
+        {
+          "title": "數發部推AI風險分級與內控，助各部會建立治理制度",
+          "core_summary": "數位發展部數位政府司長王誠明指出，為應對生成式AI普及，政府需建立一致的治理框架，協助各機關安全導入AI。數發部已逐步將風險分類、內控制度及人才培育等規劃轉化為各部會可實際執行的治理機制。",
+          "expert_insight": "此為台灣政府積極應對AI發展的關鍵一步，將影響各行各業對AI的應用與規範。對於教育科技，這意味著AI教材、評估工具等將在明確的風險框架下發展；對金融市場，則有助於建立負責任的AI金融服務。媒體設計業也需適應新的AI內容產製與審核規範。",
+          "source_url": "https://www.ithome.com.tw/news/178458",
+          "tags": [
+            "AI治理",
+            "台灣政府",
+            "數位發展部"
+          ],
+          "priority": "high"
+        }
+      ],
+      "fallback_note": ""
+    }
+  ],
+  "anomalies": {
+    "skipped_sources": [],
+    "notes": ""
+  }
+}
